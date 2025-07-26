@@ -64,7 +64,7 @@ class ModelRankingSensitivityAnalyzer:
         self.data_path = data_path
         
         # Create output directories
-        self.output_dir = 'ranking_sensitivity_analysis'
+        self.output_dir = 'ranking_sensitivity_analysis_2'
         self.results_dir = os.path.join(self.output_dir, 'results')
         self.plots_dir = os.path.join(self.output_dir, 'plots')
         
