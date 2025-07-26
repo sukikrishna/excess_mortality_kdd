@@ -1,0 +1,11 @@
+seed1,seed2,seeding_approach,val_rmse
+321,123,layer_specific_different,346.25603646902516
+321,400,layer_specific_different,352.9759408765712
+321,300,layer_specific_different,353.7966762597107
+321,42,layer_specific_different,354.5007512508272
+321,100,layer_specific_different,358.4502305589634
+321,789,layer_specific_different,358.7541942222585
+321,321,layer_specific_same,363.79725770604193
+321,500,layer_specific_different,372.6660122288029
+321,456,layer_specific_different,374.8532666062531
+456,100,layer_specific_different,385.910558365819

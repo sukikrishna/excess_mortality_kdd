@@ -1,0 +1,802 @@
+{
+  "5_1": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 86.64926767349243
+  },
+  "5_2": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 168.58602118492126
+  },
+  "5_3": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 249.77110505104065
+  },
+  "5_4": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 331.59592461586
+  },
+  "5_5": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 412.8593497276306
+  },
+  "5_6": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 494.5813376903534
+  },
+  "5_7": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 576.7758014202118
+  },
+  "5_8": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 659.0558457374573
+  },
+  "5_9": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 741.0826332569122
+  },
+  "5_10": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 823.3458952903748
+  },
+  "10_1": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 168.53347063064575
+  },
+  "10_2": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 331.5695071220398
+  },
+  "10_3": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 494.1875445842743
+  },
+  "10_4": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 657.211473941803
+  },
+  "10_5": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 820.9445559978485
+  },
+  "10_6": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 985.0399174690247
+  },
+  "10_7": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 1148.7595477104187
+  },
+  "10_8": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 1313.0697619915009
+  },
+  "10_9": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 1476.9099190235138
+  },
+  "10_10": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 1641.0404736995697
+  },
+  "15_1": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 250.23972868919373
+  },
+  "15_2": {
+    "spearman_correlation": 0.8571428571428573,
+    "spearman_p_value": 0.01369732661532562,
+    "kendall_correlation": 0.7142857142857143,
+    "kendall_p_value": 0.03015873015873016,
+    "num_models_compared": 7,
+    "total_compute_time": 494.4412808418274
+  },
+  "15_3": {
+    "spearman_correlation": 0.8928571428571429,
+    "spearman_p_value": 0.006807187408935392,
+    "kendall_correlation": 0.8095238095238096,
+    "kendall_p_value": 0.010714285714285714,
+    "num_models_compared": 7,
+    "total_compute_time": 738.2282254695892
+  },
+  "15_4": {
+    "spearman_correlation": 0.8928571428571429,
+    "spearman_p_value": 0.006807187408935392,
+    "kendall_correlation": 0.8095238095238096,
+    "kendall_p_value": 0.010714285714285714,
+    "num_models_compared": 7,
+    "total_compute_time": 983.4176030158997
+  },
+  "15_5": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 1228.3940370082855
+  },
+  "15_6": {
+    "spearman_correlation": 0.8928571428571429,
+    "spearman_p_value": 0.006807187408935392,
+    "kendall_correlation": 0.8095238095238096,
+    "kendall_p_value": 0.010714285714285714,
+    "num_models_compared": 7,
+    "total_compute_time": 1474.2264802455902
+  },
+  "15_7": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 1720.092232465744
+  },
+  "15_8": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 1966.2760031223297
+  },
+  "15_9": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 2212.2079858779907
+  },
+  "15_10": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 2457.99258184433
+  },
+  "20_1": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 331.8695595264435
+  },
+  "20_2": {
+    "spearman_correlation": 0.8928571428571429,
+    "spearman_p_value": 0.006807187408935392,
+    "kendall_correlation": 0.8095238095238096,
+    "kendall_p_value": 0.010714285714285714,
+    "num_models_compared": 7,
+    "total_compute_time": 657.7514071464539
+  },
+  "20_3": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 983.2927598953247
+  },
+  "20_4": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 1309.8436181545258
+  },
+  "20_5": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 1636.752314567566
+  },
+  "20_6": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 1965.0973045825958
+  },
+  "20_7": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 2292.4441192150116
+  },
+  "20_8": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 2619.8962626457214
+  },
+  "20_9": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 2947.8141021728516
+  },
+  "20_10": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 3275.1430757045746
+  },
+  "25_1": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 413.3202953338623
+  },
+  "25_2": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 820.7926456928253
+  },
+  "25_3": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 1227.4957706928253
+  },
+  "25_4": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 1635.4827976226807
+  },
+  "25_5": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 2044.3565938472748
+  },
+  "25_6": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 2453.8414628505707
+  },
+  "25_7": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 2862.358773946762
+  },
+  "25_8": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 3272.3929612636566
+  },
+  "25_9": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 3683.1552402973175
+  },
+  "25_10": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 4092.7329149246216
+  },
+  "30_1": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 495.0335011482239
+  },
+  "30_2": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 984.5331380367279
+  },
+  "30_3": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 1473.485268831253
+  },
+  "30_4": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 1963.493721485138
+  },
+  "30_5": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 2454.2755649089813
+  },
+  "30_6": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 2945.124762058258
+  },
+  "30_7": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 3436.0804183483124
+  },
+  "30_8": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 3928.224942922592
+  },
+  "30_9": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 4421.445368528366
+  },
+  "30_10": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 4913.606344461441
+  },
+  "35_1": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 576.2331910133362
+  },
+  "35_2": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 1147.5075995922089
+  },
+  "35_3": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 1718.1764056682587
+  },
+  "35_4": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 2289.582959651947
+  },
+  "35_5": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 2862.2416429519653
+  },
+  "35_6": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 3434.922626018524
+  },
+  "35_7": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 4007.230670452118
+  },
+  "35_8": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 4580.880858659744
+  },
+  "35_9": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 5155.40850019455
+  },
+  "35_10": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 5729.200019598007
+  },
+  "40_1": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 658.2148745059967
+  },
+  "40_2": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 1310.5209155082703
+  },
+  "40_3": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 1962.6106128692627
+  },
+  "40_4": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 2615.2232706546783
+  },
+  "40_5": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 3269.9661498069763
+  },
+  "40_6": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 3923.941254377365
+  },
+  "40_7": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 4578.894914388657
+  },
+  "40_8": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 5235.194024801254
+  },
+  "40_9": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 5892.384708881378
+  },
+  "40_10": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 6548.741094350815
+  },
+  "45_1": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 740.1380002498627
+  },
+  "45_2": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 1474.2081801891327
+  },
+  "45_3": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 2207.510582447052
+  },
+  "45_4": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 2942.274370908737
+  },
+  "45_5": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 3678.5072524547577
+  },
+  "45_6": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 4413.973682403564
+  },
+  "45_7": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 5150.591020584106
+  },
+  "45_8": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 5888.280422925949
+  },
+  "45_9": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 6626.6604771614075
+  },
+  "45_10": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 7364.661120891571
+  },
+  "50_1": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 820.928014755249
+  },
+  "50_2": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 1636.6029722690582
+  },
+  "50_3": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 2451.4934372901917
+  },
+  "50_4": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 3268.451087474823
+  },
+  "50_5": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 4086.376457452774
+  },
+  "50_6": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 4904.602588891983
+  },
+  "50_7": {
+    "spearman_correlation": 0.9642857142857145,
+    "spearman_p_value": 0.0004541491691941689,
+    "kendall_correlation": 0.9047619047619049,
+    "kendall_p_value": 0.002777777777777778,
+    "num_models_compared": 7,
+    "total_compute_time": 5722.737010955811
+  },
+  "50_8": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 6542.151062965393
+  },
+  "50_9": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 7362.471841096878
+  },
+  "50_10": {
+    "spearman_correlation": 1.0,
+    "spearman_p_value": 0.0,
+    "kendall_correlation": 1.0,
+    "kendall_p_value": 0.0003968253968253968,
+    "num_models_compared": 7,
+    "total_compute_time": 8181.919999599457
+  }
+}

@@ -1,0 +1,43 @@
+
+RANKING SENSITIVITY ANALYSIS SUMMARY REPORT
+==========================================
+
+Analysis Configuration:
+- Model configurations tested: 7
+- Models: lstm_small, lstm_medium, lstm_large, tcn_small, tcn_medium, sarima_1, sarima_2
+- Stability threshold: 0.9 (Spearman correlation)
+- Reference: 50 trials, 10 seeds
+
+Key Findings:
+
+✓ OPTIMAL CONFIGURATION FOUND:
+  - Trials: 5
+  - Seeds: 1
+  - Ranking stability: 0.964
+  - Compute time: 86.6 seconds
+  - Efficiency score: 0.011129
+
+✓ MINIMUM REQUIREMENTS:
+  - Minimum trials for stability: 5
+  - Minimum seeds for stability: 1
+  - Total stable configurations: 95
+
+Correlation Statistics:
+- Mean correlation: 0.980
+- Standard deviation: 0.028
+- Range: 0.857 - 1.000
+- Configurations above threshold: 95/100
+
+Recommendations:
+
+1. Use 5 trials and 1 seeds for hyperparameter search
+2. This configuration provides stable rankings with reasonable computational cost
+3. Model rankings are reliable for selecting best hyperparameters
+4. Can proceed with confidence to full grid search using these parameters
+
+Output Files:
+- Raw results: ranking_sensitivity_analysis/results/all_trial_results.csv
+- Stability results: ranking_sensitivity_analysis/results/stability_results.json
+- Correlation results: ranking_sensitivity_analysis/results/correlation_results.json
+- Summary report: ranking_sensitivity_analysis/results/summary_report.json
+- Plots: ranking_sensitivity_analysis/plots/

@@ -1,0 +1,5 @@
+,test_rmse,test_rmse,test_rmse,test_rmse,test_mae,test_mae,test_mae,test_mae,test_mape,test_mape,test_mape,test_mape,final_loss,final_loss,final_loss,final_loss
+,mean,std,min,max,mean,std,min,max,mean,std,min,max,mean,std,min,max
+strategy,,,,,,,,,,,,,,,,
+independent,3491.7582,405.7855,2828.5617,4585.0541,3397.8638,416.8613,2713.4468,4514.9478,38.1465,4.7931,30.277,50.9907,1346246.3062,261334.997,862203.375,1953873.5
+shared,3499.7387,377.4397,2746.3022,4315.4255,3406.2075,388.0421,2627.5859,4240.8643,38.2424,4.4617,29.2898,47.8393,1367608.2688,347357.2208,775527.125,2176884.0

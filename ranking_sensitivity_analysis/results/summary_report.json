@@ -1,0 +1,44 @@
+{
+  "analysis_summary": {
+    "total_configurations_tested": 7,
+    "model_configurations": [
+      "lstm_small",
+      "lstm_medium",
+      "lstm_large",
+      "tcn_small",
+      "tcn_medium",
+      "sarima_1",
+      "sarima_2"
+    ],
+    "stability_threshold": 0.9,
+    "reference_configuration": "50 trials, 10 seeds"
+  },
+  "stability_analysis": {
+    "min_trials_tested": 5,
+    "max_trials_tested": 50,
+    "min_seeds_tested": 1,
+    "max_seeds_tested": 10,
+    "total_combinations_evaluated": 100
+  },
+  "key_findings": {
+    "optimal_configuration": {
+      "trials": 5,
+      "seeds": 1,
+      "spearman_correlation": 0.9642857142857145,
+      "compute_time_seconds": 86.64926767349243,
+      "efficiency_score": 0.011128607779113486
+    },
+    "minimum_requirements": {
+      "min_trials_for_stability": 5,
+      "min_seeds_for_stability": 1,
+      "total_stable_configurations": 95
+    }
+  },
+  "correlation_statistics": {
+    "mean_correlation": 0.9803571428571429,
+    "std_correlation": 0.027836530835928318,
+    "min_correlation": 0.8571428571428573,
+    "max_correlation": 1.0,
+    "correlations_above_threshold": 95
+  }
+}

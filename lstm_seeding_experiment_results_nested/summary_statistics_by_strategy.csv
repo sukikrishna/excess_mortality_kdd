@@ -1,0 +1,6 @@
+,,val_rmse,val_rmse,val_rmse,val_rmse,val_rmse,val_mae,val_mae,val_mae,val_mae,val_mape,val_mape,val_mape,val_mape,final_loss,final_loss,final_loss,final_loss
+,,mean,std,min,max,count,mean,std,min,max,mean,std,min,max,mean,std,min,max
+strategy,seeding_approach,,,,,,,,,,,,,,,,,
+different_seeds,layer_specific_different,541.8133,150.9341,320.0964,1041.8477,2700,480.2827,146.3664,263.5833,991.4577,7.7347,2.3364,4.3775,16.0518,1699396.0923,341502.5388,1040349.3125,2613203.0
+same_seeds,global_seed,542.957,159.2366,321.0018,994.1073,300,482.4697,156.0716,263.5833,941.1647,7.7719,2.5022,4.4216,15.2229,1696747.974,392831.0154,1004367.125,2635498.25
+same_seeds,layer_specific_same,538.5449,132.4389,321.6426,833.9217,300,476.3204,127.6952,263.5833,770.0436,7.6667,2.031,4.3813,12.4029,1670576.6669,360352.7409,1025783.125,2438937.0
