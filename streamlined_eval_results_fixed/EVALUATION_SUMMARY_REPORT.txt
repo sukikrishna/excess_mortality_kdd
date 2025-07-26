@@ -1,0 +1,79 @@
+FIXED STREAMLINED EVALUATION RESULTS SUMMARY
+============================================================
+Execution Date: 2025-07-24 12:27:21
+Random Seed: 42
+Trials per Model: 30
+
+OPTIMAL HYPERPARAMETERS USED:
+------------------------------
+SARIMA: {'order': (1, 1, 1), 'seasonal_order': (1, 1, 1, 12)}
+LSTM: {'lookback': 12, 'batch_size': 8, 'epochs': 100, 'units': 50, 'dropout': 0.1}
+TCN: {'lookback': 12, 'batch_size': 8, 'epochs': 100, 'filters': 64, 'kernel_size': 3}
+SEQ2SEQ: {'lookback': 12, 'batch_size': 8, 'epochs': 50, 'units': 50}
+TRANSFORMER: {'lookback': 12, 'batch_size': 8, 'epochs': 100, 'd_model': 64, 'num_heads': 4}
+
+GENERATED FILES:
+--------------------
+streamlined_eval_results_fixed/
+  figures/
+    horizon_comparison_horizon_1.png
+    horizon_comparison_horizon_2.png
+    horizon_comparison_horizon_3.png
+    horizon_comparison_horizon_4.png
+    model_comparison_experiment_1.png
+    sarima_vs_lstm_comparison.png
+    sarima_vs_seq2seq_comparison.png
+    sarima_vs_tcn_comparison.png
+    sarima_vs_transformer_comparison.png
+    variance_analysis_across_horizons.png
+  trained_models/
+    lstm_best_model.pkl
+    sarima_best_model.pkl
+    seq2seq_best_model.pkl
+    tcn_best_model.pkl
+    transformer_best_model.pkl
+  experiment_2_variance_analysis/
+    horizon_results.pkl
+    horizon_summary.csv
+  experiment_1_excess_mortality/
+    results.pkl
+    summary_statistics.csv
+  data_exports/
+    experiment_1_prediction_data.csv
+    experiment_1_prediction_data.pkl
+    horizon_prediction_data.pkl
+
+KEY RESULTS:
+---------------
+Experiment 1 - Test Set Performance (2020-2023):
+  SARIMA:
+    RMSE: 1602.66 ± 0.00
+    MAPE: 16.31% ± 0.00%
+    Coverage: 37.5% ± 0.0%
+  LSTM:
+    RMSE: 2520.75 ± 638.08
+    MAPE: 26.70% ± 7.14%
+    Coverage: 22.6% ± 16.7%
+  TCN:
+    RMSE: 1837.46 ± 322.23
+    MAPE: 18.89% ± 3.76%
+    Coverage: 42.9% ± 22.2%
+  SEQ2SEQ:
+    RMSE: 8799.06 ± 1.67
+    MAPE: 99.83% ± 0.02%
+    Coverage: 0.0% ± 0.0%
+  TRANSFORMER:
+    RMSE: 8662.08 ± 1.01
+    MAPE: 98.25% ± 0.01%
+    Coverage: 0.0% ± 0.0%
+
+BEST PERFORMING MODEL: SARIMA
+  Test RMSE: 1602.66
+  Test MAPE: 16.31%
+
+NEXT STEPS:
+---------------
+1. Review figures in the 'figures' folder
+2. Examine CSV files in 'data_exports' for detailed analysis
+3. Use trained models from 'trained_models' for dashboard
+4. Edit figure styling using exported prediction data
