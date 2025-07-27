@@ -1,0 +1,41 @@
+{
+  "last_updated": "2025-07-26T22:16:48.143252",
+  "models_status": {
+    "lstm": {
+      "complete": false,
+      "completed_configs": 181,
+      "expected_configs": 280,
+      "completion_rate": 0.6464285714285715
+    },
+    "sarima": {
+      "complete": true,
+      "completed_configs": 15,
+      "expected_configs": 15,
+      "completion_rate": 1.0
+    },
+    "tcn": {
+      "complete": false,
+      "completed_configs": 224,
+      "expected_configs": 280,
+      "completion_rate": 0.8
+    },
+    "seq2seq": {
+      "complete": false,
+      "completed_configs": 0,
+      "expected_configs": 0,
+      "completion_rate": 0
+    },
+    "seq2seq_attn": {
+      "complete": false,
+      "completed_configs": 72,
+      "expected_configs": 1120,
+      "completion_rate": 0.06428571428571428
+    },
+    "transformer": {
+      "complete": false,
+      "completed_configs": 218,
+      "expected_configs": 1680,
+      "completion_rate": 0.12976190476190477
+    }
+  }
+}

@@ -54,7 +54,7 @@ SARIMA_SEASONAL_ORDERS = [(1, 1, 1, 12), (1, 0, 1, 12), (2, 1, 1, 12)]
 def get_trials_per_config(model_type):
     """Return appropriate number of trials based on model stability"""
     if model_type == 'sarima':
-        return 5  # SARIMA is stable, fewer trials needed
+        return 30  # SARIMA is stable, fewer trials needed
     else:
         return 30  # Neural models need more trials due to randomness
 

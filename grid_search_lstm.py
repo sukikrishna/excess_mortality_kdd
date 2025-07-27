@@ -20,7 +20,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 # ------------------ CONFIGURATION ------------------ #
-MODEL_TYPE = 'seq2seq_attn'  # Options: 'lstm', 'sarima', 'tcn', 'seq2seq', 'seq2seq_attn', 'transformer'
+MODEL_TYPE = 'lstm'
 TRIAL_MODE = 'fixed_seed'  # Options: 'fixed_seed', 'multi_seed'
 SEEDS = [42] if TRIAL_MODE == 'fixed_seed' else [123, 456, 11, 245, 56712, 23467, 98, 38, 1506, 42]
 
@@ -54,7 +54,7 @@ SARIMA_SEASONAL_ORDERS = [(1, 1, 1, 12), (1, 0, 1, 12), (2, 1, 1, 12)]
 def get_trials_per_config(model_type):
     """Return appropriate number of trials based on model stability"""
     if model_type == 'sarima':
-        return 5  # SARIMA is stable, fewer trials needed
+        return 30  # SARIMA is stable, fewer trials needed
     else:
         return 30  # Neural models need more trials due to randomness
 
