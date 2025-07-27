@@ -20,13 +20,13 @@ import warnings
 warnings.filterwarnings("ignore")
 
 # ------------------ CONFIGURATION ------------------ #
-MODEL_TYPE = 'seq2seq_attn'  # Options: 'lstm', 'sarima', 'tcn', 'seq2seq', 'seq2seq_attn', 'transformer'
+MODEL_TYPE = 'seq2seq'  # Options: 'lstm', 'sarima', 'tcn', 'seq2seq', 'seq2seq_attn', 'transformer'
 TRIAL_MODE = 'fixed_seed'  # Options: 'fixed_seed', 'multi_seed'
 SEEDS = [42] if TRIAL_MODE == 'fixed_seed' else [123, 456, 11, 245, 56712, 23467, 98, 38, 1506, 42]
 TRIALS_PER_CONFIG = 30
 
 # Hyperparameter grids
-LOOKBACKS = [3, 5, 7, 9, 11, 12]
+LOOKBACKS = [9, 11, 12]
 BATCH_SIZES = [8, 16, 32]
 EPOCHS_LIST = [50, 100]
 
