@@ -1,0 +1,1478 @@
+2025-07-27 10:33:07,205 - INFO - Progress manager initialized
+2025-07-27 10:33:08,910 - INFO - Created evaluation plan with 100000 tasks
+2025-07-27 10:34:39,734 - INFO - Progress: 10/100000 (0.0%) Rate: 0.1 eval/sec ETA: 15133.8 min
+2025-07-27 10:36:04,574 - INFO - Progress: 20/100000 (0.0%) Rate: 0.1 eval/sec ETA: 14634.7 min
+2025-07-27 10:37:30,828 - INFO - Progress: 30/100000 (0.0%) Rate: 0.1 eval/sec ETA: 14546.0 min
+2025-07-27 10:38:53,553 - INFO - Progress: 40/100000 (0.0%) Rate: 0.1 eval/sec ETA: 14353.9 min
+2025-07-27 10:40:20,328 - INFO - Progress: 50/100000 (0.1%) Rate: 0.1 eval/sec ETA: 14373.0 min
+2025-07-27 10:40:20,358 - INFO - Checkpoint saved: 50 evaluations completed
+2025-07-27 10:41:45,551 - INFO - Progress: 60/100000 (0.1%) Rate: 0.1 eval/sec ETA: 14342.2 min
+2025-07-27 10:43:09,674 - INFO - Progress: 70/100000 (0.1%) Rate: 0.1 eval/sec ETA: 14293.6 min
+2025-07-27 10:44:35,029 - INFO - Progress: 80/100000 (0.1%) Rate: 0.1 eval/sec ETA: 14282.5 min
+2025-07-27 10:45:59,879 - INFO - Progress: 90/100000 (0.1%) Rate: 0.1 eval/sec ETA: 14264.1 min
+2025-07-27 10:47:26,836 - INFO - Progress: 100/100000 (0.1%) Rate: 0.1 eval/sec ETA: 14284.3 min
+2025-07-27 10:47:26,875 - INFO - Checkpoint saved: 100 evaluations completed
+2025-07-27 10:48:54,911 - INFO - Progress: 110/100000 (0.1%) Rate: 0.1 eval/sec ETA: 14317.4 min
+2025-07-27 10:50:23,355 - INFO - Progress: 120/100000 (0.1%) Rate: 0.1 eval/sec ETA: 14349.9 min
+2025-07-27 10:51:49,723 - INFO - Progress: 130/100000 (0.1%) Rate: 0.1 eval/sec ETA: 14350.6 min
+2025-07-27 10:53:17,035 - INFO - Progress: 140/100000 (0.1%) Rate: 0.1 eval/sec ETA: 14362.2 min
+2025-07-27 10:54:43,240 - INFO - Progress: 150/100000 (0.1%) Rate: 0.1 eval/sec ETA: 14359.7 min
+2025-07-27 10:54:43,272 - INFO - Checkpoint saved: 150 evaluations completed
+2025-07-27 10:56:09,398 - INFO - Progress: 160/100000 (0.2%) Rate: 0.1 eval/sec ETA: 14356.9 min
+2025-07-27 10:57:36,878 - INFO - Progress: 170/100000 (0.2%) Rate: 0.1 eval/sec ETA: 14367.3 min
+2025-07-27 10:59:05,211 - INFO - Progress: 180/100000 (0.2%) Rate: 0.1 eval/sec ETA: 14384.1 min
+2025-07-27 11:00:33,070 - INFO - Progress: 190/100000 (0.2%) Rate: 0.1 eval/sec ETA: 14394.9 min
+2025-07-27 11:01:57,745 - INFO - Progress: 200/100000 (0.2%) Rate: 0.1 eval/sec ETA: 14378.0 min
+2025-07-27 11:01:57,779 - INFO - Checkpoint saved: 200 evaluations completed
+2025-07-27 11:03:25,059 - INFO - Progress: 210/100000 (0.2%) Rate: 0.1 eval/sec ETA: 14383.5 min
+2025-07-27 11:04:52,610 - INFO - Progress: 220/100000 (0.2%) Rate: 0.1 eval/sec ETA: 14390.2 min
+2025-07-27 11:06:19,800 - INFO - Progress: 230/100000 (0.2%) Rate: 0.1 eval/sec ETA: 14393.5 min
+2025-07-27 11:07:44,396 - INFO - Progress: 240/100000 (0.2%) Rate: 0.1 eval/sec ETA: 14378.4 min
+2025-07-27 11:09:10,475 - INFO - Progress: 250/100000 (0.2%) Rate: 0.1 eval/sec ETA: 14374.3 min
+2025-07-27 11:09:10,511 - INFO - Checkpoint saved: 250 evaluations completed
+2025-07-27 11:10:38,104 - INFO - Progress: 260/100000 (0.3%) Rate: 0.1 eval/sec ETA: 14380.4 min
+2025-07-27 11:12:03,074 - INFO - Progress: 270/100000 (0.3%) Rate: 0.1 eval/sec ETA: 14369.4 min
+2025-07-27 11:13:28,191 - INFO - Progress: 280/100000 (0.3%) Rate: 0.1 eval/sec ETA: 14360.1 min
+2025-07-27 11:14:52,938 - INFO - Progress: 290/100000 (0.3%) Rate: 0.1 eval/sec ETA: 14349.2 min
+2025-07-27 11:16:20,251 - INFO - Progress: 300/100000 (0.3%) Rate: 0.1 eval/sec ETA: 14353.1 min
+2025-07-27 11:16:20,290 - INFO - Checkpoint saved: 300 evaluations completed
+2025-07-27 11:17:47,584 - INFO - Progress: 310/100000 (0.3%) Rate: 0.1 eval/sec ETA: 14356.8 min
+2025-07-27 11:19:10,079 - INFO - Progress: 320/100000 (0.3%) Rate: 0.1 eval/sec ETA: 14335.0 min
+2025-07-27 11:20:35,255 - INFO - Progress: 330/100000 (0.3%) Rate: 0.1 eval/sec ETA: 14328.0 min
+2025-07-27 11:22:03,942 - INFO - Progress: 340/100000 (0.3%) Rate: 0.1 eval/sec ETA: 14338.4 min
+2025-07-27 11:23:31,428 - INFO - Progress: 350/100000 (0.3%) Rate: 0.1 eval/sec ETA: 14342.5 min
+2025-07-27 11:23:31,475 - INFO - Checkpoint saved: 350 evaluations completed
+2025-07-27 11:24:57,861 - INFO - Progress: 360/100000 (0.4%) Rate: 0.1 eval/sec ETA: 14341.4 min
+2025-07-27 11:26:26,819 - INFO - Progress: 370/100000 (0.4%) Rate: 0.1 eval/sec ETA: 14351.6 min
+2025-07-27 11:27:53,864 - INFO - Progress: 380/100000 (0.4%) Rate: 0.1 eval/sec ETA: 14352.9 min
+2025-07-27 11:29:20,772 - INFO - Progress: 390/100000 (0.4%) Rate: 0.1 eval/sec ETA: 14353.4 min
+2025-07-27 11:30:47,523 - INFO - Progress: 400/100000 (0.4%) Rate: 0.1 eval/sec ETA: 14353.2 min
+2025-07-27 11:30:47,565 - INFO - Checkpoint saved: 400 evaluations completed
+2025-07-27 11:32:15,861 - INFO - Progress: 410/100000 (0.4%) Rate: 0.1 eval/sec ETA: 14359.3 min
+2025-07-27 11:33:41,489 - INFO - Progress: 420/100000 (0.4%) Rate: 0.1 eval/sec ETA: 14354.4 min
+2025-07-27 11:35:08,634 - INFO - Progress: 430/100000 (0.4%) Rate: 0.1 eval/sec ETA: 14355.5 min
+2025-07-27 11:36:35,356 - INFO - Progress: 440/100000 (0.4%) Rate: 0.1 eval/sec ETA: 14354.9 min
+2025-07-27 11:38:02,207 - INFO - Progress: 450/100000 (0.5%) Rate: 0.1 eval/sec ETA: 14354.7 min
+2025-07-27 11:38:02,256 - INFO - Checkpoint saved: 450 evaluations completed
+2025-07-27 11:39:43,232 - INFO - Progress: 460/100000 (0.5%) Rate: 0.1 eval/sec ETA: 14405.6 min
+2025-07-27 11:41:08,350 - INFO - Progress: 470/100000 (0.5%) Rate: 0.1 eval/sec ETA: 14398.1 min
+2025-07-27 11:42:32,137 - INFO - Progress: 480/100000 (0.5%) Rate: 0.1 eval/sec ETA: 14386.2 min
+2025-07-27 11:43:55,801 - INFO - Progress: 490/100000 (0.5%) Rate: 0.1 eval/sec ETA: 14374.4 min
+2025-07-27 11:45:21,064 - INFO - Progress: 500/100000 (0.5%) Rate: 0.1 eval/sec ETA: 14368.3 min
+2025-07-27 11:45:21,118 - INFO - Checkpoint saved: 500 evaluations completed
+2025-07-27 11:46:44,419 - INFO - Progress: 510/100000 (0.5%) Rate: 0.1 eval/sec ETA: 14356.1 min
+2025-07-27 11:48:08,801 - INFO - Progress: 520/100000 (0.5%) Rate: 0.1 eval/sec ETA: 14347.7 min
+2025-07-27 11:49:35,208 - INFO - Progress: 530/100000 (0.5%) Rate: 0.1 eval/sec ETA: 14345.8 min
+2025-07-27 11:51:15,863 - INFO - Progress: 540/100000 (0.5%) Rate: 0.1 eval/sec ETA: 14387.8 min
+2025-07-27 11:52:54,200 - INFO - Progress: 550/100000 (0.6%) Rate: 0.1 eval/sec ETA: 14421.1 min
+2025-07-27 11:52:54,262 - INFO - Checkpoint saved: 550 evaluations completed
+2025-07-27 11:54:31,341 - INFO - Progress: 560/100000 (0.6%) Rate: 0.1 eval/sec ETA: 14449.6 min
+2025-07-27 11:56:10,977 - INFO - Progress: 570/100000 (0.6%) Rate: 0.1 eval/sec ETA: 14484.4 min
+2025-07-27 11:57:46,981 - INFO - Progress: 580/100000 (0.6%) Rate: 0.1 eval/sec ETA: 14507.5 min
+2025-07-27 11:59:27,866 - INFO - Progress: 590/100000 (0.6%) Rate: 0.1 eval/sec ETA: 14543.5 min
+2025-07-27 12:01:09,157 - INFO - Progress: 600/100000 (0.6%) Rate: 0.1 eval/sec ETA: 14579.3 min
+2025-07-27 12:01:09,212 - INFO - Checkpoint saved: 600 evaluations completed
+2025-07-27 12:02:49,073 - INFO - Progress: 610/100000 (0.6%) Rate: 0.1 eval/sec ETA: 14610.2 min
+2025-07-27 12:04:28,048 - INFO - Progress: 620/100000 (0.6%) Rate: 0.1 eval/sec ETA: 14637.5 min
+2025-07-27 12:06:08,432 - INFO - Progress: 630/100000 (0.6%) Rate: 0.1 eval/sec ETA: 14667.6 min
+2025-07-27 12:07:49,017 - INFO - Progress: 640/100000 (0.6%) Rate: 0.1 eval/sec ETA: 14697.2 min
+2025-07-27 12:09:28,950 - INFO - Progress: 650/100000 (0.7%) Rate: 0.1 eval/sec ETA: 14724.3 min
+2025-07-27 12:09:29,001 - INFO - Checkpoint saved: 650 evaluations completed
+2025-07-27 12:11:07,318 - INFO - Progress: 660/100000 (0.7%) Rate: 0.1 eval/sec ETA: 14746.5 min
+2025-07-27 12:12:49,513 - INFO - Progress: 670/100000 (0.7%) Rate: 0.1 eval/sec ETA: 14777.4 min
+2025-07-27 12:14:30,643 - INFO - Progress: 680/100000 (0.7%) Rate: 0.1 eval/sec ETA: 14804.8 min
+2025-07-27 12:16:12,162 - INFO - Progress: 690/100000 (0.7%) Rate: 0.1 eval/sec ETA: 14832.3 min
+2025-07-27 12:17:52,479 - INFO - Progress: 700/100000 (0.7%) Rate: 0.1 eval/sec ETA: 14856.1 min
+2025-07-27 12:17:52,547 - INFO - Checkpoint saved: 700 evaluations completed
+2025-07-27 12:19:33,989 - INFO - Progress: 710/100000 (0.7%) Rate: 0.1 eval/sec ETA: 14882.0 min
+2025-07-27 12:21:13,444 - INFO - Progress: 720/100000 (0.7%) Rate: 0.1 eval/sec ETA: 14902.4 min
+2025-07-27 12:22:55,740 - INFO - Progress: 730/100000 (0.7%) Rate: 0.1 eval/sec ETA: 14928.6 min
+2025-07-27 12:24:36,504 - INFO - Progress: 740/100000 (0.7%) Rate: 0.1 eval/sec ETA: 14950.7 min
+2025-07-27 12:26:12,660 - INFO - Progress: 750/100000 (0.8%) Rate: 0.1 eval/sec ETA: 14961.9 min
+2025-07-27 12:26:12,723 - INFO - Checkpoint saved: 750 evaluations completed
+2025-07-27 12:27:52,060 - INFO - Progress: 760/100000 (0.8%) Rate: 0.1 eval/sec ETA: 14979.9 min
+2025-07-27 12:29:30,941 - INFO - Progress: 770/100000 (0.8%) Rate: 0.1 eval/sec ETA: 14996.2 min
+2025-07-27 12:31:07,428 - INFO - Progress: 780/100000 (0.8%) Rate: 0.1 eval/sec ETA: 15007.0 min
+2025-07-27 12:32:48,413 - INFO - Progress: 790/100000 (0.8%) Rate: 0.1 eval/sec ETA: 15026.9 min
+2025-07-27 12:34:29,057 - INFO - Progress: 800/100000 (0.8%) Rate: 0.1 eval/sec ETA: 15045.6 min
+2025-07-27 12:34:29,129 - INFO - Checkpoint saved: 800 evaluations completed
+2025-07-27 12:36:09,760 - INFO - Progress: 810/100000 (0.8%) Rate: 0.1 eval/sec ETA: 15063.9 min
+2025-07-27 12:37:49,151 - INFO - Progress: 820/100000 (0.8%) Rate: 0.1 eval/sec ETA: 15079.0 min
+2025-07-27 12:39:30,077 - INFO - Progress: 830/100000 (0.8%) Rate: 0.1 eval/sec ETA: 15096.9 min
+2025-07-27 12:41:09,370 - INFO - Progress: 840/100000 (0.8%) Rate: 0.1 eval/sec ETA: 15111.0 min
+2025-07-27 12:42:51,076 - INFO - Progress: 850/100000 (0.8%) Rate: 0.1 eval/sec ETA: 15129.4 min
+2025-07-27 12:42:51,141 - INFO - Checkpoint saved: 850 evaluations completed
+2025-07-27 12:44:31,621 - INFO - Progress: 860/100000 (0.9%) Rate: 0.1 eval/sec ETA: 15145.2 min
+2025-07-27 12:46:13,107 - INFO - Progress: 870/100000 (0.9%) Rate: 0.1 eval/sec ETA: 15162.3 min
+2025-07-27 12:47:54,107 - INFO - Progress: 880/100000 (0.9%) Rate: 0.1 eval/sec ETA: 15178.1 min
+2025-07-27 12:49:35,372 - INFO - Progress: 890/100000 (0.9%) Rate: 0.1 eval/sec ETA: 15194.0 min
+2025-07-27 12:51:16,733 - INFO - Progress: 900/100000 (0.9%) Rate: 0.1 eval/sec ETA: 15209.7 min
+2025-07-27 12:51:16,811 - INFO - Checkpoint saved: 900 evaluations completed
+2025-07-27 12:52:55,777 - INFO - Progress: 910/100000 (0.9%) Rate: 0.1 eval/sec ETA: 15220.8 min
+2025-07-27 12:54:36,137 - INFO - Progress: 920/100000 (0.9%) Rate: 0.1 eval/sec ETA: 15233.9 min
+2025-07-27 12:56:16,283 - INFO - Progress: 930/100000 (0.9%) Rate: 0.1 eval/sec ETA: 15246.4 min
+2025-07-27 12:57:54,330 - INFO - Progress: 940/100000 (0.9%) Rate: 0.1 eval/sec ETA: 15254.9 min
+2025-07-27 12:59:32,607 - INFO - Progress: 950/100000 (0.9%) Rate: 0.1 eval/sec ETA: 15263.6 min
+2025-07-27 12:59:32,667 - INFO - Checkpoint saved: 950 evaluations completed
+2025-07-27 13:01:12,844 - INFO - Progress: 960/100000 (1.0%) Rate: 0.1 eval/sec ETA: 15275.4 min
+2025-07-27 13:02:54,448 - INFO - Progress: 970/100000 (1.0%) Rate: 0.1 eval/sec ETA: 15289.3 min
+2025-07-27 13:04:35,500 - INFO - Progress: 980/100000 (1.0%) Rate: 0.1 eval/sec ETA: 15301.9 min
+2025-07-27 13:06:16,400 - INFO - Progress: 990/100000 (1.0%) Rate: 0.1 eval/sec ETA: 15314.0 min
+2025-07-27 13:07:58,150 - INFO - Progress: 1000/100000 (1.0%) Rate: 0.1 eval/sec ETA: 15327.2 min
+2025-07-27 13:07:58,228 - INFO - Checkpoint saved: 1000 evaluations completed
+2025-07-27 13:09:40,075 - INFO - Progress: 1010/100000 (1.0%) Rate: 0.1 eval/sec ETA: 15340.4 min
+2025-07-27 13:11:17,794 - INFO - Progress: 1020/100000 (1.0%) Rate: 0.1 eval/sec ETA: 15346.5 min
+2025-07-27 13:12:59,142 - INFO - Progress: 1030/100000 (1.0%) Rate: 0.1 eval/sec ETA: 15358.3 min
+2025-07-27 13:14:40,952 - INFO - Progress: 1040/100000 (1.0%) Rate: 0.1 eval/sec ETA: 15370.6 min
+2025-07-27 13:16:21,788 - INFO - Progress: 1050/100000 (1.1%) Rate: 0.1 eval/sec ETA: 15381.0 min
+2025-07-27 13:16:21,854 - INFO - Checkpoint saved: 1050 evaluations completed
+2025-07-27 13:18:01,671 - INFO - Progress: 1060/100000 (1.1%) Rate: 0.1 eval/sec ETA: 15389.8 min
+2025-07-27 13:19:43,113 - INFO - Progress: 1070/100000 (1.1%) Rate: 0.1 eval/sec ETA: 15400.7 min
+2025-07-27 13:21:23,950 - INFO - Progress: 1080/100000 (1.1%) Rate: 0.1 eval/sec ETA: 15410.5 min
+2025-07-27 13:23:07,879 - INFO - Progress: 1090/100000 (1.1%) Rate: 0.1 eval/sec ETA: 15424.8 min
+2025-07-27 13:24:42,892 - INFO - Progress: 1100/100000 (1.1%) Rate: 0.1 eval/sec ETA: 15425.4 min
+2025-07-27 13:24:42,961 - INFO - Checkpoint saved: 1100 evaluations completed
+2025-07-27 13:26:25,152 - INFO - Progress: 1110/100000 (1.1%) Rate: 0.1 eval/sec ETA: 15436.7 min
+2025-07-27 13:28:07,459 - INFO - Progress: 1120/100000 (1.1%) Rate: 0.1 eval/sec ETA: 15447.8 min
+2025-07-27 13:29:45,109 - INFO - Progress: 1130/100000 (1.1%) Rate: 0.1 eval/sec ETA: 15452.0 min
+2025-07-27 13:31:27,087 - INFO - Progress: 1140/100000 (1.1%) Rate: 0.1 eval/sec ETA: 15462.3 min
+2025-07-27 13:33:08,302 - INFO - Progress: 1150/100000 (1.1%) Rate: 0.1 eval/sec ETA: 15471.3 min
+2025-07-27 13:33:08,372 - INFO - Checkpoint saved: 1150 evaluations completed
+2025-07-27 13:34:50,009 - INFO - Progress: 1160/100000 (1.2%) Rate: 0.1 eval/sec ETA: 15480.8 min
+2025-07-27 13:36:32,521 - INFO - Progress: 1170/100000 (1.2%) Rate: 0.1 eval/sec ETA: 15491.2 min
+2025-07-27 13:38:14,135 - INFO - Progress: 1180/100000 (1.2%) Rate: 0.1 eval/sec ETA: 15500.2 min
+2025-07-27 13:39:55,296 - INFO - Progress: 1190/100000 (1.2%) Rate: 0.1 eval/sec ETA: 15508.4 min
+2025-07-27 13:41:31,524 - INFO - Progress: 1200/100000 (1.2%) Rate: 0.1 eval/sec ETA: 15509.7 min
+2025-07-27 13:41:31,596 - INFO - Checkpoint saved: 1200 evaluations completed
+2025-07-27 13:43:12,899 - INFO - Progress: 1210/100000 (1.2%) Rate: 0.1 eval/sec ETA: 15517.9 min
+2025-07-27 13:44:53,102 - INFO - Progress: 1220/100000 (1.2%) Rate: 0.1 eval/sec ETA: 15524.4 min
+2025-07-27 13:46:36,017 - INFO - Progress: 1230/100000 (1.2%) Rate: 0.1 eval/sec ETA: 15534.3 min
+2025-07-27 13:48:16,643 - INFO - Progress: 1240/100000 (1.2%) Rate: 0.1 eval/sec ETA: 15541.1 min
+2025-07-27 13:49:59,164 - INFO - Progress: 1250/100000 (1.2%) Rate: 0.1 eval/sec ETA: 15550.2 min
+2025-07-27 13:49:59,251 - INFO - Checkpoint saved: 1250 evaluations completed
+2025-07-27 13:51:40,693 - INFO - Progress: 1260/100000 (1.3%) Rate: 0.1 eval/sec ETA: 15557.8 min
+2025-07-27 13:53:20,071 - INFO - Progress: 1270/100000 (1.3%) Rate: 0.1 eval/sec ETA: 15562.5 min
+2025-07-27 13:55:01,731 - INFO - Progress: 1280/100000 (1.3%) Rate: 0.1 eval/sec ETA: 15570.0 min
+2025-07-27 13:56:40,955 - INFO - Progress: 1290/100000 (1.3%) Rate: 0.1 eval/sec ETA: 15574.3 min
+2025-07-27 13:58:21,874 - INFO - Progress: 1300/100000 (1.3%) Rate: 0.1 eval/sec ETA: 15580.6 min
+2025-07-27 13:58:21,948 - INFO - Checkpoint saved: 1300 evaluations completed
+2025-07-27 14:00:03,453 - INFO - Progress: 1310/100000 (1.3%) Rate: 0.1 eval/sec ETA: 15587.7 min
+2025-07-27 14:01:45,760 - INFO - Progress: 1320/100000 (1.3%) Rate: 0.1 eval/sec ETA: 15595.5 min
+2025-07-27 14:03:25,927 - INFO - Progress: 1330/100000 (1.3%) Rate: 0.1 eval/sec ETA: 15600.5 min
+2025-07-27 14:05:05,685 - INFO - Progress: 1340/100000 (1.3%) Rate: 0.1 eval/sec ETA: 15604.9 min
+2025-07-27 14:06:48,355 - INFO - Progress: 1350/100000 (1.4%) Rate: 0.1 eval/sec ETA: 15612.8 min
+2025-07-27 14:06:48,445 - INFO - Checkpoint saved: 1350 evaluations completed
+2025-07-27 14:08:28,942 - INFO - Progress: 1360/100000 (1.4%) Rate: 0.1 eval/sec ETA: 15618.0 min
+2025-07-27 14:10:07,433 - INFO - Progress: 1370/100000 (1.4%) Rate: 0.1 eval/sec ETA: 15620.6 min
+2025-07-27 14:11:47,755 - INFO - Progress: 1380/100000 (1.4%) Rate: 0.1 eval/sec ETA: 15625.4 min
+2025-07-27 14:13:29,396 - INFO - Progress: 1390/100000 (1.4%) Rate: 0.1 eval/sec ETA: 15631.5 min
+2025-07-27 14:15:10,991 - INFO - Progress: 1400/100000 (1.4%) Rate: 0.1 eval/sec ETA: 15637.6 min
+2025-07-27 14:15:11,079 - INFO - Checkpoint saved: 1400 evaluations completed
+2025-07-27 14:16:52,075 - INFO - Progress: 1410/100000 (1.4%) Rate: 0.1 eval/sec ETA: 15642.9 min
+2025-07-27 14:18:32,802 - INFO - Progress: 1420/100000 (1.4%) Rate: 0.1 eval/sec ETA: 15647.7 min
+2025-07-27 14:20:14,206 - INFO - Progress: 1430/100000 (1.4%) Rate: 0.1 eval/sec ETA: 15653.2 min
+2025-07-27 14:21:57,062 - INFO - Progress: 1440/100000 (1.4%) Rate: 0.1 eval/sec ETA: 15660.2 min
+2025-07-27 14:23:35,787 - INFO - Progress: 1450/100000 (1.4%) Rate: 0.1 eval/sec ETA: 15662.5 min
+2025-07-27 14:23:35,878 - INFO - Checkpoint saved: 1450 evaluations completed
+2025-07-27 14:25:13,297 - INFO - Progress: 1460/100000 (1.5%) Rate: 0.1 eval/sec ETA: 15663.3 min
+2025-07-27 14:26:54,837 - INFO - Progress: 1470/100000 (1.5%) Rate: 0.1 eval/sec ETA: 15668.6 min
+2025-07-27 14:28:37,306 - INFO - Progress: 1480/100000 (1.5%) Rate: 0.1 eval/sec ETA: 15674.9 min
+2025-07-27 14:30:15,751 - INFO - Progress: 1490/100000 (1.5%) Rate: 0.1 eval/sec ETA: 15676.6 min
+2025-07-27 14:31:58,507 - INFO - Progress: 1500/100000 (1.5%) Rate: 0.1 eval/sec ETA: 15682.9 min
+2025-07-27 14:31:58,598 - INFO - Checkpoint saved: 1500 evaluations completed
+2025-07-27 14:33:32,976 - INFO - Progress: 1510/100000 (1.5%) Rate: 0.1 eval/sec ETA: 15680.2 min
+2025-07-27 14:34:53,602 - INFO - Progress: 1520/100000 (1.5%) Rate: 0.1 eval/sec ETA: 15662.5 min
+2025-07-27 14:36:17,521 - INFO - Progress: 1530/100000 (1.5%) Rate: 0.1 eval/sec ETA: 15648.6 min
+2025-07-27 14:37:39,740 - INFO - Progress: 1540/100000 (1.5%) Rate: 0.1 eval/sec ETA: 15633.0 min
+2025-07-27 14:39:03,721 - INFO - Progress: 1550/100000 (1.6%) Rate: 0.1 eval/sec ETA: 15619.5 min
+2025-07-27 14:39:03,798 - INFO - Checkpoint saved: 1550 evaluations completed
+2025-07-27 14:40:27,130 - INFO - Progress: 1560/100000 (1.6%) Rate: 0.1 eval/sec ETA: 15605.5 min
+2025-07-27 14:41:49,938 - INFO - Progress: 1570/100000 (1.6%) Rate: 0.1 eval/sec ETA: 15591.0 min
+2025-07-27 14:43:10,473 - INFO - Progress: 1580/100000 (1.6%) Rate: 0.1 eval/sec ETA: 15574.4 min
+2025-07-27 14:44:34,299 - INFO - Progress: 1590/100000 (1.6%) Rate: 0.1 eval/sec ETA: 15561.3 min
+2025-07-27 14:46:15,303 - INFO - Progress: 1600/100000 (1.6%) Rate: 0.1 eval/sec ETA: 15566.0 min
+2025-07-27 14:46:15,393 - INFO - Checkpoint saved: 1600 evaluations completed
+2025-07-27 14:47:38,829 - INFO - Progress: 1610/100000 (1.6%) Rate: 0.1 eval/sec ETA: 15552.9 min
+2025-07-27 14:49:02,415 - INFO - Progress: 1620/100000 (1.6%) Rate: 0.1 eval/sec ETA: 15539.9 min
+2025-07-27 14:50:28,273 - INFO - Progress: 1630/100000 (1.6%) Rate: 0.1 eval/sec ETA: 15529.3 min
+2025-07-27 14:51:50,788 - INFO - Progress: 1640/100000 (1.6%) Rate: 0.1 eval/sec ETA: 15515.6 min
+2025-07-27 14:53:13,910 - INFO - Progress: 1650/100000 (1.6%) Rate: 0.1 eval/sec ETA: 15502.5 min
+2025-07-27 14:53:13,990 - INFO - Checkpoint saved: 1650 evaluations completed
+2025-07-27 14:54:38,639 - INFO - Progress: 1660/100000 (1.7%) Rate: 0.1 eval/sec ETA: 15491.2 min
+2025-07-27 14:56:18,275 - INFO - Progress: 1670/100000 (1.7%) Rate: 0.1 eval/sec ETA: 15494.7 min
+2025-07-27 14:57:59,017 - INFO - Progress: 1680/100000 (1.7%) Rate: 0.1 eval/sec ETA: 15499.1 min
+2025-07-27 14:59:40,884 - INFO - Progress: 1690/100000 (1.7%) Rate: 0.1 eval/sec ETA: 15504.6 min
+2025-07-27 15:01:21,722 - INFO - Progress: 1700/100000 (1.7%) Rate: 0.1 eval/sec ETA: 15509.0 min
+2025-07-27 15:01:21,823 - INFO - Checkpoint saved: 1700 evaluations completed
+2025-07-27 15:03:04,037 - INFO - Progress: 1710/100000 (1.7%) Rate: 0.1 eval/sec ETA: 15514.8 min
+2025-07-27 15:04:44,529 - INFO - Progress: 1720/100000 (1.7%) Rate: 0.1 eval/sec ETA: 15518.7 min
+2025-07-27 15:06:26,196 - INFO - Progress: 1730/100000 (1.7%) Rate: 0.1 eval/sec ETA: 15523.7 min
+2025-07-27 15:08:07,397 - INFO - Progress: 1740/100000 (1.7%) Rate: 0.1 eval/sec ETA: 15528.2 min
+2025-07-27 15:09:47,675 - INFO - Progress: 1750/100000 (1.8%) Rate: 0.1 eval/sec ETA: 15531.7 min
+2025-07-27 15:09:47,758 - INFO - Checkpoint saved: 1750 evaluations completed
+2025-07-27 15:11:11,255 - INFO - Progress: 1760/100000 (1.8%) Rate: 0.1 eval/sec ETA: 15519.6 min
+2025-07-27 15:12:32,149 - INFO - Progress: 1770/100000 (1.8%) Rate: 0.1 eval/sec ETA: 15505.2 min
+2025-07-27 15:13:59,462 - INFO - Progress: 1780/100000 (1.8%) Rate: 0.1 eval/sec ETA: 15496.8 min
+2025-07-27 15:15:30,083 - INFO - Progress: 1790/100000 (1.8%) Rate: 0.1 eval/sec ETA: 15491.5 min
+2025-07-27 15:16:52,698 - INFO - Progress: 1800/100000 (1.8%) Rate: 0.1 eval/sec ETA: 15479.0 min
+2025-07-27 15:16:52,799 - INFO - Checkpoint saved: 1800 evaluations completed
+2025-07-27 15:18:15,056 - INFO - Progress: 1810/100000 (1.8%) Rate: 0.1 eval/sec ETA: 15466.4 min
+2025-07-27 15:19:53,766 - INFO - Progress: 1820/100000 (1.8%) Rate: 0.1 eval/sec ETA: 15468.6 min
+2025-07-27 15:21:34,169 - INFO - Progress: 1830/100000 (1.8%) Rate: 0.1 eval/sec ETA: 15472.3 min
+2025-07-27 15:23:15,800 - INFO - Progress: 1840/100000 (1.8%) Rate: 0.1 eval/sec ETA: 15477.0 min
+2025-07-27 15:24:57,480 - INFO - Progress: 1850/100000 (1.9%) Rate: 0.1 eval/sec ETA: 15481.7 min
+2025-07-27 15:24:57,565 - INFO - Checkpoint saved: 1850 evaluations completed
+2025-07-27 15:26:37,053 - INFO - Progress: 1860/100000 (1.9%) Rate: 0.1 eval/sec ETA: 15484.4 min
+2025-07-27 15:28:11,734 - INFO - Progress: 1870/100000 (1.9%) Rate: 0.1 eval/sec ETA: 15482.9 min
+2025-07-27 15:29:41,634 - INFO - Progress: 1880/100000 (1.9%) Rate: 0.1 eval/sec ETA: 15477.1 min
+2025-07-27 15:31:03,557 - INFO - Progress: 1890/100000 (1.9%) Rate: 0.1 eval/sec ETA: 15464.6 min
+2025-07-27 15:32:23,075 - INFO - Progress: 1900/100000 (1.9%) Rate: 0.1 eval/sec ETA: 15450.0 min
+2025-07-27 15:32:23,166 - INFO - Checkpoint saved: 1900 evaluations completed
+2025-07-27 15:33:58,620 - INFO - Progress: 1910/100000 (1.9%) Rate: 0.1 eval/sec ETA: 15449.3 min
+2025-07-27 15:35:40,893 - INFO - Progress: 1920/100000 (1.9%) Rate: 0.1 eval/sec ETA: 15454.4 min
+2025-07-27 15:37:22,168 - INFO - Progress: 1930/100000 (1.9%) Rate: 0.1 eval/sec ETA: 15458.5 min
+2025-07-27 15:39:04,951 - INFO - Progress: 1940/100000 (1.9%) Rate: 0.1 eval/sec ETA: 15463.9 min
+2025-07-27 15:40:46,045 - INFO - Progress: 1950/100000 (1.9%) Rate: 0.1 eval/sec ETA: 15467.7 min
+2025-07-27 15:40:46,154 - INFO - Checkpoint saved: 1950 evaluations completed
+2025-07-27 15:42:18,717 - INFO - Progress: 1960/100000 (2.0%) Rate: 0.1 eval/sec ETA: 15464.5 min
+2025-07-27 15:43:41,471 - INFO - Progress: 1970/100000 (2.0%) Rate: 0.1 eval/sec ETA: 15453.0 min
+2025-07-27 15:45:05,135 - INFO - Progress: 1980/100000 (2.0%) Rate: 0.1 eval/sec ETA: 15442.5 min
+2025-07-27 15:46:40,197 - INFO - Progress: 1990/100000 (2.0%) Rate: 0.1 eval/sec ETA: 15441.3 min
+2025-07-27 15:48:20,605 - INFO - Progress: 2000/100000 (2.0%) Rate: 0.1 eval/sec ETA: 15444.5 min
+2025-07-27 15:48:20,706 - INFO - Checkpoint saved: 2000 evaluations completed
+2025-07-27 15:50:04,148 - INFO - Progress: 2010/100000 (2.0%) Rate: 0.1 eval/sec ETA: 15450.3 min
+2025-07-27 15:51:46,242 - INFO - Progress: 2020/100000 (2.0%) Rate: 0.1 eval/sec ETA: 15454.7 min
+2025-07-27 15:53:28,962 - INFO - Progress: 2030/100000 (2.0%) Rate: 0.1 eval/sec ETA: 15459.7 min
+2025-07-27 15:55:10,654 - INFO - Progress: 2040/100000 (2.0%) Rate: 0.1 eval/sec ETA: 15463.7 min
+2025-07-27 15:56:53,459 - INFO - Progress: 2050/100000 (2.0%) Rate: 0.1 eval/sec ETA: 15468.6 min
+2025-07-27 15:56:53,549 - INFO - Checkpoint saved: 2050 evaluations completed
+2025-07-27 15:58:35,137 - INFO - Progress: 2060/100000 (2.1%) Rate: 0.1 eval/sec ETA: 15472.5 min
+2025-07-27 16:00:15,793 - INFO - Progress: 2070/100000 (2.1%) Rate: 0.1 eval/sec ETA: 15475.5 min
+2025-07-27 16:01:57,920 - INFO - Progress: 2080/100000 (2.1%) Rate: 0.1 eval/sec ETA: 15479.7 min
+2025-07-27 16:03:35,760 - INFO - Progress: 2090/100000 (2.1%) Rate: 0.1 eval/sec ETA: 15480.4 min
+2025-07-27 16:05:17,213 - INFO - Progress: 2100/100000 (2.1%) Rate: 0.1 eval/sec ETA: 15484.0 min
+2025-07-27 16:05:17,310 - INFO - Checkpoint saved: 2100 evaluations completed
+2025-07-27 16:06:57,763 - INFO - Progress: 2110/100000 (2.1%) Rate: 0.1 eval/sec ETA: 15486.8 min
+2025-07-27 16:08:35,939 - INFO - Progress: 2120/100000 (2.1%) Rate: 0.1 eval/sec ETA: 15487.7 min
+2025-07-27 16:10:12,607 - INFO - Progress: 2130/100000 (2.1%) Rate: 0.1 eval/sec ETA: 15487.4 min
+2025-07-27 16:11:54,495 - INFO - Progress: 2140/100000 (2.1%) Rate: 0.1 eval/sec ETA: 15491.1 min
+2025-07-27 16:13:35,874 - INFO - Progress: 2150/100000 (2.1%) Rate: 0.1 eval/sec ETA: 15494.4 min
+2025-07-27 16:13:35,971 - INFO - Checkpoint saved: 2150 evaluations completed
+2025-07-27 16:15:13,962 - INFO - Progress: 2160/100000 (2.2%) Rate: 0.1 eval/sec ETA: 15495.1 min
+2025-07-27 16:16:47,040 - INFO - Progress: 2170/100000 (2.2%) Rate: 0.1 eval/sec ETA: 15492.1 min
+2025-07-27 16:18:10,434 - INFO - Progress: 2180/100000 (2.2%) Rate: 0.1 eval/sec ETA: 15481.8 min
+2025-07-27 16:19:33,177 - INFO - Progress: 2190/100000 (2.2%) Rate: 0.1 eval/sec ETA: 15471.1 min
+2025-07-27 16:20:53,614 - INFO - Progress: 2200/100000 (2.2%) Rate: 0.1 eval/sec ETA: 15458.8 min
+2025-07-27 16:20:53,722 - INFO - Checkpoint saved: 2200 evaluations completed
+2025-07-27 16:22:15,364 - INFO - Progress: 2210/100000 (2.2%) Rate: 0.1 eval/sec ETA: 15447.6 min
+2025-07-27 16:23:38,814 - INFO - Progress: 2220/100000 (2.2%) Rate: 0.1 eval/sec ETA: 15437.7 min
+2025-07-27 16:25:02,429 - INFO - Progress: 2230/100000 (2.2%) Rate: 0.1 eval/sec ETA: 15428.0 min
+2025-07-27 16:26:25,405 - INFO - Progress: 2240/100000 (2.2%) Rate: 0.1 eval/sec ETA: 15417.9 min
+2025-07-27 16:27:49,490 - INFO - Progress: 2250/100000 (2.2%) Rate: 0.1 eval/sec ETA: 15408.7 min
+2025-07-27 16:27:49,584 - INFO - Checkpoint saved: 2250 evaluations completed
+2025-07-27 16:29:12,444 - INFO - Progress: 2260/100000 (2.3%) Rate: 0.1 eval/sec ETA: 15398.8 min
+2025-07-27 16:30:34,430 - INFO - Progress: 2270/100000 (2.3%) Rate: 0.1 eval/sec ETA: 15388.2 min
+2025-07-27 16:31:58,665 - INFO - Progress: 2280/100000 (2.3%) Rate: 0.1 eval/sec ETA: 15379.3 min
+2025-07-27 16:33:19,611 - INFO - Progress: 2290/100000 (2.3%) Rate: 0.1 eval/sec ETA: 15368.1 min
+2025-07-27 16:34:42,247 - INFO - Progress: 2300/100000 (2.3%) Rate: 0.1 eval/sec ETA: 15358.2 min
+2025-07-27 16:34:42,339 - INFO - Checkpoint saved: 2300 evaluations completed
+2025-07-27 16:36:02,747 - INFO - Progress: 2310/100000 (2.3%) Rate: 0.1 eval/sec ETA: 15346.9 min
+2025-07-27 16:37:25,729 - INFO - Progress: 2320/100000 (2.3%) Rate: 0.1 eval/sec ETA: 15337.4 min
+2025-07-27 16:38:45,770 - INFO - Progress: 2330/100000 (2.3%) Rate: 0.1 eval/sec ETA: 15326.0 min
+2025-07-27 16:40:09,020 - INFO - Progress: 2340/100000 (2.3%) Rate: 0.1 eval/sec ETA: 15316.8 min
+2025-07-27 16:41:31,746 - INFO - Progress: 2350/100000 (2.4%) Rate: 0.1 eval/sec ETA: 15307.4 min
+2025-07-27 16:41:31,845 - INFO - Checkpoint saved: 2350 evaluations completed
+2025-07-27 16:42:55,115 - INFO - Progress: 2360/100000 (2.4%) Rate: 0.1 eval/sec ETA: 15298.4 min
+2025-07-27 16:44:16,648 - INFO - Progress: 2370/100000 (2.4%) Rate: 0.1 eval/sec ETA: 15288.3 min
+2025-07-27 16:45:39,791 - INFO - Progress: 2380/100000 (2.4%) Rate: 0.1 eval/sec ETA: 15279.4 min
+2025-07-27 16:47:02,574 - INFO - Progress: 2390/100000 (2.4%) Rate: 0.1 eval/sec ETA: 15270.2 min
+2025-07-27 16:48:28,913 - INFO - Progress: 2400/100000 (2.4%) Rate: 0.1 eval/sec ETA: 15263.5 min
+2025-07-27 16:48:29,020 - INFO - Checkpoint saved: 2400 evaluations completed
+2025-07-27 16:49:51,086 - INFO - Progress: 2410/100000 (2.4%) Rate: 0.1 eval/sec ETA: 15254.1 min
+2025-07-27 16:51:15,010 - INFO - Progress: 2420/100000 (2.4%) Rate: 0.1 eval/sec ETA: 15245.9 min
+2025-07-27 16:52:37,483 - INFO - Progress: 2430/100000 (2.4%) Rate: 0.1 eval/sec ETA: 15236.8 min
+2025-07-27 16:53:58,106 - INFO - Progress: 2440/100000 (2.4%) Rate: 0.1 eval/sec ETA: 15226.5 min
+2025-07-27 16:55:20,694 - INFO - Progress: 2450/100000 (2.5%) Rate: 0.1 eval/sec ETA: 15217.6 min
+2025-07-27 16:55:20,815 - INFO - Checkpoint saved: 2450 evaluations completed
+2025-07-27 16:56:43,887 - INFO - Progress: 2460/100000 (2.5%) Rate: 0.1 eval/sec ETA: 15209.2 min
+2025-07-27 16:58:03,999 - INFO - Progress: 2470/100000 (2.5%) Rate: 0.1 eval/sec ETA: 15198.8 min
+2025-07-27 16:59:25,105 - INFO - Progress: 2480/100000 (2.5%) Rate: 0.1 eval/sec ETA: 15189.1 min
+2025-07-27 17:00:45,772 - INFO - Progress: 2490/100000 (2.5%) Rate: 0.1 eval/sec ETA: 15179.2 min
+2025-07-27 17:02:08,971 - INFO - Progress: 2500/100000 (2.5%) Rate: 0.1 eval/sec ETA: 15171.0 min
+2025-07-27 17:02:09,086 - INFO - Checkpoint saved: 2500 evaluations completed
+2025-07-27 17:03:31,295 - INFO - Progress: 2510/100000 (2.5%) Rate: 0.1 eval/sec ETA: 15162.3 min
+2025-07-27 17:04:56,600 - INFO - Progress: 2520/100000 (2.5%) Rate: 0.1 eval/sec ETA: 15155.6 min
+2025-07-27 17:06:20,176 - INFO - Progress: 2530/100000 (2.5%) Rate: 0.1 eval/sec ETA: 15147.8 min
+2025-07-27 17:07:42,993 - INFO - Progress: 2540/100000 (2.5%) Rate: 0.1 eval/sec ETA: 15139.6 min
+2025-07-27 17:09:05,827 - INFO - Progress: 2550/100000 (2.5%) Rate: 0.1 eval/sec ETA: 15131.4 min
+2025-07-27 17:09:05,947 - INFO - Checkpoint saved: 2550 evaluations completed
+2025-07-27 17:10:29,294 - INFO - Progress: 2560/100000 (2.6%) Rate: 0.1 eval/sec ETA: 15123.7 min
+2025-07-27 17:11:52,493 - INFO - Progress: 2570/100000 (2.6%) Rate: 0.1 eval/sec ETA: 15115.9 min
+2025-07-27 17:13:16,934 - INFO - Progress: 2580/100000 (2.6%) Rate: 0.1 eval/sec ETA: 15108.9 min
+2025-07-27 17:14:38,649 - INFO - Progress: 2590/100000 (2.6%) Rate: 0.1 eval/sec ETA: 15100.3 min
+2025-07-27 17:16:02,430 - INFO - Progress: 2600/100000 (2.6%) Rate: 0.1 eval/sec ETA: 15092.9 min
+2025-07-27 17:16:02,535 - INFO - Checkpoint saved: 2600 evaluations completed
+2025-07-27 17:17:27,107 - INFO - Progress: 2610/100000 (2.6%) Rate: 0.1 eval/sec ETA: 15086.2 min
+2025-07-27 17:18:50,821 - INFO - Progress: 2620/100000 (2.6%) Rate: 0.1 eval/sec ETA: 15079.0 min
+2025-07-27 17:20:14,709 - INFO - Progress: 2630/100000 (2.6%) Rate: 0.1 eval/sec ETA: 15071.9 min
+2025-07-27 17:21:31,114 - INFO - Progress: 2640/100000 (2.6%) Rate: 0.1 eval/sec ETA: 15060.2 min
+2025-07-27 17:22:55,845 - INFO - Progress: 2650/100000 (2.6%) Rate: 0.1 eval/sec ETA: 15053.7 min
+2025-07-27 17:22:55,968 - INFO - Checkpoint saved: 2650 evaluations completed
+2025-07-27 17:24:19,212 - INFO - Progress: 2660/100000 (2.7%) Rate: 0.1 eval/sec ETA: 15046.4 min
+2025-07-27 17:25:41,440 - INFO - Progress: 2670/100000 (2.7%) Rate: 0.1 eval/sec ETA: 15038.5 min
+2025-07-27 17:27:06,777 - INFO - Progress: 2680/100000 (2.7%) Rate: 0.1 eval/sec ETA: 15032.5 min
+2025-07-27 17:28:29,161 - INFO - Progress: 2690/100000 (2.7%) Rate: 0.1 eval/sec ETA: 15024.7 min
+2025-07-27 17:29:53,045 - INFO - Progress: 2700/100000 (2.7%) Rate: 0.1 eval/sec ETA: 15017.9 min
+2025-07-27 17:29:53,155 - INFO - Checkpoint saved: 2700 evaluations completed
+2025-07-27 17:31:13,919 - INFO - Progress: 2710/100000 (2.7%) Rate: 0.1 eval/sec ETA: 15009.3 min
+2025-07-27 17:32:35,418 - INFO - Progress: 2720/100000 (2.7%) Rate: 0.1 eval/sec ETA: 15001.2 min
+2025-07-27 17:33:58,781 - INFO - Progress: 2730/100000 (2.7%) Rate: 0.1 eval/sec ETA: 14994.2 min
+2025-07-27 17:35:21,783 - INFO - Progress: 2740/100000 (2.7%) Rate: 0.1 eval/sec ETA: 14987.1 min
+2025-07-27 17:36:43,521 - INFO - Progress: 2750/100000 (2.8%) Rate: 0.1 eval/sec ETA: 14979.2 min
+2025-07-27 17:36:43,631 - INFO - Checkpoint saved: 2750 evaluations completed
+2025-07-27 17:38:06,631 - INFO - Progress: 2760/100000 (2.8%) Rate: 0.1 eval/sec ETA: 14972.2 min
+2025-07-27 17:39:28,736 - INFO - Progress: 2770/100000 (2.8%) Rate: 0.1 eval/sec ETA: 14964.7 min
+2025-07-27 17:40:52,714 - INFO - Progress: 2780/100000 (2.8%) Rate: 0.1 eval/sec ETA: 14958.2 min
+2025-07-27 17:42:14,227 - INFO - Progress: 2790/100000 (2.8%) Rate: 0.1 eval/sec ETA: 14950.4 min
+2025-07-27 17:43:37,509 - INFO - Progress: 2800/100000 (2.8%) Rate: 0.1 eval/sec ETA: 14943.7 min
+2025-07-27 17:43:37,618 - INFO - Checkpoint saved: 2800 evaluations completed
+2025-07-27 17:44:54,981 - INFO - Progress: 2810/100000 (2.8%) Rate: 0.1 eval/sec ETA: 14933.6 min
+2025-07-27 17:46:17,778 - INFO - Progress: 2820/100000 (2.8%) Rate: 0.1 eval/sec ETA: 14926.7 min
+2025-07-27 17:47:42,284 - INFO - Progress: 2830/100000 (2.8%) Rate: 0.1 eval/sec ETA: 14920.8 min
+2025-07-27 17:49:04,586 - INFO - Progress: 2840/100000 (2.8%) Rate: 0.1 eval/sec ETA: 14913.6 min
+2025-07-27 17:50:25,942 - INFO - Progress: 2850/100000 (2.9%) Rate: 0.1 eval/sec ETA: 14906.0 min
+2025-07-27 17:50:26,055 - INFO - Checkpoint saved: 2850 evaluations completed
+2025-07-27 17:51:48,201 - INFO - Progress: 2860/100000 (2.9%) Rate: 0.1 eval/sec ETA: 14898.9 min
+2025-07-27 17:53:07,626 - INFO - Progress: 2870/100000 (2.9%) Rate: 0.1 eval/sec ETA: 14890.3 min
+2025-07-27 17:54:27,390 - INFO - Progress: 2880/100000 (2.9%) Rate: 0.1 eval/sec ETA: 14881.9 min
+2025-07-27 17:55:48,120 - INFO - Progress: 2890/100000 (2.9%) Rate: 0.1 eval/sec ETA: 14874.1 min
+2025-07-27 17:57:11,211 - INFO - Progress: 2900/100000 (2.9%) Rate: 0.1 eval/sec ETA: 14867.6 min
+2025-07-27 17:57:11,325 - INFO - Checkpoint saved: 2900 evaluations completed
+2025-07-27 17:58:33,181 - INFO - Progress: 2910/100000 (2.9%) Rate: 0.1 eval/sec ETA: 14860.6 min
+2025-07-27 17:59:56,434 - INFO - Progress: 2920/100000 (2.9%) Rate: 0.1 eval/sec ETA: 14854.3 min
+2025-07-27 18:01:18,615 - INFO - Progress: 2930/100000 (2.9%) Rate: 0.1 eval/sec ETA: 14847.5 min
+2025-07-27 18:02:42,103 - INFO - Progress: 2940/100000 (2.9%) Rate: 0.1 eval/sec ETA: 14841.4 min
+2025-07-27 18:04:05,148 - INFO - Progress: 2950/100000 (3.0%) Rate: 0.1 eval/sec ETA: 14835.1 min
+2025-07-27 18:04:05,263 - INFO - Checkpoint saved: 2950 evaluations completed
+2025-07-27 18:05:24,839 - INFO - Progress: 2960/100000 (3.0%) Rate: 0.1 eval/sec ETA: 14827.0 min
+2025-07-27 18:06:48,730 - INFO - Progress: 2970/100000 (3.0%) Rate: 0.1 eval/sec ETA: 14821.2 min
+2025-07-27 18:08:11,623 - INFO - Progress: 2980/100000 (3.0%) Rate: 0.1 eval/sec ETA: 14814.9 min
+2025-07-27 18:09:34,112 - INFO - Progress: 2990/100000 (3.0%) Rate: 0.1 eval/sec ETA: 14808.5 min
+2025-07-27 18:10:58,314 - INFO - Progress: 3000/100000 (3.0%) Rate: 0.1 eval/sec ETA: 14803.0 min
+2025-07-27 18:10:58,469 - INFO - Checkpoint saved: 3000 evaluations completed
+2025-07-27 18:12:20,725 - INFO - Progress: 3010/100000 (3.0%) Rate: 0.1 eval/sec ETA: 14796.5 min
+2025-07-27 18:13:43,430 - INFO - Progress: 3020/100000 (3.0%) Rate: 0.1 eval/sec ETA: 14790.3 min
+2025-07-27 18:15:09,303 - INFO - Progress: 3030/100000 (3.0%) Rate: 0.1 eval/sec ETA: 14785.7 min
+2025-07-27 18:16:34,561 - INFO - Progress: 3040/100000 (3.0%) Rate: 0.1 eval/sec ETA: 14780.9 min
+2025-07-27 18:18:01,314 - INFO - Progress: 3050/100000 (3.0%) Rate: 0.1 eval/sec ETA: 14776.9 min
+2025-07-27 18:18:01,433 - INFO - Checkpoint saved: 3050 evaluations completed
+2025-07-27 18:19:27,967 - INFO - Progress: 3060/100000 (3.1%) Rate: 0.1 eval/sec ETA: 14772.8 min
+2025-07-27 18:20:53,668 - INFO - Progress: 3070/100000 (3.1%) Rate: 0.1 eval/sec ETA: 14768.3 min
+2025-07-27 18:22:20,840 - INFO - Progress: 3080/100000 (3.1%) Rate: 0.1 eval/sec ETA: 14764.5 min
+2025-07-27 18:23:46,312 - INFO - Progress: 3090/100000 (3.1%) Rate: 0.1 eval/sec ETA: 14759.9 min
+2025-07-27 18:25:11,172 - INFO - Progress: 3100/100000 (3.1%) Rate: 0.1 eval/sec ETA: 14755.0 min
+2025-07-27 18:25:11,311 - INFO - Checkpoint saved: 3100 evaluations completed
+2025-07-27 18:26:38,115 - INFO - Progress: 3110/100000 (3.1%) Rate: 0.1 eval/sec ETA: 14751.2 min
+2025-07-27 18:28:08,176 - INFO - Progress: 3120/100000 (3.1%) Rate: 0.1 eval/sec ETA: 14749.0 min
+2025-07-27 18:29:32,883 - INFO - Progress: 3130/100000 (3.1%) Rate: 0.1 eval/sec ETA: 14744.0 min
+2025-07-27 18:31:00,038 - INFO - Progress: 3140/100000 (3.1%) Rate: 0.1 eval/sec ETA: 14740.4 min
+2025-07-27 18:32:25,561 - INFO - Progress: 3150/100000 (3.1%) Rate: 0.1 eval/sec ETA: 14735.9 min
+2025-07-27 18:32:25,699 - INFO - Checkpoint saved: 3150 evaluations completed
+2025-07-27 18:33:52,166 - INFO - Progress: 3160/100000 (3.2%) Rate: 0.1 eval/sec ETA: 14732.0 min
+2025-07-27 18:35:18,744 - INFO - Progress: 3170/100000 (3.2%) Rate: 0.1 eval/sec ETA: 14728.0 min
+2025-07-27 18:36:46,573 - INFO - Progress: 3180/100000 (3.2%) Rate: 0.1 eval/sec ETA: 14724.8 min
+2025-07-27 18:38:13,963 - INFO - Progress: 3190/100000 (3.2%) Rate: 0.1 eval/sec ETA: 14721.3 min
+2025-07-27 18:39:40,021 - INFO - Progress: 3200/100000 (3.2%) Rate: 0.1 eval/sec ETA: 14717.2 min
+2025-07-27 18:39:40,164 - INFO - Checkpoint saved: 3200 evaluations completed
+2025-07-27 18:41:08,062 - INFO - Progress: 3210/100000 (3.2%) Rate: 0.1 eval/sec ETA: 14714.1 min
+2025-07-27 18:42:35,544 - INFO - Progress: 3220/100000 (3.2%) Rate: 0.1 eval/sec ETA: 14710.7 min
+2025-07-27 18:44:02,955 - INFO - Progress: 3230/100000 (3.2%) Rate: 0.1 eval/sec ETA: 14707.3 min
+2025-07-27 18:45:29,735 - INFO - Progress: 3240/100000 (3.2%) Rate: 0.1 eval/sec ETA: 14703.5 min
+2025-07-27 18:46:57,429 - INFO - Progress: 3250/100000 (3.2%) Rate: 0.1 eval/sec ETA: 14700.3 min
+2025-07-27 18:46:57,554 - INFO - Checkpoint saved: 3250 evaluations completed
+2025-07-27 18:48:23,933 - INFO - Progress: 3260/100000 (3.3%) Rate: 0.1 eval/sec ETA: 14696.5 min
+2025-07-27 18:49:52,083 - INFO - Progress: 3270/100000 (3.3%) Rate: 0.1 eval/sec ETA: 14693.5 min
+2025-07-27 18:51:19,623 - INFO - Progress: 3280/100000 (3.3%) Rate: 0.1 eval/sec ETA: 14690.2 min
+2025-07-27 18:52:47,259 - INFO - Progress: 3290/100000 (3.3%) Rate: 0.1 eval/sec ETA: 14687.0 min
+2025-07-27 18:54:13,941 - INFO - Progress: 3300/100000 (3.3%) Rate: 0.1 eval/sec ETA: 14683.3 min
+2025-07-27 18:54:14,097 - INFO - Checkpoint saved: 3300 evaluations completed
+2025-07-27 18:55:40,982 - INFO - Progress: 3310/100000 (3.3%) Rate: 0.1 eval/sec ETA: 14679.8 min
+2025-07-27 18:57:02,615 - INFO - Progress: 3320/100000 (3.3%) Rate: 0.1 eval/sec ETA: 14673.7 min
+2025-07-27 18:58:30,203 - INFO - Progress: 3330/100000 (3.3%) Rate: 0.1 eval/sec ETA: 14670.5 min
+2025-07-27 18:59:56,946 - INFO - Progress: 3340/100000 (3.3%) Rate: 0.1 eval/sec ETA: 14666.9 min
+2025-07-27 19:01:20,743 - INFO - Progress: 3350/100000 (3.4%) Rate: 0.1 eval/sec ETA: 14661.9 min
+2025-07-27 19:01:20,886 - INFO - Checkpoint saved: 3350 evaluations completed
+2025-07-27 19:02:47,135 - INFO - Progress: 3360/100000 (3.4%) Rate: 0.1 eval/sec ETA: 14658.1 min
+2025-07-27 19:04:15,489 - INFO - Progress: 3370/100000 (3.4%) Rate: 0.1 eval/sec ETA: 14655.3 min
+2025-07-27 19:05:42,426 - INFO - Progress: 3380/100000 (3.4%) Rate: 0.1 eval/sec ETA: 14651.9 min
+2025-07-27 19:07:09,896 - INFO - Progress: 3390/100000 (3.4%) Rate: 0.1 eval/sec ETA: 14648.7 min
+2025-07-27 19:08:37,906 - INFO - Progress: 3400/100000 (3.4%) Rate: 0.1 eval/sec ETA: 14645.8 min
+2025-07-27 19:08:38,047 - INFO - Checkpoint saved: 3400 evaluations completed
+2025-07-27 19:10:05,149 - INFO - Progress: 3410/100000 (3.4%) Rate: 0.1 eval/sec ETA: 14642.5 min
+2025-07-27 19:11:33,651 - INFO - Progress: 3420/100000 (3.4%) Rate: 0.1 eval/sec ETA: 14639.8 min
+2025-07-27 19:13:01,214 - INFO - Progress: 3430/100000 (3.4%) Rate: 0.1 eval/sec ETA: 14636.7 min
+2025-07-27 19:14:27,567 - INFO - Progress: 3440/100000 (3.4%) Rate: 0.1 eval/sec ETA: 14633.1 min
+2025-07-27 19:15:50,806 - INFO - Progress: 3450/100000 (3.5%) Rate: 0.1 eval/sec ETA: 14628.0 min
+2025-07-27 19:15:50,953 - INFO - Checkpoint saved: 3450 evaluations completed
+2025-07-27 19:17:14,154 - INFO - Progress: 3460/100000 (3.5%) Rate: 0.1 eval/sec ETA: 14622.9 min
+2025-07-27 19:18:38,200 - INFO - Progress: 3470/100000 (3.5%) Rate: 0.1 eval/sec ETA: 14618.3 min
+2025-07-27 19:20:06,968 - INFO - Progress: 3480/100000 (3.5%) Rate: 0.1 eval/sec ETA: 14615.8 min
+2025-07-27 19:21:35,634 - INFO - Progress: 3490/100000 (3.5%) Rate: 0.1 eval/sec ETA: 14613.3 min
+2025-07-27 19:23:05,012 - INFO - Progress: 3500/100000 (3.5%) Rate: 0.1 eval/sec ETA: 14611.1 min
+2025-07-27 19:23:05,143 - INFO - Checkpoint saved: 3500 evaluations completed
+2025-07-27 19:24:32,247 - INFO - Progress: 3510/100000 (3.5%) Rate: 0.1 eval/sec ETA: 14607.9 min
+2025-07-27 19:26:00,179 - INFO - Progress: 3520/100000 (3.5%) Rate: 0.1 eval/sec ETA: 14605.1 min
+2025-07-27 19:27:28,043 - INFO - Progress: 3530/100000 (3.5%) Rate: 0.1 eval/sec ETA: 14602.2 min
+2025-07-27 19:28:55,493 - INFO - Progress: 3540/100000 (3.5%) Rate: 0.1 eval/sec ETA: 14599.1 min
+2025-07-27 19:30:21,044 - INFO - Progress: 3550/100000 (3.5%) Rate: 0.1 eval/sec ETA: 14595.2 min
+2025-07-27 19:30:21,174 - INFO - Checkpoint saved: 3550 evaluations completed
+2025-07-27 19:31:47,972 - INFO - Progress: 3560/100000 (3.6%) Rate: 0.1 eval/sec ETA: 14592.0 min
+2025-07-27 19:33:14,522 - INFO - Progress: 3570/100000 (3.6%) Rate: 0.1 eval/sec ETA: 14588.6 min
+2025-07-27 19:34:39,262 - INFO - Progress: 3580/100000 (3.6%) Rate: 0.1 eval/sec ETA: 14584.4 min
+2025-07-27 19:36:03,490 - INFO - Progress: 3590/100000 (3.6%) Rate: 0.1 eval/sec ETA: 14579.9 min
+2025-07-27 19:37:27,596 - INFO - Progress: 3600/100000 (3.6%) Rate: 0.1 eval/sec ETA: 14575.4 min
+2025-07-27 19:37:27,729 - INFO - Checkpoint saved: 3600 evaluations completed
+2025-07-27 19:38:52,730 - INFO - Progress: 3610/100000 (3.6%) Rate: 0.1 eval/sec ETA: 14571.4 min
+2025-07-27 19:40:17,469 - INFO - Progress: 3620/100000 (3.6%) Rate: 0.1 eval/sec ETA: 14567.3 min
+2025-07-27 19:41:41,320 - INFO - Progress: 3630/100000 (3.6%) Rate: 0.1 eval/sec ETA: 14562.8 min
+2025-07-27 19:43:05,200 - INFO - Progress: 3640/100000 (3.6%) Rate: 0.1 eval/sec ETA: 14558.2 min
+2025-07-27 19:44:25,751 - INFO - Progress: 3650/100000 (3.6%) Rate: 0.1 eval/sec ETA: 14552.3 min
+2025-07-27 19:44:25,886 - INFO - Checkpoint saved: 3650 evaluations completed
+2025-07-27 19:45:50,547 - INFO - Progress: 3660/100000 (3.7%) Rate: 0.1 eval/sec ETA: 14548.2 min
+2025-07-27 19:47:15,231 - INFO - Progress: 3670/100000 (3.7%) Rate: 0.1 eval/sec ETA: 14544.1 min
+2025-07-27 19:48:39,803 - INFO - Progress: 3680/100000 (3.7%) Rate: 0.1 eval/sec ETA: 14540.0 min
+2025-07-27 19:50:04,308 - INFO - Progress: 3690/100000 (3.7%) Rate: 0.1 eval/sec ETA: 14535.8 min
+2025-07-27 19:51:28,666 - INFO - Progress: 3700/100000 (3.7%) Rate: 0.1 eval/sec ETA: 14531.6 min
+2025-07-27 19:51:28,805 - INFO - Checkpoint saved: 3700 evaluations completed
+2025-07-27 19:52:52,449 - INFO - Progress: 3710/100000 (3.7%) Rate: 0.1 eval/sec ETA: 14527.2 min
+2025-07-27 19:54:11,553 - INFO - Progress: 3720/100000 (3.7%) Rate: 0.1 eval/sec ETA: 14520.8 min
+2025-07-27 19:55:33,086 - INFO - Progress: 3730/100000 (3.7%) Rate: 0.1 eval/sec ETA: 14515.4 min
+2025-07-27 19:56:58,678 - INFO - Progress: 3740/100000 (3.7%) Rate: 0.1 eval/sec ETA: 14511.8 min
+2025-07-27 19:58:24,490 - INFO - Progress: 3750/100000 (3.8%) Rate: 0.1 eval/sec ETA: 14508.3 min
+2025-07-27 19:58:24,628 - INFO - Checkpoint saved: 3750 evaluations completed
+2025-07-27 19:59:51,632 - INFO - Progress: 3760/100000 (3.8%) Rate: 0.1 eval/sec ETA: 14505.4 min
+2025-07-27 20:01:16,073 - INFO - Progress: 3770/100000 (3.8%) Rate: 0.1 eval/sec ETA: 14501.4 min
+2025-07-27 20:02:37,302 - INFO - Progress: 3780/100000 (3.8%) Rate: 0.1 eval/sec ETA: 14496.0 min
+2025-07-27 20:04:01,346 - INFO - Progress: 3790/100000 (3.8%) Rate: 0.1 eval/sec ETA: 14491.8 min
+2025-07-27 20:05:26,512 - INFO - Progress: 3800/100000 (3.8%) Rate: 0.1 eval/sec ETA: 14488.1 min
+2025-07-27 20:05:26,645 - INFO - Checkpoint saved: 3800 evaluations completed
+2025-07-27 20:06:50,827 - INFO - Progress: 3810/100000 (3.8%) Rate: 0.1 eval/sec ETA: 14484.0 min
+2025-07-27 20:08:14,038 - INFO - Progress: 3820/100000 (3.8%) Rate: 0.1 eval/sec ETA: 14479.5 min
+2025-07-27 20:09:36,522 - INFO - Progress: 3830/100000 (3.8%) Rate: 0.1 eval/sec ETA: 14474.7 min
+2025-07-27 20:11:00,351 - INFO - Progress: 3840/100000 (3.8%) Rate: 0.1 eval/sec ETA: 14470.5 min
+2025-07-27 20:12:25,691 - INFO - Progress: 3850/100000 (3.9%) Rate: 0.1 eval/sec ETA: 14466.9 min
+2025-07-27 20:12:25,840 - INFO - Checkpoint saved: 3850 evaluations completed
+2025-07-27 20:13:47,338 - INFO - Progress: 3860/100000 (3.9%) Rate: 0.1 eval/sec ETA: 14461.9 min
+2025-07-27 20:15:13,554 - INFO - Progress: 3870/100000 (3.9%) Rate: 0.1 eval/sec ETA: 14458.7 min
+2025-07-27 20:16:39,641 - INFO - Progress: 3880/100000 (3.9%) Rate: 0.1 eval/sec ETA: 14455.5 min
+2025-07-27 20:18:04,716 - INFO - Progress: 3890/100000 (3.9%) Rate: 0.1 eval/sec ETA: 14451.8 min
+2025-07-27 20:19:28,403 - INFO - Progress: 3900/100000 (3.9%) Rate: 0.1 eval/sec ETA: 14447.6 min
+2025-07-27 20:19:28,542 - INFO - Checkpoint saved: 3900 evaluations completed
+2025-07-27 20:20:52,050 - INFO - Progress: 3910/100000 (3.9%) Rate: 0.1 eval/sec ETA: 14443.5 min
+2025-07-27 20:22:13,801 - INFO - Progress: 3920/100000 (3.9%) Rate: 0.1 eval/sec ETA: 14438.5 min
+2025-07-27 20:23:39,760 - INFO - Progress: 3930/100000 (3.9%) Rate: 0.1 eval/sec ETA: 14435.3 min
+2025-07-27 20:25:03,841 - INFO - Progress: 3940/100000 (3.9%) Rate: 0.1 eval/sec ETA: 14431.3 min
+2025-07-27 20:26:26,895 - INFO - Progress: 3950/100000 (4.0%) Rate: 0.1 eval/sec ETA: 14426.9 min
+2025-07-27 20:26:27,051 - INFO - Checkpoint saved: 3950 evaluations completed
+2025-07-27 20:27:50,571 - INFO - Progress: 3960/100000 (4.0%) Rate: 0.1 eval/sec ETA: 14422.8 min
+2025-07-27 20:29:14,902 - INFO - Progress: 3970/100000 (4.0%) Rate: 0.1 eval/sec ETA: 14419.0 min
+2025-07-27 20:30:37,413 - INFO - Progress: 3980/100000 (4.0%) Rate: 0.1 eval/sec ETA: 14414.5 min
+2025-07-27 20:32:01,191 - INFO - Progress: 3990/100000 (4.0%) Rate: 0.1 eval/sec ETA: 14410.4 min
+2025-07-27 20:33:25,667 - INFO - Progress: 4000/100000 (4.0%) Rate: 0.1 eval/sec ETA: 14406.7 min
+2025-07-27 20:33:25,812 - INFO - Checkpoint saved: 4000 evaluations completed
+2025-07-27 20:34:51,747 - INFO - Progress: 4010/100000 (4.0%) Rate: 0.1 eval/sec ETA: 14403.6 min
+2025-07-27 20:36:17,891 - INFO - Progress: 4020/100000 (4.0%) Rate: 0.1 eval/sec ETA: 14400.6 min
+2025-07-27 20:37:43,471 - INFO - Progress: 4030/100000 (4.0%) Rate: 0.1 eval/sec ETA: 14397.3 min
+2025-07-27 20:39:08,201 - INFO - Progress: 4040/100000 (4.0%) Rate: 0.1 eval/sec ETA: 14393.7 min
+2025-07-27 20:40:30,883 - INFO - Progress: 4050/100000 (4.0%) Rate: 0.1 eval/sec ETA: 14389.3 min
+2025-07-27 20:40:31,041 - INFO - Checkpoint saved: 4050 evaluations completed
+2025-07-27 20:41:54,339 - INFO - Progress: 4060/100000 (4.1%) Rate: 0.1 eval/sec ETA: 14385.3 min
+2025-07-27 20:43:16,133 - INFO - Progress: 4070/100000 (4.1%) Rate: 0.1 eval/sec ETA: 14380.5 min
+2025-07-27 20:44:42,593 - INFO - Progress: 4080/100000 (4.1%) Rate: 0.1 eval/sec ETA: 14377.7 min
+2025-07-27 20:46:08,109 - INFO - Progress: 4090/100000 (4.1%) Rate: 0.1 eval/sec ETA: 14374.5 min
+2025-07-27 20:47:33,941 - INFO - Progress: 4100/100000 (4.1%) Rate: 0.1 eval/sec ETA: 14371.4 min
+2025-07-27 20:47:34,093 - INFO - Checkpoint saved: 4100 evaluations completed
+2025-07-27 20:48:59,577 - INFO - Progress: 4110/100000 (4.1%) Rate: 0.1 eval/sec ETA: 14368.2 min
+2025-07-27 20:50:19,137 - INFO - Progress: 4120/100000 (4.1%) Rate: 0.1 eval/sec ETA: 14362.7 min
+2025-07-27 20:51:44,380 - INFO - Progress: 4130/100000 (4.1%) Rate: 0.1 eval/sec ETA: 14359.4 min
+2025-07-27 20:53:02,284 - INFO - Progress: 4140/100000 (4.1%) Rate: 0.1 eval/sec ETA: 14353.3 min
+2025-07-27 20:54:26,443 - INFO - Progress: 4150/100000 (4.2%) Rate: 0.1 eval/sec ETA: 14349.6 min
+2025-07-27 20:54:26,604 - INFO - Checkpoint saved: 4150 evaluations completed
+2025-07-27 20:55:47,300 - INFO - Progress: 4160/100000 (4.2%) Rate: 0.1 eval/sec ETA: 14344.7 min
+2025-07-27 20:57:10,937 - INFO - Progress: 4170/100000 (4.2%) Rate: 0.1 eval/sec ETA: 14340.8 min
+2025-07-27 20:58:34,523 - INFO - Progress: 4180/100000 (4.2%) Rate: 0.1 eval/sec ETA: 14336.9 min
+2025-07-27 20:59:59,842 - INFO - Progress: 4190/100000 (4.2%) Rate: 0.1 eval/sec ETA: 14333.7 min
+2025-07-27 21:01:25,921 - INFO - Progress: 4200/100000 (4.2%) Rate: 0.1 eval/sec ETA: 14330.8 min
+2025-07-27 21:01:26,077 - INFO - Checkpoint saved: 4200 evaluations completed
+2025-07-27 21:02:52,273 - INFO - Progress: 4210/100000 (4.2%) Rate: 0.1 eval/sec ETA: 14328.1 min
+2025-07-27 21:04:16,664 - INFO - Progress: 4220/100000 (4.2%) Rate: 0.1 eval/sec ETA: 14324.5 min
+2025-07-27 21:05:43,678 - INFO - Progress: 4230/100000 (4.2%) Rate: 0.1 eval/sec ETA: 14322.0 min
+2025-07-27 21:07:08,636 - INFO - Progress: 4240/100000 (4.2%) Rate: 0.1 eval/sec ETA: 14318.7 min
+2025-07-27 21:08:33,236 - INFO - Progress: 4250/100000 (4.2%) Rate: 0.1 eval/sec ETA: 14315.3 min
+2025-07-27 21:08:33,387 - INFO - Checkpoint saved: 4250 evaluations completed
+2025-07-27 21:14:01,573 - INFO - Progress manager initialized
+2025-07-27 21:14:03,608 - INFO - Created evaluation plan with 100000 tasks
+2025-07-27 21:14:03,623 - INFO - Checkpoint loaded: 4250 evaluations completed
+2025-07-27 21:14:03,623 - INFO - Last checkpoint: 2025-07-27T21:08:33.239416
+2025-07-27 21:14:03,623 - INFO - Resumed with 4250 completed evaluations
+2025-07-27 21:15:20,320 - INFO - Progress: 10/95750 (0.0%) Rate: 0.2 eval/sec ETA: 7294.2 min
+2025-07-27 21:16:03,752 - INFO - Progress: 20/95750 (0.0%) Rate: 0.2 eval/sec ETA: 7111.5 min
+2025-07-27 21:16:47,554 - INFO - Progress: 30/95750 (0.0%) Rate: 0.2 eval/sec ETA: 7069.8 min
+2025-07-27 21:17:31,147 - INFO - Progress: 40/95750 (0.0%) Rate: 0.2 eval/sec ETA: 7040.2 min
+2025-07-27 21:18:15,209 - INFO - Progress: 50/95750 (0.1%) Rate: 0.2 eval/sec ETA: 7037.2 min
+2025-07-27 21:18:15,328 - INFO - Checkpoint saved: 4300 evaluations completed
+2025-07-27 21:18:58,189 - INFO - Progress: 60/95750 (0.1%) Rate: 0.2 eval/sec ETA: 7006.1 min
+2025-07-27 21:19:42,763 - INFO - Progress: 70/95750 (0.1%) Rate: 0.2 eval/sec ETA: 7020.1 min
+2025-07-27 21:20:27,003 - INFO - Progress: 80/95750 (0.1%) Rate: 0.2 eval/sec ETA: 7023.7 min
+2025-07-27 21:21:12,050 - INFO - Progress: 90/95750 (0.1%) Rate: 0.2 eval/sec ETA: 7040.6 min
+2025-07-27 21:21:57,149 - INFO - Progress: 100/95750 (0.1%) Rate: 0.2 eval/sec ETA: 7054.8 min
+2025-07-27 21:21:57,267 - INFO - Checkpoint saved: 4350 evaluations completed
+2025-07-27 21:22:42,173 - INFO - Progress: 110/95750 (0.1%) Rate: 0.2 eval/sec ETA: 7065.3 min
+2025-07-27 21:23:27,857 - INFO - Progress: 120/95750 (0.1%) Rate: 0.2 eval/sec ETA: 7082.6 min
+2025-07-27 21:24:12,484 - INFO - Progress: 130/95750 (0.1%) Rate: 0.2 eval/sec ETA: 7084.2 min
+2025-07-27 21:24:57,439 - INFO - Progress: 140/95750 (0.1%) Rate: 0.2 eval/sec ETA: 7089.2 min
+2025-07-27 21:25:42,726 - INFO - Progress: 150/95750 (0.2%) Rate: 0.2 eval/sec ETA: 7096.9 min
+2025-07-27 21:25:42,846 - INFO - Checkpoint saved: 4400 evaluations completed
+2025-07-27 21:26:26,894 - INFO - Progress: 160/95750 (0.2%) Rate: 0.2 eval/sec ETA: 7092.4 min
+2025-07-27 21:27:12,266 - INFO - Progress: 170/95750 (0.2%) Rate: 0.2 eval/sec ETA: 7099.7 min
+2025-07-27 21:27:57,995 - INFO - Progress: 180/95750 (0.2%) Rate: 0.2 eval/sec ETA: 7109.2 min
+2025-07-27 21:28:44,254 - INFO - Progress: 190/95750 (0.2%) Rate: 0.2 eval/sec ETA: 7122.1 min
+2025-07-27 21:29:29,328 - INFO - Progress: 200/95750 (0.2%) Rate: 0.2 eval/sec ETA: 7124.2 min
+2025-07-27 21:29:29,451 - INFO - Checkpoint saved: 4450 evaluations completed
+2025-07-27 21:30:14,870 - INFO - Progress: 210/95750 (0.2%) Rate: 0.2 eval/sec ETA: 7129.6 min
+2025-07-27 21:31:00,606 - INFO - Progress: 220/95750 (0.2%) Rate: 0.2 eval/sec ETA: 7135.8 min
+2025-07-27 21:31:46,324 - INFO - Progress: 230/95750 (0.2%) Rate: 0.2 eval/sec ETA: 7141.3 min
+2025-07-27 21:32:32,041 - INFO - Progress: 240/95750 (0.3%) Rate: 0.2 eval/sec ETA: 7146.2 min
+2025-07-27 21:33:17,437 - INFO - Progress: 250/95750 (0.3%) Rate: 0.2 eval/sec ETA: 7148.7 min
+2025-07-27 21:33:17,561 - INFO - Checkpoint saved: 4500 evaluations completed
+2025-07-27 21:34:03,179 - INFO - Progress: 260/95750 (0.3%) Rate: 0.2 eval/sec ETA: 7153.0 min
+2025-07-27 21:34:47,197 - INFO - Progress: 270/95750 (0.3%) Rate: 0.2 eval/sec ETA: 7146.8 min
+2025-07-27 21:35:32,072 - INFO - Progress: 280/95750 (0.3%) Rate: 0.2 eval/sec ETA: 7145.8 min
+2025-07-27 21:36:17,060 - INFO - Progress: 290/95750 (0.3%) Rate: 0.2 eval/sec ETA: 7145.5 min
+2025-07-27 21:37:02,163 - INFO - Progress: 300/95750 (0.3%) Rate: 0.2 eval/sec ETA: 7145.8 min
+2025-07-27 21:37:02,285 - INFO - Checkpoint saved: 4550 evaluations completed
+2025-07-27 21:37:48,188 - INFO - Progress: 310/95750 (0.3%) Rate: 0.2 eval/sec ETA: 7150.7 min
+2025-07-27 21:38:33,514 - INFO - Progress: 320/95750 (0.3%) Rate: 0.2 eval/sec ETA: 7151.8 min
+2025-07-27 21:39:19,123 - INFO - Progress: 330/95750 (0.3%) Rate: 0.2 eval/sec ETA: 7154.2 min
+2025-07-27 21:40:05,089 - INFO - Progress: 340/95750 (0.4%) Rate: 0.2 eval/sec ETA: 7158.0 min
+2025-07-27 21:40:50,100 - INFO - Progress: 350/95750 (0.4%) Rate: 0.2 eval/sec ETA: 7157.2 min
+2025-07-27 21:40:50,222 - INFO - Checkpoint saved: 4600 evaluations completed
+2025-07-27 21:41:35,878 - INFO - Progress: 360/95750 (0.4%) Rate: 0.2 eval/sec ETA: 7159.9 min
+2025-07-27 21:42:21,323 - INFO - Progress: 370/95750 (0.4%) Rate: 0.2 eval/sec ETA: 7160.9 min
+2025-07-27 21:43:06,895 - INFO - Progress: 380/95750 (0.4%) Rate: 0.2 eval/sec ETA: 7162.3 min
+2025-07-27 21:43:52,488 - INFO - Progress: 390/95750 (0.4%) Rate: 0.2 eval/sec ETA: 7163.7 min
+2025-07-27 21:44:37,724 - INFO - Progress: 400/95750 (0.4%) Rate: 0.2 eval/sec ETA: 7163.6 min
+2025-07-27 21:44:37,849 - INFO - Checkpoint saved: 4650 evaluations completed
+2025-07-27 21:45:23,867 - INFO - Progress: 410/95750 (0.4%) Rate: 0.2 eval/sec ETA: 7167.0 min
+2025-07-27 21:46:09,428 - INFO - Progress: 420/95750 (0.4%) Rate: 0.2 eval/sec ETA: 7168.0 min
+2025-07-27 21:46:54,800 - INFO - Progress: 430/95750 (0.4%) Rate: 0.2 eval/sec ETA: 7168.2 min
+2025-07-27 21:47:39,908 - INFO - Progress: 440/95750 (0.5%) Rate: 0.2 eval/sec ETA: 7167.4 min
+2025-07-27 21:48:25,338 - INFO - Progress: 450/95750 (0.5%) Rate: 0.2 eval/sec ETA: 7167.7 min
+2025-07-27 21:48:25,463 - INFO - Checkpoint saved: 4700 evaluations completed
+2025-07-27 21:49:11,401 - INFO - Progress: 460/95750 (0.5%) Rate: 0.2 eval/sec ETA: 7170.2 min
+2025-07-27 21:49:57,629 - INFO - Progress: 470/95750 (0.5%) Rate: 0.2 eval/sec ETA: 7173.1 min
+2025-07-27 21:50:42,914 - INFO - Progress: 480/95750 (0.5%) Rate: 0.2 eval/sec ETA: 7172.7 min
+2025-07-27 21:51:26,748 - INFO - Progress: 490/95750 (0.5%) Rate: 0.2 eval/sec ETA: 7167.6 min
+2025-07-27 21:52:11,743 - INFO - Progress: 500/95750 (0.5%) Rate: 0.2 eval/sec ETA: 7166.4 min
+2025-07-27 21:52:11,871 - INFO - Checkpoint saved: 4750 evaluations completed
+2025-07-27 21:52:57,562 - INFO - Progress: 510/95750 (0.5%) Rate: 0.2 eval/sec ETA: 7167.8 min
+2025-07-27 21:53:43,293 - INFO - Progress: 520/95750 (0.5%) Rate: 0.2 eval/sec ETA: 7168.8 min
+2025-07-27 21:54:29,467 - INFO - Progress: 530/95750 (0.6%) Rate: 0.2 eval/sec ETA: 7171.0 min
+2025-07-27 21:55:15,376 - INFO - Progress: 540/95750 (0.6%) Rate: 0.2 eval/sec ETA: 7172.4 min
+2025-07-27 21:56:00,466 - INFO - Progress: 550/95750 (0.6%) Rate: 0.2 eval/sec ETA: 7171.3 min
+2025-07-27 21:56:00,603 - INFO - Checkpoint saved: 4800 evaluations completed
+2025-07-27 21:56:46,069 - INFO - Progress: 560/95750 (0.6%) Rate: 0.2 eval/sec ETA: 7171.7 min
+2025-07-27 21:57:31,719 - INFO - Progress: 570/95750 (0.6%) Rate: 0.2 eval/sec ETA: 7172.2 min
+2025-07-27 21:58:17,006 - INFO - Progress: 580/95750 (0.6%) Rate: 0.2 eval/sec ETA: 7171.7 min
+2025-07-27 21:59:02,358 - INFO - Progress: 590/95750 (0.6%) Rate: 0.2 eval/sec ETA: 7171.3 min
+2025-07-27 21:59:48,169 - INFO - Progress: 600/95750 (0.6%) Rate: 0.2 eval/sec ETA: 7172.1 min
+2025-07-27 21:59:48,300 - INFO - Checkpoint saved: 4850 evaluations completed
+2025-07-27 22:00:33,951 - INFO - Progress: 610/95750 (0.6%) Rate: 0.2 eval/sec ETA: 7172.8 min
+2025-07-27 22:01:19,490 - INFO - Progress: 620/95750 (0.6%) Rate: 0.2 eval/sec ETA: 7172.8 min
+2025-07-27 22:02:04,524 - INFO - Progress: 630/95750 (0.7%) Rate: 0.2 eval/sec ETA: 7171.5 min
+2025-07-27 22:02:50,458 - INFO - Progress: 640/95750 (0.7%) Rate: 0.2 eval/sec ETA: 7172.5 min
+2025-07-27 22:03:36,078 - INFO - Progress: 650/95750 (0.7%) Rate: 0.2 eval/sec ETA: 7172.7 min
+2025-07-27 22:03:36,207 - INFO - Checkpoint saved: 4900 evaluations completed
+2025-07-27 22:04:22,390 - INFO - Progress: 660/95750 (0.7%) Rate: 0.2 eval/sec ETA: 7174.5 min
+2025-07-27 22:05:07,900 - INFO - Progress: 670/95750 (0.7%) Rate: 0.2 eval/sec ETA: 7174.3 min
+2025-07-27 22:05:53,960 - INFO - Progress: 680/95750 (0.7%) Rate: 0.2 eval/sec ETA: 7175.3 min
+2025-07-27 22:06:39,599 - INFO - Progress: 690/95750 (0.7%) Rate: 0.2 eval/sec ETA: 7175.4 min
+2025-07-27 22:07:23,692 - INFO - Progress: 700/95750 (0.7%) Rate: 0.2 eval/sec ETA: 7171.9 min
+2025-07-27 22:07:23,822 - INFO - Checkpoint saved: 4950 evaluations completed
+2025-07-27 22:08:09,706 - INFO - Progress: 710/95750 (0.7%) Rate: 0.2 eval/sec ETA: 7172.8 min
+2025-07-27 22:08:55,372 - INFO - Progress: 720/95750 (0.8%) Rate: 0.2 eval/sec ETA: 7172.9 min
+2025-07-27 22:09:41,490 - INFO - Progress: 730/95750 (0.8%) Rate: 0.2 eval/sec ETA: 7174.0 min
+2025-07-27 22:10:26,498 - INFO - Progress: 740/95750 (0.8%) Rate: 0.2 eval/sec ETA: 7172.6 min
+2025-07-27 22:11:13,384 - INFO - Progress: 750/95750 (0.8%) Rate: 0.2 eval/sec ETA: 7175.2 min
+2025-07-27 22:11:13,515 - INFO - Checkpoint saved: 5000 evaluations completed
+2025-07-27 22:11:59,554 - INFO - Progress: 760/95750 (0.8%) Rate: 0.2 eval/sec ETA: 7176.2 min
+2025-07-27 22:12:44,039 - INFO - Progress: 770/95750 (0.8%) Rate: 0.2 eval/sec ETA: 7173.7 min
+2025-07-27 22:13:30,090 - INFO - Progress: 780/95750 (0.8%) Rate: 0.2 eval/sec ETA: 7174.5 min
+2025-07-27 22:14:15,733 - INFO - Progress: 790/95750 (0.8%) Rate: 0.2 eval/sec ETA: 7174.3 min
+2025-07-27 22:14:59,766 - INFO - Progress: 800/95750 (0.8%) Rate: 0.2 eval/sec ETA: 7171.0 min
+2025-07-27 22:14:59,900 - INFO - Checkpoint saved: 5050 evaluations completed
+2025-07-27 22:15:45,877 - INFO - Progress: 810/95750 (0.8%) Rate: 0.2 eval/sec ETA: 7171.8 min
+2025-07-27 22:16:33,081 - INFO - Progress: 820/95750 (0.9%) Rate: 0.2 eval/sec ETA: 7174.7 min
+2025-07-27 22:17:20,189 - INFO - Progress: 830/95750 (0.9%) Rate: 0.2 eval/sec ETA: 7177.3 min
+2025-07-27 22:18:06,332 - INFO - Progress: 840/95750 (0.9%) Rate: 0.2 eval/sec ETA: 7178.0 min
+2025-07-27 22:18:52,276 - INFO - Progress: 850/95750 (0.9%) Rate: 0.2 eval/sec ETA: 7178.3 min
+2025-07-27 22:18:52,411 - INFO - Checkpoint saved: 5100 evaluations completed
+2025-07-27 22:19:38,601 - INFO - Progress: 860/95750 (0.9%) Rate: 0.2 eval/sec ETA: 7179.3 min
+2025-07-27 22:20:24,656 - INFO - Progress: 870/95750 (0.9%) Rate: 0.2 eval/sec ETA: 7179.7 min
+2025-07-27 22:21:10,943 - INFO - Progress: 880/95750 (0.9%) Rate: 0.2 eval/sec ETA: 7180.5 min
+2025-07-27 22:21:55,805 - INFO - Progress: 890/95750 (0.9%) Rate: 0.2 eval/sec ETA: 7178.8 min
+2025-07-27 22:22:42,129 - INFO - Progress: 900/95750 (0.9%) Rate: 0.2 eval/sec ETA: 7179.7 min
+2025-07-27 22:22:42,264 - INFO - Checkpoint saved: 5150 evaluations completed
+2025-07-27 22:23:29,906 - INFO - Progress: 910/95750 (1.0%) Rate: 0.2 eval/sec ETA: 7183.0 min
+2025-07-27 22:24:17,704 - INFO - Progress: 920/95750 (1.0%) Rate: 0.2 eval/sec ETA: 7186.3 min
+2025-07-27 22:25:06,267 - INFO - Progress: 930/95750 (1.0%) Rate: 0.2 eval/sec ETA: 7190.8 min
+2025-07-27 22:25:54,259 - INFO - Progress: 940/95750 (1.0%) Rate: 0.2 eval/sec ETA: 7194.2 min
+2025-07-27 22:26:41,322 - INFO - Progress: 950/95750 (1.0%) Rate: 0.2 eval/sec ETA: 7196.0 min
+2025-07-27 22:26:41,460 - INFO - Checkpoint saved: 5200 evaluations completed
+2025-07-27 22:27:28,519 - INFO - Progress: 960/95750 (1.0%) Rate: 0.2 eval/sec ETA: 7198.0 min
+2025-07-27 22:28:16,675 - INFO - Progress: 970/95750 (1.0%) Rate: 0.2 eval/sec ETA: 7201.4 min
+2025-07-27 22:29:04,596 - INFO - Progress: 980/95750 (1.0%) Rate: 0.2 eval/sec ETA: 7204.4 min
+2025-07-27 22:29:52,196 - INFO - Progress: 990/95750 (1.0%) Rate: 0.2 eval/sec ETA: 7206.8 min
+2025-07-27 22:30:39,750 - INFO - Progress: 1000/95750 (1.0%) Rate: 0.2 eval/sec ETA: 7209.1 min
+2025-07-27 22:30:39,892 - INFO - Checkpoint saved: 5250 evaluations completed
+2025-07-27 22:31:27,878 - INFO - Progress: 1010/95750 (1.1%) Rate: 0.2 eval/sec ETA: 7212.2 min
+2025-07-27 22:32:16,085 - INFO - Progress: 1020/95750 (1.1%) Rate: 0.2 eval/sec ETA: 7215.4 min
+2025-07-27 22:33:04,281 - INFO - Progress: 1030/95750 (1.1%) Rate: 0.2 eval/sec ETA: 7218.5 min
+2025-07-27 22:33:52,674 - INFO - Progress: 1040/95750 (1.1%) Rate: 0.2 eval/sec ETA: 7221.7 min
+2025-07-27 22:34:40,906 - INFO - Progress: 1050/95750 (1.1%) Rate: 0.2 eval/sec ETA: 7224.7 min
+2025-07-27 22:34:41,049 - INFO - Checkpoint saved: 5300 evaluations completed
+2025-07-27 22:35:29,002 - INFO - Progress: 1060/95750 (1.1%) Rate: 0.2 eval/sec ETA: 7227.4 min
+2025-07-27 22:36:15,823 - INFO - Progress: 1070/95750 (1.1%) Rate: 0.2 eval/sec ETA: 7228.1 min
+2025-07-27 22:37:04,125 - INFO - Progress: 1080/95750 (1.1%) Rate: 0.2 eval/sec ETA: 7231.0 min
+2025-07-27 22:37:51,540 - INFO - Progress: 1090/95750 (1.1%) Rate: 0.2 eval/sec ETA: 7232.6 min
+2025-07-27 22:38:40,747 - INFO - Progress: 1100/95750 (1.1%) Rate: 0.2 eval/sec ETA: 7236.6 min
+2025-07-27 22:38:40,887 - INFO - Checkpoint saved: 5350 evaluations completed
+2025-07-27 22:39:29,554 - INFO - Progress: 1110/95750 (1.2%) Rate: 0.2 eval/sec ETA: 7240.0 min
+2025-07-27 22:40:18,380 - INFO - Progress: 1120/95750 (1.2%) Rate: 0.2 eval/sec ETA: 7243.4 min
+2025-07-27 22:41:06,651 - INFO - Progress: 1130/95750 (1.2%) Rate: 0.2 eval/sec ETA: 7245.9 min
+2025-07-27 22:41:55,220 - INFO - Progress: 1140/95750 (1.2%) Rate: 0.2 eval/sec ETA: 7248.7 min
+2025-07-27 22:42:43,803 - INFO - Progress: 1150/95750 (1.2%) Rate: 0.2 eval/sec ETA: 7251.6 min
+2025-07-27 22:42:43,945 - INFO - Checkpoint saved: 5400 evaluations completed
+2025-07-27 22:43:32,496 - INFO - Progress: 1160/95750 (1.2%) Rate: 0.2 eval/sec ETA: 7254.5 min
+2025-07-27 22:44:21,249 - INFO - Progress: 1170/95750 (1.2%) Rate: 0.2 eval/sec ETA: 7257.4 min
+2025-07-27 22:45:09,657 - INFO - Progress: 1180/95750 (1.2%) Rate: 0.2 eval/sec ETA: 7259.8 min
+2025-07-27 22:45:57,955 - INFO - Progress: 1190/95750 (1.2%) Rate: 0.2 eval/sec ETA: 7262.0 min
+2025-07-27 22:46:45,371 - INFO - Progress: 1200/95750 (1.3%) Rate: 0.2 eval/sec ETA: 7263.0 min
+2025-07-27 22:46:45,514 - INFO - Checkpoint saved: 5450 evaluations completed
+2025-07-27 22:47:34,085 - INFO - Progress: 1210/95750 (1.3%) Rate: 0.2 eval/sec ETA: 7265.6 min
+2025-07-27 22:48:23,482 - INFO - Progress: 1220/95750 (1.3%) Rate: 0.2 eval/sec ETA: 7269.1 min
+2025-07-27 22:49:12,638 - INFO - Progress: 1230/95750 (1.3%) Rate: 0.2 eval/sec ETA: 7272.2 min
+2025-07-27 22:50:01,564 - INFO - Progress: 1240/95750 (1.3%) Rate: 0.2 eval/sec ETA: 7274.9 min
+2025-07-27 22:50:49,615 - INFO - Progress: 1250/95750 (1.3%) Rate: 0.2 eval/sec ETA: 7276.5 min
+2025-07-27 22:50:49,760 - INFO - Checkpoint saved: 5500 evaluations completed
+2025-07-27 22:51:38,062 - INFO - Progress: 1260/95750 (1.3%) Rate: 0.2 eval/sec ETA: 7278.5 min
+2025-07-27 22:52:25,793 - INFO - Progress: 1270/95750 (1.3%) Rate: 0.2 eval/sec ETA: 7279.7 min
+2025-07-27 22:53:14,689 - INFO - Progress: 1280/95750 (1.3%) Rate: 0.2 eval/sec ETA: 7282.2 min
+2025-07-27 22:54:02,630 - INFO - Progress: 1290/95750 (1.3%) Rate: 0.2 eval/sec ETA: 7283.5 min
+2025-07-27 22:54:48,621 - INFO - Progress: 1300/95750 (1.4%) Rate: 0.2 eval/sec ETA: 7282.4 min
+2025-07-27 22:54:48,765 - INFO - Checkpoint saved: 5550 evaluations completed
+2025-07-27 22:55:35,216 - INFO - Progress: 1310/95750 (1.4%) Rate: 0.2 eval/sec ETA: 7282.0 min
+2025-07-27 22:56:21,923 - INFO - Progress: 1320/95750 (1.4%) Rate: 0.2 eval/sec ETA: 7281.7 min
+2025-07-27 22:57:07,231 - INFO - Progress: 1330/95750 (1.4%) Rate: 0.2 eval/sec ETA: 7279.8 min
+2025-07-27 22:57:53,832 - INFO - Progress: 1340/95750 (1.4%) Rate: 0.2 eval/sec ETA: 7279.5 min
+2025-07-27 22:58:39,733 - INFO - Progress: 1350/95750 (1.4%) Rate: 0.2 eval/sec ETA: 7278.3 min
+2025-07-27 22:58:39,877 - INFO - Checkpoint saved: 5600 evaluations completed
+2025-07-27 22:59:25,130 - INFO - Progress: 1360/95750 (1.4%) Rate: 0.2 eval/sec ETA: 7276.5 min
+2025-07-27 23:00:11,397 - INFO - Progress: 1370/95750 (1.4%) Rate: 0.2 eval/sec ETA: 7275.7 min
+2025-07-27 23:00:59,454 - INFO - Progress: 1380/95750 (1.4%) Rate: 0.2 eval/sec ETA: 7277.0 min
+2025-07-27 23:01:45,989 - INFO - Progress: 1390/95750 (1.5%) Rate: 0.2 eval/sec ETA: 7276.6 min
+2025-07-27 23:02:32,961 - INFO - Progress: 1400/95750 (1.5%) Rate: 0.2 eval/sec ETA: 7276.6 min
+2025-07-27 23:02:33,107 - INFO - Checkpoint saved: 5650 evaluations completed
+2025-07-27 23:03:23,008 - INFO - Progress: 1410/95750 (1.5%) Rate: 0.2 eval/sec ETA: 7280.0 min
+2025-07-27 23:04:12,516 - INFO - Progress: 1420/95750 (1.5%) Rate: 0.2 eval/sec ETA: 7282.8 min
+2025-07-27 23:05:02,215 - INFO - Progress: 1430/95750 (1.5%) Rate: 0.2 eval/sec ETA: 7285.7 min
+2025-07-27 23:05:50,363 - INFO - Progress: 1440/95750 (1.5%) Rate: 0.2 eval/sec ETA: 7286.9 min
+2025-07-27 23:06:39,994 - INFO - Progress: 1450/95750 (1.5%) Rate: 0.2 eval/sec ETA: 7289.7 min
+2025-07-27 23:06:40,143 - INFO - Checkpoint saved: 5700 evaluations completed
+2025-07-27 23:07:30,495 - INFO - Progress: 1460/95750 (1.5%) Rate: 0.2 eval/sec ETA: 7293.4 min
+2025-07-27 23:08:21,097 - INFO - Progress: 1470/95750 (1.5%) Rate: 0.2 eval/sec ETA: 7297.1 min
+2025-07-27 23:09:09,322 - INFO - Progress: 1480/95750 (1.5%) Rate: 0.2 eval/sec ETA: 7298.2 min
+2025-07-27 23:10:00,501 - INFO - Progress: 1490/95750 (1.6%) Rate: 0.2 eval/sec ETA: 7302.4 min
+2025-07-27 23:10:50,379 - INFO - Progress: 1500/95750 (1.6%) Rate: 0.2 eval/sec ETA: 7305.2 min
+2025-07-27 23:10:50,527 - INFO - Checkpoint saved: 5750 evaluations completed
+2025-07-27 23:11:40,825 - INFO - Progress: 1510/95750 (1.6%) Rate: 0.2 eval/sec ETA: 7308.5 min
+2025-07-27 23:12:30,167 - INFO - Progress: 1520/95750 (1.6%) Rate: 0.2 eval/sec ETA: 7310.6 min
+2025-07-27 23:13:20,476 - INFO - Progress: 1530/95750 (1.6%) Rate: 0.2 eval/sec ETA: 7313.7 min
+2025-07-27 23:14:10,270 - INFO - Progress: 1540/95750 (1.6%) Rate: 0.2 eval/sec ETA: 7316.2 min
+2025-07-27 23:14:58,014 - INFO - Progress: 1550/95750 (1.6%) Rate: 0.2 eval/sec ETA: 7316.6 min
+2025-07-27 23:14:58,162 - INFO - Checkpoint saved: 5800 evaluations completed
+2025-07-27 23:15:45,665 - INFO - Progress: 1560/95750 (1.6%) Rate: 0.2 eval/sec ETA: 7316.9 min
+2025-07-27 23:16:32,639 - INFO - Progress: 1570/95750 (1.6%) Rate: 0.2 eval/sec ETA: 7316.5 min
+2025-07-27 23:17:21,155 - INFO - Progress: 1580/95750 (1.7%) Rate: 0.2 eval/sec ETA: 7317.6 min
+2025-07-27 23:18:12,356 - INFO - Progress: 1590/95750 (1.7%) Rate: 0.2 eval/sec ETA: 7321.3 min
+2025-07-27 23:19:03,062 - INFO - Progress: 1600/95750 (1.7%) Rate: 0.2 eval/sec ETA: 7324.5 min
+2025-07-27 23:19:03,216 - INFO - Checkpoint saved: 5850 evaluations completed
+2025-07-27 23:19:53,435 - INFO - Progress: 1610/95750 (1.7%) Rate: 0.2 eval/sec ETA: 7327.4 min
+2025-07-27 23:20:42,533 - INFO - Progress: 1620/95750 (1.7%) Rate: 0.2 eval/sec ETA: 7328.9 min
+2025-07-27 23:21:32,689 - INFO - Progress: 1630/95750 (1.7%) Rate: 0.2 eval/sec ETA: 7331.4 min
+2025-07-27 23:22:22,150 - INFO - Progress: 1640/95750 (1.7%) Rate: 0.2 eval/sec ETA: 7333.3 min
+2025-07-27 23:23:11,626 - INFO - Progress: 1650/95750 (1.7%) Rate: 0.2 eval/sec ETA: 7335.1 min
+2025-07-27 23:23:11,780 - INFO - Checkpoint saved: 5900 evaluations completed
+2025-07-27 23:24:02,120 - INFO - Progress: 1660/95750 (1.7%) Rate: 0.2 eval/sec ETA: 7337.8 min
+2025-07-27 23:24:49,706 - INFO - Progress: 1670/95750 (1.7%) Rate: 0.2 eval/sec ETA: 7337.8 min
+2025-07-27 23:25:35,638 - INFO - Progress: 1680/95750 (1.8%) Rate: 0.2 eval/sec ETA: 7336.2 min
+2025-07-27 23:26:23,504 - INFO - Progress: 1690/95750 (1.8%) Rate: 0.2 eval/sec ETA: 7336.4 min
+2025-07-27 23:27:10,067 - INFO - Progress: 1700/95750 (1.8%) Rate: 0.2 eval/sec ETA: 7335.4 min
+2025-07-27 23:27:10,219 - INFO - Checkpoint saved: 5950 evaluations completed
+2025-07-27 23:27:57,225 - INFO - Progress: 1710/95750 (1.8%) Rate: 0.2 eval/sec ETA: 7335.0 min
+2025-07-27 23:28:44,565 - INFO - Progress: 1720/95750 (1.8%) Rate: 0.2 eval/sec ETA: 7334.7 min
+2025-07-27 23:29:31,427 - INFO - Progress: 1730/95750 (1.8%) Rate: 0.2 eval/sec ETA: 7333.9 min
+2025-07-27 23:30:18,213 - INFO - Progress: 1740/95750 (1.8%) Rate: 0.2 eval/sec ETA: 7333.1 min
+2025-07-27 23:31:06,274 - INFO - Progress: 1750/95750 (1.8%) Rate: 0.2 eval/sec ETA: 7333.5 min
+2025-07-27 23:31:06,425 - INFO - Checkpoint saved: 6000 evaluations completed
+2025-07-27 23:31:53,663 - INFO - Progress: 1760/95750 (1.8%) Rate: 0.2 eval/sec ETA: 7333.2 min
+2025-07-27 23:32:40,958 - INFO - Progress: 1770/95750 (1.8%) Rate: 0.2 eval/sec ETA: 7332.9 min
+2025-07-27 23:33:28,616 - INFO - Progress: 1780/95750 (1.9%) Rate: 0.2 eval/sec ETA: 7332.8 min
+2025-07-27 23:34:16,271 - INFO - Progress: 1790/95750 (1.9%) Rate: 0.2 eval/sec ETA: 7332.8 min
+2025-07-27 23:35:03,328 - INFO - Progress: 1800/95750 (1.9%) Rate: 0.2 eval/sec ETA: 7332.2 min
+2025-07-27 23:35:03,480 - INFO - Checkpoint saved: 6050 evaluations completed
+2025-07-27 23:35:50,864 - INFO - Progress: 1810/95750 (1.9%) Rate: 0.2 eval/sec ETA: 7332.0 min
+2025-07-27 23:36:38,246 - INFO - Progress: 1820/95750 (1.9%) Rate: 0.2 eval/sec ETA: 7331.7 min
+2025-07-27 23:37:24,069 - INFO - Progress: 1830/95750 (1.9%) Rate: 0.2 eval/sec ETA: 7330.1 min
+2025-07-27 23:38:12,057 - INFO - Progress: 1840/95750 (1.9%) Rate: 0.2 eval/sec ETA: 7330.3 min
+2025-07-27 23:38:59,432 - INFO - Progress: 1850/95750 (1.9%) Rate: 0.2 eval/sec ETA: 7330.0 min
+2025-07-27 23:38:59,584 - INFO - Checkpoint saved: 6100 evaluations completed
+2025-07-27 23:39:46,741 - INFO - Progress: 1860/95750 (1.9%) Rate: 0.2 eval/sec ETA: 7329.6 min
+2025-07-27 23:40:34,655 - INFO - Progress: 1870/95750 (2.0%) Rate: 0.2 eval/sec ETA: 7329.7 min
+2025-07-27 23:41:22,744 - INFO - Progress: 1880/95750 (2.0%) Rate: 0.2 eval/sec ETA: 7330.0 min
+2025-07-27 23:42:10,732 - INFO - Progress: 1890/95750 (2.0%) Rate: 0.2 eval/sec ETA: 7330.1 min
+2025-07-27 23:42:58,491 - INFO - Progress: 1900/95750 (2.0%) Rate: 0.2 eval/sec ETA: 7330.1 min
+2025-07-27 23:42:58,646 - INFO - Checkpoint saved: 6150 evaluations completed
+2025-07-27 23:43:46,556 - INFO - Progress: 1910/95750 (2.0%) Rate: 0.2 eval/sec ETA: 7330.3 min
+2025-07-27 23:44:35,786 - INFO - Progress: 1920/95750 (2.0%) Rate: 0.2 eval/sec ETA: 7331.4 min
+2025-07-27 23:45:24,414 - INFO - Progress: 1930/95750 (2.0%) Rate: 0.2 eval/sec ETA: 7332.1 min
+2025-07-27 23:46:13,829 - INFO - Progress: 1940/95750 (2.0%) Rate: 0.2 eval/sec ETA: 7333.3 min
+2025-07-27 23:47:02,474 - INFO - Progress: 1950/95750 (2.0%) Rate: 0.2 eval/sec ETA: 7333.9 min
+2025-07-27 23:47:02,634 - INFO - Checkpoint saved: 6200 evaluations completed
+2025-07-27 23:47:52,600 - INFO - Progress: 1960/95750 (2.0%) Rate: 0.2 eval/sec ETA: 7335.7 min
+2025-07-27 23:48:41,965 - INFO - Progress: 1970/95750 (2.1%) Rate: 0.2 eval/sec ETA: 7336.9 min
+2025-07-27 23:49:31,806 - INFO - Progress: 1980/95750 (2.1%) Rate: 0.2 eval/sec ETA: 7338.4 min
+2025-07-27 23:50:20,953 - INFO - Progress: 1990/95750 (2.1%) Rate: 0.2 eval/sec ETA: 7339.3 min
+2025-07-27 23:51:10,660 - INFO - Progress: 2000/95750 (2.1%) Rate: 0.2 eval/sec ETA: 7340.7 min
+2025-07-27 23:51:10,818 - INFO - Checkpoint saved: 6250 evaluations completed
+2025-07-27 23:52:00,702 - INFO - Progress: 2010/95750 (2.1%) Rate: 0.2 eval/sec ETA: 7342.3 min
+2025-07-27 23:52:50,317 - INFO - Progress: 2020/95750 (2.1%) Rate: 0.2 eval/sec ETA: 7343.5 min
+2025-07-27 23:53:40,720 - INFO - Progress: 2030/95750 (2.1%) Rate: 0.2 eval/sec ETA: 7345.3 min
+2025-07-27 23:54:29,454 - INFO - Progress: 2040/95750 (2.1%) Rate: 0.2 eval/sec ETA: 7345.9 min
+2025-07-27 23:55:20,471 - INFO - Progress: 2050/95750 (2.1%) Rate: 0.2 eval/sec ETA: 7348.1 min
+2025-07-27 23:55:20,628 - INFO - Checkpoint saved: 6300 evaluations completed
+2025-07-27 23:56:09,329 - INFO - Progress: 2060/95750 (2.2%) Rate: 0.2 eval/sec ETA: 7348.7 min
+2025-07-27 23:56:59,166 - INFO - Progress: 2070/95750 (2.2%) Rate: 0.2 eval/sec ETA: 7350.0 min
+2025-07-27 23:57:47,189 - INFO - Progress: 2080/95750 (2.2%) Rate: 0.2 eval/sec ETA: 7349.9 min
+2025-07-27 23:58:36,314 - INFO - Progress: 2090/95750 (2.2%) Rate: 0.2 eval/sec ETA: 7350.7 min
+2025-07-27 23:59:24,555 - INFO - Progress: 2100/95750 (2.2%) Rate: 0.2 eval/sec ETA: 7350.7 min
+2025-07-27 23:59:24,717 - INFO - Checkpoint saved: 6350 evaluations completed
+2025-07-28 00:00:14,250 - INFO - Progress: 2110/95750 (2.2%) Rate: 0.2 eval/sec ETA: 7351.9 min
+2025-07-28 00:01:03,588 - INFO - Progress: 2120/95750 (2.2%) Rate: 0.2 eval/sec ETA: 7352.7 min
+2025-07-28 00:01:53,624 - INFO - Progress: 2130/95750 (2.2%) Rate: 0.2 eval/sec ETA: 7354.1 min
+2025-07-28 00:02:42,718 - INFO - Progress: 2140/95750 (2.2%) Rate: 0.2 eval/sec ETA: 7354.7 min
+2025-07-28 00:03:32,061 - INFO - Progress: 2150/95750 (2.2%) Rate: 0.2 eval/sec ETA: 7355.5 min
+2025-07-28 00:03:32,223 - INFO - Checkpoint saved: 6400 evaluations completed
+2025-07-28 00:04:21,167 - INFO - Progress: 2160/95750 (2.3%) Rate: 0.2 eval/sec ETA: 7356.2 min
+2025-07-28 00:05:10,629 - INFO - Progress: 2170/95750 (2.3%) Rate: 0.2 eval/sec ETA: 7357.0 min
+2025-07-28 00:05:56,200 - INFO - Progress: 2180/95750 (2.3%) Rate: 0.2 eval/sec ETA: 7355.1 min
+2025-07-28 00:06:42,611 - INFO - Progress: 2190/95750 (2.3%) Rate: 0.2 eval/sec ETA: 7353.8 min
+2025-07-28 00:07:29,991 - INFO - Progress: 2200/95750 (2.3%) Rate: 0.2 eval/sec ETA: 7353.2 min
+2025-07-28 00:07:30,152 - INFO - Checkpoint saved: 6450 evaluations completed
+2025-07-28 00:08:17,575 - INFO - Progress: 2210/95750 (2.3%) Rate: 0.2 eval/sec ETA: 7352.7 min
+2025-07-28 00:09:04,512 - INFO - Progress: 2220/95750 (2.3%) Rate: 0.2 eval/sec ETA: 7351.7 min
+2025-07-28 00:09:51,823 - INFO - Progress: 2230/95750 (2.3%) Rate: 0.2 eval/sec ETA: 7351.0 min
+2025-07-28 00:10:38,346 - INFO - Progress: 2240/95750 (2.3%) Rate: 0.2 eval/sec ETA: 7349.8 min
+2025-07-28 00:11:25,145 - INFO - Progress: 2250/95750 (2.3%) Rate: 0.2 eval/sec ETA: 7348.8 min
+2025-07-28 00:11:25,305 - INFO - Checkpoint saved: 6500 evaluations completed
+2025-07-28 00:12:11,443 - INFO - Progress: 2260/95750 (2.4%) Rate: 0.2 eval/sec ETA: 7347.4 min
+2025-07-28 00:12:58,724 - INFO - Progress: 2270/95750 (2.4%) Rate: 0.2 eval/sec ETA: 7346.7 min
+2025-07-28 00:13:44,446 - INFO - Progress: 2280/95750 (2.4%) Rate: 0.2 eval/sec ETA: 7344.9 min
+2025-07-28 00:14:32,730 - INFO - Progress: 2290/95750 (2.4%) Rate: 0.2 eval/sec ETA: 7344.9 min
+2025-07-28 00:15:19,786 - INFO - Progress: 2300/95750 (2.4%) Rate: 0.2 eval/sec ETA: 7344.1 min
+2025-07-28 00:15:19,954 - INFO - Checkpoint saved: 6550 evaluations completed
+2025-07-28 00:16:09,210 - INFO - Progress: 2310/95750 (2.4%) Rate: 0.2 eval/sec ETA: 7344.8 min
+2025-07-28 00:16:57,049 - INFO - Progress: 2320/95750 (2.4%) Rate: 0.2 eval/sec ETA: 7344.5 min
+2025-07-28 00:17:45,550 - INFO - Progress: 2330/95750 (2.4%) Rate: 0.2 eval/sec ETA: 7344.6 min
+2025-07-28 00:18:32,831 - INFO - Progress: 2340/95750 (2.4%) Rate: 0.2 eval/sec ETA: 7343.9 min
+2025-07-28 00:19:21,155 - INFO - Progress: 2350/95750 (2.5%) Rate: 0.2 eval/sec ETA: 7343.9 min
+2025-07-28 00:19:21,320 - INFO - Checkpoint saved: 6600 evaluations completed
+2025-07-28 00:20:08,815 - INFO - Progress: 2360/95750 (2.5%) Rate: 0.2 eval/sec ETA: 7343.4 min
+2025-07-28 00:20:57,016 - INFO - Progress: 2370/95750 (2.5%) Rate: 0.2 eval/sec ETA: 7343.3 min
+2025-07-28 00:21:44,516 - INFO - Progress: 2380/95750 (2.5%) Rate: 0.2 eval/sec ETA: 7342.7 min
+2025-07-28 00:22:31,597 - INFO - Progress: 2390/95750 (2.5%) Rate: 0.2 eval/sec ETA: 7341.8 min
+2025-07-28 00:23:18,331 - INFO - Progress: 2400/95750 (2.5%) Rate: 0.2 eval/sec ETA: 7340.8 min
+2025-07-28 00:23:18,497 - INFO - Checkpoint saved: 6650 evaluations completed
+2025-07-28 00:24:08,469 - INFO - Progress: 2410/95750 (2.5%) Rate: 0.2 eval/sec ETA: 7341.9 min
+2025-07-28 00:24:58,095 - INFO - Progress: 2420/95750 (2.5%) Rate: 0.2 eval/sec ETA: 7342.7 min
+2025-07-28 00:25:48,063 - INFO - Progress: 2430/95750 (2.5%) Rate: 0.2 eval/sec ETA: 7343.6 min
+2025-07-28 00:26:35,405 - INFO - Progress: 2440/95750 (2.5%) Rate: 0.2 eval/sec ETA: 7342.9 min
+2025-07-28 00:27:23,649 - INFO - Progress: 2450/95750 (2.6%) Rate: 0.2 eval/sec ETA: 7342.8 min
+2025-07-28 00:27:23,819 - INFO - Checkpoint saved: 6700 evaluations completed
+2025-07-28 00:28:13,565 - INFO - Progress: 2460/95750 (2.6%) Rate: 0.2 eval/sec ETA: 7343.7 min
+2025-07-28 00:29:04,140 - INFO - Progress: 2470/95750 (2.6%) Rate: 0.2 eval/sec ETA: 7345.0 min
+2025-07-28 00:29:53,152 - INFO - Progress: 2480/95750 (2.6%) Rate: 0.2 eval/sec ETA: 7345.4 min
+2025-07-28 00:30:42,867 - INFO - Progress: 2490/95750 (2.6%) Rate: 0.2 eval/sec ETA: 7346.1 min
+2025-07-28 00:31:31,457 - INFO - Progress: 2500/95750 (2.6%) Rate: 0.2 eval/sec ETA: 7346.1 min
+2025-07-28 00:31:31,641 - INFO - Checkpoint saved: 6750 evaluations completed
+2025-07-28 00:32:21,592 - INFO - Progress: 2510/95750 (2.6%) Rate: 0.2 eval/sec ETA: 7347.1 min
+2025-07-28 00:33:11,874 - INFO - Progress: 2520/95750 (2.6%) Rate: 0.2 eval/sec ETA: 7348.2 min
+2025-07-28 00:34:04,260 - INFO - Progress: 2530/95750 (2.6%) Rate: 0.2 eval/sec ETA: 7350.5 min
+2025-07-28 00:34:54,477 - INFO - Progress: 2540/95750 (2.7%) Rate: 0.2 eval/sec ETA: 7351.5 min
+2025-07-28 00:35:45,111 - INFO - Progress: 2550/95750 (2.7%) Rate: 0.2 eval/sec ETA: 7352.8 min
+2025-07-28 00:35:45,284 - INFO - Checkpoint saved: 6800 evaluations completed
+2025-07-28 00:36:35,197 - INFO - Progress: 2560/95750 (2.7%) Rate: 0.2 eval/sec ETA: 7353.6 min
+2025-07-28 00:37:25,707 - INFO - Progress: 2570/95750 (2.7%) Rate: 0.2 eval/sec ETA: 7354.8 min
+2025-07-28 00:38:16,208 - INFO - Progress: 2580/95750 (2.7%) Rate: 0.2 eval/sec ETA: 7355.9 min
+2025-07-28 00:39:07,524 - INFO - Progress: 2590/95750 (2.7%) Rate: 0.2 eval/sec ETA: 7357.4 min
+2025-07-28 00:39:56,979 - INFO - Progress: 2600/95750 (2.7%) Rate: 0.2 eval/sec ETA: 7357.9 min
+2025-07-28 00:39:57,153 - INFO - Checkpoint saved: 6850 evaluations completed
+2025-07-28 00:40:47,185 - INFO - Progress: 2610/95750 (2.7%) Rate: 0.2 eval/sec ETA: 7358.8 min
+2025-07-28 00:41:35,799 - INFO - Progress: 2620/95750 (2.7%) Rate: 0.2 eval/sec ETA: 7358.7 min
+2025-07-28 00:42:26,084 - INFO - Progress: 2630/95750 (2.7%) Rate: 0.2 eval/sec ETA: 7359.6 min
+2025-07-28 00:43:18,583 - INFO - Progress: 2640/95750 (2.8%) Rate: 0.2 eval/sec ETA: 7361.8 min
+2025-07-28 00:44:08,720 - INFO - Progress: 2650/95750 (2.8%) Rate: 0.2 eval/sec ETA: 7362.6 min
+2025-07-28 00:44:08,892 - INFO - Checkpoint saved: 6900 evaluations completed
+2025-07-28 00:44:59,397 - INFO - Progress: 2660/95750 (2.8%) Rate: 0.2 eval/sec ETA: 7363.7 min
+2025-07-28 00:45:49,372 - INFO - Progress: 2670/95750 (2.8%) Rate: 0.2 eval/sec ETA: 7364.3 min
+2025-07-28 00:46:37,155 - INFO - Progress: 2680/95750 (2.8%) Rate: 0.2 eval/sec ETA: 7363.7 min
+2025-07-28 00:47:25,962 - INFO - Progress: 2690/95750 (2.8%) Rate: 0.2 eval/sec ETA: 7363.7 min
+2025-07-28 00:48:14,619 - INFO - Progress: 2700/95750 (2.8%) Rate: 0.2 eval/sec ETA: 7363.6 min
+2025-07-28 00:48:14,789 - INFO - Checkpoint saved: 6950 evaluations completed
+2025-07-28 00:49:03,342 - INFO - Progress: 2710/95750 (2.8%) Rate: 0.2 eval/sec ETA: 7363.5 min
+2025-07-28 00:49:53,191 - INFO - Progress: 2720/95750 (2.8%) Rate: 0.2 eval/sec ETA: 7364.1 min
+2025-07-28 00:50:42,379 - INFO - Progress: 2730/95750 (2.9%) Rate: 0.2 eval/sec ETA: 7364.2 min
+2025-07-28 00:51:31,365 - INFO - Progress: 2740/95750 (2.9%) Rate: 0.2 eval/sec ETA: 7364.3 min
+2025-07-28 00:52:20,966 - INFO - Progress: 2750/95750 (2.9%) Rate: 0.2 eval/sec ETA: 7364.7 min
+2025-07-28 00:52:21,142 - INFO - Checkpoint saved: 7000 evaluations completed
+2025-07-28 00:53:11,168 - INFO - Progress: 2760/95750 (2.9%) Rate: 0.2 eval/sec ETA: 7365.4 min
+2025-07-28 00:53:59,928 - INFO - Progress: 2770/95750 (2.9%) Rate: 0.2 eval/sec ETA: 7365.3 min
+2025-07-28 00:54:49,008 - INFO - Progress: 2780/95750 (2.9%) Rate: 0.2 eval/sec ETA: 7365.4 min
+2025-07-28 00:55:37,268 - INFO - Progress: 2790/95750 (2.9%) Rate: 0.2 eval/sec ETA: 7365.0 min
+2025-07-28 00:56:25,186 - INFO - Progress: 2800/95750 (2.9%) Rate: 0.2 eval/sec ETA: 7364.4 min
+2025-07-28 00:56:25,358 - INFO - Checkpoint saved: 7050 evaluations completed
+2025-07-28 00:57:14,271 - INFO - Progress: 2810/95750 (2.9%) Rate: 0.2 eval/sec ETA: 7364.5 min
+2025-07-28 00:58:03,552 - INFO - Progress: 2820/95750 (2.9%) Rate: 0.2 eval/sec ETA: 7364.6 min
+2025-07-28 00:58:54,262 - INFO - Progress: 2830/95750 (3.0%) Rate: 0.2 eval/sec ETA: 7365.6 min
+2025-07-28 00:59:44,619 - INFO - Progress: 2840/95750 (3.0%) Rate: 0.2 eval/sec ETA: 7366.3 min
+2025-07-28 01:00:34,103 - INFO - Progress: 2850/95750 (3.0%) Rate: 0.2 eval/sec ETA: 7366.5 min
+2025-07-28 01:00:34,280 - INFO - Checkpoint saved: 7100 evaluations completed
+2025-07-28 01:01:24,690 - INFO - Progress: 2860/95750 (3.0%) Rate: 0.2 eval/sec ETA: 7367.4 min
+2025-07-28 01:02:14,061 - INFO - Progress: 2870/95750 (3.0%) Rate: 0.2 eval/sec ETA: 7367.5 min
+2025-07-28 01:03:03,511 - INFO - Progress: 2880/95750 (3.0%) Rate: 0.2 eval/sec ETA: 7367.7 min
+2025-07-28 01:03:53,766 - INFO - Progress: 2890/95750 (3.0%) Rate: 0.2 eval/sec ETA: 7368.4 min
+2025-07-28 01:04:43,336 - INFO - Progress: 2900/95750 (3.0%) Rate: 0.2 eval/sec ETA: 7368.6 min
+2025-07-28 01:04:43,512 - INFO - Checkpoint saved: 7150 evaluations completed
+2025-07-28 01:05:33,301 - INFO - Progress: 2910/95750 (3.0%) Rate: 0.2 eval/sec ETA: 7369.1 min
+2025-07-28 01:06:23,171 - INFO - Progress: 2920/95750 (3.0%) Rate: 0.2 eval/sec ETA: 7369.5 min
+2025-07-28 01:07:11,812 - INFO - Progress: 2930/95750 (3.1%) Rate: 0.2 eval/sec ETA: 7369.2 min
+2025-07-28 01:08:01,837 - INFO - Progress: 2940/95750 (3.1%) Rate: 0.2 eval/sec ETA: 7369.7 min
+2025-07-28 01:08:51,173 - INFO - Progress: 2950/95750 (3.1%) Rate: 0.2 eval/sec ETA: 7369.8 min
+2025-07-28 01:08:51,356 - INFO - Checkpoint saved: 7200 evaluations completed
+2025-07-28 01:09:41,304 - INFO - Progress: 2960/95750 (3.1%) Rate: 0.2 eval/sec ETA: 7370.3 min
+2025-07-28 01:10:32,057 - INFO - Progress: 2970/95750 (3.1%) Rate: 0.2 eval/sec ETA: 7371.1 min
+2025-07-28 01:11:21,181 - INFO - Progress: 2980/95750 (3.1%) Rate: 0.2 eval/sec ETA: 7371.1 min
+2025-07-28 01:12:08,104 - INFO - Progress: 2990/95750 (3.1%) Rate: 0.2 eval/sec ETA: 7369.9 min
+2025-07-28 01:12:56,718 - INFO - Progress: 3000/95750 (3.1%) Rate: 0.2 eval/sec ETA: 7369.6 min
+2025-07-28 01:12:56,896 - INFO - Checkpoint saved: 7250 evaluations completed
+2025-07-28 01:13:44,896 - INFO - Progress: 3010/95750 (3.1%) Rate: 0.2 eval/sec ETA: 7369.0 min
+2025-07-28 01:14:34,552 - INFO - Progress: 3020/95750 (3.2%) Rate: 0.2 eval/sec ETA: 7369.2 min
+2025-07-28 01:15:25,278 - INFO - Progress: 3030/95750 (3.2%) Rate: 0.2 eval/sec ETA: 7370.0 min
+2025-07-28 01:16:15,160 - INFO - Progress: 3040/95750 (3.2%) Rate: 0.2 eval/sec ETA: 7370.3 min
+2025-07-28 01:17:04,745 - INFO - Progress: 3050/95750 (3.2%) Rate: 0.2 eval/sec ETA: 7370.5 min
+2025-07-28 01:17:04,923 - INFO - Checkpoint saved: 7300 evaluations completed
+2025-07-28 01:17:54,980 - INFO - Progress: 3060/95750 (3.2%) Rate: 0.2 eval/sec ETA: 7371.0 min
+2025-07-28 01:18:43,776 - INFO - Progress: 3070/95750 (3.2%) Rate: 0.2 eval/sec ETA: 7370.7 min
+2025-07-28 01:19:33,326 - INFO - Progress: 3080/95750 (3.2%) Rate: 0.2 eval/sec ETA: 7370.8 min
+2025-07-28 01:20:23,646 - INFO - Progress: 3090/95750 (3.2%) Rate: 0.2 eval/sec ETA: 7371.3 min
+2025-07-28 01:21:12,221 - INFO - Progress: 3100/95750 (3.2%) Rate: 0.2 eval/sec ETA: 7371.0 min
+2025-07-28 01:21:12,399 - INFO - Checkpoint saved: 7350 evaluations completed
+2025-07-28 01:22:02,901 - INFO - Progress: 3110/95750 (3.2%) Rate: 0.2 eval/sec ETA: 7371.6 min
+2025-07-28 01:22:53,301 - INFO - Progress: 3120/95750 (3.3%) Rate: 0.2 eval/sec ETA: 7372.1 min
+2025-07-28 01:23:43,491 - INFO - Progress: 3130/95750 (3.3%) Rate: 0.2 eval/sec ETA: 7372.6 min
+2025-07-28 01:24:32,880 - INFO - Progress: 3140/95750 (3.3%) Rate: 0.2 eval/sec ETA: 7372.6 min
+2025-07-28 01:25:21,291 - INFO - Progress: 3150/95750 (3.3%) Rate: 0.2 eval/sec ETA: 7372.1 min
+2025-07-28 01:25:21,471 - INFO - Checkpoint saved: 7400 evaluations completed
+2025-07-28 01:26:10,527 - INFO - Progress: 3160/95750 (3.3%) Rate: 0.2 eval/sec ETA: 7372.0 min
+2025-07-28 01:26:59,416 - INFO - Progress: 3170/95750 (3.3%) Rate: 0.2 eval/sec ETA: 7371.7 min
+2025-07-28 01:27:50,589 - INFO - Progress: 3180/95750 (3.3%) Rate: 0.2 eval/sec ETA: 7372.6 min
+2025-07-28 01:28:40,829 - INFO - Progress: 3190/95750 (3.3%) Rate: 0.2 eval/sec ETA: 7373.0 min
+2025-07-28 01:29:29,420 - INFO - Progress: 3200/95750 (3.3%) Rate: 0.2 eval/sec ETA: 7372.6 min
+2025-07-28 01:29:29,603 - INFO - Checkpoint saved: 7450 evaluations completed
+2025-07-28 01:30:18,928 - INFO - Progress: 3210/95750 (3.4%) Rate: 0.2 eval/sec ETA: 7372.6 min
+2025-07-28 01:31:09,851 - INFO - Progress: 3220/95750 (3.4%) Rate: 0.2 eval/sec ETA: 7373.3 min
+2025-07-28 01:31:58,669 - INFO - Progress: 3230/95750 (3.4%) Rate: 0.2 eval/sec ETA: 7373.0 min
+2025-07-28 01:32:49,160 - INFO - Progress: 3240/95750 (3.4%) Rate: 0.2 eval/sec ETA: 7373.5 min
+2025-07-28 01:33:38,934 - INFO - Progress: 3250/95750 (3.4%) Rate: 0.2 eval/sec ETA: 7373.6 min
+2025-07-28 01:33:39,114 - INFO - Checkpoint saved: 7500 evaluations completed
+2025-07-28 01:34:27,255 - INFO - Progress: 3260/95750 (3.4%) Rate: 0.2 eval/sec ETA: 7373.0 min
+2025-07-28 01:35:15,970 - INFO - Progress: 3270/95750 (3.4%) Rate: 0.2 eval/sec ETA: 7372.6 min
+2025-07-28 01:36:04,954 - INFO - Progress: 3280/95750 (3.4%) Rate: 0.2 eval/sec ETA: 7372.4 min
+2025-07-28 01:36:54,285 - INFO - Progress: 3290/95750 (3.4%) Rate: 0.2 eval/sec ETA: 7372.3 min
+2025-07-28 01:37:42,858 - INFO - Progress: 3300/95750 (3.4%) Rate: 0.2 eval/sec ETA: 7371.8 min
+2025-07-28 01:37:43,045 - INFO - Checkpoint saved: 7550 evaluations completed
+2025-07-28 01:38:32,446 - INFO - Progress: 3310/95750 (3.5%) Rate: 0.2 eval/sec ETA: 7371.9 min
+2025-07-28 01:39:22,956 - INFO - Progress: 3320/95750 (3.5%) Rate: 0.2 eval/sec ETA: 7372.3 min
+2025-07-28 01:40:11,899 - INFO - Progress: 3330/95750 (3.5%) Rate: 0.2 eval/sec ETA: 7372.0 min
+2025-07-28 01:41:01,563 - INFO - Progress: 3340/95750 (3.5%) Rate: 0.2 eval/sec ETA: 7372.0 min
+2025-07-28 01:41:50,736 - INFO - Progress: 3350/95750 (3.5%) Rate: 0.2 eval/sec ETA: 7371.8 min
+2025-07-28 01:41:50,930 - INFO - Checkpoint saved: 7600 evaluations completed
+2025-07-28 01:42:41,895 - INFO - Progress: 3360/95750 (3.5%) Rate: 0.2 eval/sec ETA: 7372.5 min
+2025-07-28 01:43:31,911 - INFO - Progress: 3370/95750 (3.5%) Rate: 0.2 eval/sec ETA: 7372.7 min
+2025-07-28 01:44:21,745 - INFO - Progress: 3380/95750 (3.5%) Rate: 0.2 eval/sec ETA: 7372.8 min
+2025-07-28 01:45:10,600 - INFO - Progress: 3390/95750 (3.5%) Rate: 0.2 eval/sec ETA: 7372.4 min
+2025-07-28 01:46:00,554 - INFO - Progress: 3400/95750 (3.6%) Rate: 0.2 eval/sec ETA: 7372.6 min
+2025-07-28 01:46:00,744 - INFO - Checkpoint saved: 7650 evaluations completed
+2025-07-28 01:46:50,593 - INFO - Progress: 3410/95750 (3.6%) Rate: 0.2 eval/sec ETA: 7372.8 min
+2025-07-28 01:47:40,606 - INFO - Progress: 3420/95750 (3.6%) Rate: 0.2 eval/sec ETA: 7372.9 min
+2025-07-28 01:48:30,529 - INFO - Progress: 3430/95750 (3.6%) Rate: 0.2 eval/sec ETA: 7373.0 min
+2025-07-28 01:49:21,071 - INFO - Progress: 3440/95750 (3.6%) Rate: 0.2 eval/sec ETA: 7373.4 min
+2025-07-28 01:50:11,823 - INFO - Progress: 3450/95750 (3.6%) Rate: 0.2 eval/sec ETA: 7373.8 min
+2025-07-28 01:50:12,007 - INFO - Checkpoint saved: 7700 evaluations completed
+2025-07-28 01:51:01,296 - INFO - Progress: 3460/95750 (3.6%) Rate: 0.2 eval/sec ETA: 7373.7 min
+2025-07-28 01:51:50,359 - INFO - Progress: 3470/95750 (3.6%) Rate: 0.2 eval/sec ETA: 7373.4 min
+2025-07-28 01:52:40,166 - INFO - Progress: 3480/95750 (3.6%) Rate: 0.2 eval/sec ETA: 7373.5 min
+2025-07-28 01:53:30,597 - INFO - Progress: 3490/95750 (3.6%) Rate: 0.2 eval/sec ETA: 7373.7 min
+2025-07-28 01:54:20,559 - INFO - Progress: 3500/95750 (3.7%) Rate: 0.2 eval/sec ETA: 7373.8 min
+2025-07-28 01:54:20,760 - INFO - Checkpoint saved: 7750 evaluations completed
+2025-07-28 01:55:09,068 - INFO - Progress: 3510/95750 (3.7%) Rate: 0.2 eval/sec ETA: 7373.3 min
+2025-07-28 01:56:00,444 - INFO - Progress: 3520/95750 (3.7%) Rate: 0.2 eval/sec ETA: 7374.0 min
+2025-07-28 01:56:51,189 - INFO - Progress: 3530/95750 (3.7%) Rate: 0.2 eval/sec ETA: 7374.4 min
+2025-07-28 01:57:40,856 - INFO - Progress: 3540/95750 (3.7%) Rate: 0.2 eval/sec ETA: 7374.3 min
+2025-07-28 01:58:31,767 - INFO - Progress: 3550/95750 (3.7%) Rate: 0.2 eval/sec ETA: 7374.8 min
+2025-07-28 01:58:31,964 - INFO - Checkpoint saved: 7800 evaluations completed
+2025-07-28 01:59:22,085 - INFO - Progress: 3560/95750 (3.7%) Rate: 0.2 eval/sec ETA: 7375.0 min
+2025-07-28 02:00:12,958 - INFO - Progress: 3570/95750 (3.7%) Rate: 0.2 eval/sec ETA: 7375.4 min
+2025-07-28 02:01:02,850 - INFO - Progress: 3580/95750 (3.7%) Rate: 0.2 eval/sec ETA: 7375.4 min
+2025-07-28 02:01:52,119 - INFO - Progress: 3590/95750 (3.7%) Rate: 0.2 eval/sec ETA: 7375.2 min
+2025-07-28 02:02:41,183 - INFO - Progress: 3600/95750 (3.8%) Rate: 0.2 eval/sec ETA: 7374.8 min
+2025-07-28 02:02:41,374 - INFO - Checkpoint saved: 7850 evaluations completed
+2025-07-28 02:03:32,272 - INFO - Progress: 3610/95750 (3.8%) Rate: 0.2 eval/sec ETA: 7375.3 min
+2025-07-28 02:04:21,772 - INFO - Progress: 3620/95750 (3.8%) Rate: 0.2 eval/sec ETA: 7375.1 min
+2025-07-28 02:05:11,326 - INFO - Progress: 3630/95750 (3.8%) Rate: 0.2 eval/sec ETA: 7375.0 min
+2025-07-28 02:06:00,608 - INFO - Progress: 3640/95750 (3.8%) Rate: 0.2 eval/sec ETA: 7374.7 min
+2025-07-28 02:06:49,230 - INFO - Progress: 3650/95750 (3.8%) Rate: 0.2 eval/sec ETA: 7374.1 min
+2025-07-28 02:06:49,420 - INFO - Checkpoint saved: 7900 evaluations completed
+2025-07-28 02:07:39,034 - INFO - Progress: 3660/95750 (3.8%) Rate: 0.2 eval/sec ETA: 7374.1 min
+2025-07-28 02:08:29,026 - INFO - Progress: 3670/95750 (3.8%) Rate: 0.2 eval/sec ETA: 7374.1 min
+2025-07-28 02:09:15,407 - INFO - Progress: 3680/95750 (3.8%) Rate: 0.2 eval/sec ETA: 7372.6 min
+2025-07-28 02:10:04,003 - INFO - Progress: 3690/95750 (3.9%) Rate: 0.2 eval/sec ETA: 7372.0 min
+2025-07-28 02:10:52,367 - INFO - Progress: 3700/95750 (3.9%) Rate: 0.2 eval/sec ETA: 7371.4 min
+2025-07-28 02:10:52,561 - INFO - Checkpoint saved: 7950 evaluations completed
+2025-07-28 02:11:42,157 - INFO - Progress: 3710/95750 (3.9%) Rate: 0.2 eval/sec ETA: 7371.3 min
+2025-07-28 02:12:31,384 - INFO - Progress: 3720/95750 (3.9%) Rate: 0.2 eval/sec ETA: 7371.0 min
+2025-07-28 02:13:20,361 - INFO - Progress: 3730/95750 (3.9%) Rate: 0.2 eval/sec ETA: 7370.5 min
+2025-07-28 02:14:09,279 - INFO - Progress: 3740/95750 (3.9%) Rate: 0.2 eval/sec ETA: 7370.1 min
+2025-07-28 02:14:57,713 - INFO - Progress: 3750/95750 (3.9%) Rate: 0.2 eval/sec ETA: 7369.4 min
+2025-07-28 02:14:57,911 - INFO - Checkpoint saved: 8000 evaluations completed
+2025-07-28 02:15:48,882 - INFO - Progress: 3760/95750 (3.9%) Rate: 0.2 eval/sec ETA: 7369.9 min
+2025-07-28 02:16:40,697 - INFO - Progress: 3770/95750 (3.9%) Rate: 0.2 eval/sec ETA: 7370.6 min
+2025-07-28 02:17:30,328 - INFO - Progress: 3780/95750 (3.9%) Rate: 0.2 eval/sec ETA: 7370.5 min
+2025-07-28 02:18:20,382 - INFO - Progress: 3790/95750 (4.0%) Rate: 0.2 eval/sec ETA: 7370.5 min
+2025-07-28 02:19:09,730 - INFO - Progress: 3800/95750 (4.0%) Rate: 0.2 eval/sec ETA: 7370.2 min
+2025-07-28 02:19:09,928 - INFO - Checkpoint saved: 8050 evaluations completed
+2025-07-28 02:19:58,726 - INFO - Progress: 3810/95750 (4.0%) Rate: 0.2 eval/sec ETA: 7369.7 min
+2025-07-28 02:20:50,189 - INFO - Progress: 3820/95750 (4.0%) Rate: 0.2 eval/sec ETA: 7370.3 min
+2025-07-28 02:21:41,461 - INFO - Progress: 3830/95750 (4.0%) Rate: 0.2 eval/sec ETA: 7370.7 min
+2025-07-28 02:22:31,562 - INFO - Progress: 3840/95750 (4.0%) Rate: 0.2 eval/sec ETA: 7370.7 min
+2025-07-28 02:23:20,934 - INFO - Progress: 3850/95750 (4.0%) Rate: 0.2 eval/sec ETA: 7370.4 min
+2025-07-28 02:23:21,131 - INFO - Checkpoint saved: 8100 evaluations completed
+2025-07-28 02:24:10,568 - INFO - Progress: 3860/95750 (4.0%) Rate: 0.2 eval/sec ETA: 7370.2 min
+2025-07-28 02:25:01,731 - INFO - Progress: 3870/95750 (4.0%) Rate: 0.2 eval/sec ETA: 7370.6 min
+2025-07-28 02:25:51,919 - INFO - Progress: 3880/95750 (4.1%) Rate: 0.2 eval/sec ETA: 7370.6 min
+2025-07-28 02:26:42,595 - INFO - Progress: 3890/95750 (4.1%) Rate: 0.2 eval/sec ETA: 7370.8 min
+2025-07-28 02:27:32,238 - INFO - Progress: 3900/95750 (4.1%) Rate: 0.2 eval/sec ETA: 7370.6 min
+2025-07-28 02:27:32,434 - INFO - Checkpoint saved: 8150 evaluations completed
+2025-07-28 02:28:22,249 - INFO - Progress: 3910/95750 (4.1%) Rate: 0.2 eval/sec ETA: 7370.5 min
+2025-07-28 02:29:12,647 - INFO - Progress: 3920/95750 (4.1%) Rate: 0.2 eval/sec ETA: 7370.6 min
+2025-07-28 02:30:01,846 - INFO - Progress: 3930/95750 (4.1%) Rate: 0.2 eval/sec ETA: 7370.2 min
+2025-07-28 02:30:53,223 - INFO - Progress: 3940/95750 (4.1%) Rate: 0.2 eval/sec ETA: 7370.7 min
+2025-07-28 02:31:44,316 - INFO - Progress: 3950/95750 (4.1%) Rate: 0.2 eval/sec ETA: 7371.0 min
+2025-07-28 02:31:44,510 - INFO - Checkpoint saved: 8200 evaluations completed
+2025-07-28 02:32:35,873 - INFO - Progress: 3960/95750 (4.1%) Rate: 0.2 eval/sec ETA: 7371.5 min
+2025-07-28 02:33:26,650 - INFO - Progress: 3970/95750 (4.1%) Rate: 0.2 eval/sec ETA: 7371.7 min
+2025-07-28 02:34:16,339 - INFO - Progress: 3980/95750 (4.2%) Rate: 0.2 eval/sec ETA: 7371.5 min
+2025-07-28 02:35:06,288 - INFO - Progress: 3990/95750 (4.2%) Rate: 0.2 eval/sec ETA: 7371.3 min
+2025-07-28 02:35:57,114 - INFO - Progress: 4000/95750 (4.2%) Rate: 0.2 eval/sec ETA: 7371.5 min
+2025-07-28 02:35:57,314 - INFO - Checkpoint saved: 8250 evaluations completed
+2025-07-28 02:36:46,999 - INFO - Progress: 4010/95750 (4.2%) Rate: 0.2 eval/sec ETA: 7371.4 min
+2025-07-28 02:37:35,261 - INFO - Progress: 4020/95750 (4.2%) Rate: 0.2 eval/sec ETA: 7370.6 min
+2025-07-28 02:38:24,365 - INFO - Progress: 4030/95750 (4.2%) Rate: 0.2 eval/sec ETA: 7370.1 min
+2025-07-28 02:39:12,222 - INFO - Progress: 4040/95750 (4.2%) Rate: 0.2 eval/sec ETA: 7369.2 min
+2025-07-28 02:40:01,186 - INFO - Progress: 4050/95750 (4.2%) Rate: 0.2 eval/sec ETA: 7368.7 min
+2025-07-28 02:40:01,386 - INFO - Checkpoint saved: 8300 evaluations completed
+2025-07-28 02:40:49,131 - INFO - Progress: 4060/95750 (4.2%) Rate: 0.2 eval/sec ETA: 7367.8 min
+2025-07-28 02:41:37,765 - INFO - Progress: 4070/95750 (4.3%) Rate: 0.2 eval/sec ETA: 7367.1 min
+2025-07-28 02:42:25,860 - INFO - Progress: 4080/95750 (4.3%) Rate: 0.2 eval/sec ETA: 7366.3 min
+2025-07-28 02:43:14,508 - INFO - Progress: 4090/95750 (4.3%) Rate: 0.2 eval/sec ETA: 7365.6 min
+2025-07-28 02:44:04,037 - INFO - Progress: 4100/95750 (4.3%) Rate: 0.2 eval/sec ETA: 7365.3 min
+2025-07-28 02:44:04,236 - INFO - Checkpoint saved: 8350 evaluations completed
+2025-07-28 02:44:52,199 - INFO - Progress: 4110/95750 (4.3%) Rate: 0.2 eval/sec ETA: 7364.5 min
+2025-07-28 02:45:40,230 - INFO - Progress: 4120/95750 (4.3%) Rate: 0.2 eval/sec ETA: 7363.6 min
+2025-07-28 02:46:29,038 - INFO - Progress: 4130/95750 (4.3%) Rate: 0.2 eval/sec ETA: 7363.0 min
+2025-07-28 02:47:17,927 - INFO - Progress: 4140/95750 (4.3%) Rate: 0.2 eval/sec ETA: 7362.5 min
+2025-07-28 02:48:05,713 - INFO - Progress: 4150/95750 (4.3%) Rate: 0.2 eval/sec ETA: 7361.5 min
+2025-07-28 02:48:05,912 - INFO - Checkpoint saved: 8400 evaluations completed
+2025-07-28 02:48:55,138 - INFO - Progress: 4160/95750 (4.3%) Rate: 0.2 eval/sec ETA: 7361.2 min
+2025-07-28 02:49:43,119 - INFO - Progress: 4170/95750 (4.4%) Rate: 0.2 eval/sec ETA: 7360.3 min
+2025-07-28 02:50:32,382 - INFO - Progress: 4180/95750 (4.4%) Rate: 0.2 eval/sec ETA: 7359.8 min
+2025-07-28 02:51:20,874 - INFO - Progress: 4190/95750 (4.4%) Rate: 0.2 eval/sec ETA: 7359.1 min
+2025-07-28 02:52:09,766 - INFO - Progress: 4200/95750 (4.4%) Rate: 0.2 eval/sec ETA: 7358.6 min
+2025-07-28 02:52:09,966 - INFO - Checkpoint saved: 8450 evaluations completed
+2025-07-28 02:52:58,086 - INFO - Progress: 4210/95750 (4.4%) Rate: 0.2 eval/sec ETA: 7357.8 min
+2025-07-28 02:53:46,394 - INFO - Progress: 4220/95750 (4.4%) Rate: 0.2 eval/sec ETA: 7357.0 min
+2025-07-28 02:54:35,694 - INFO - Progress: 4230/95750 (4.4%) Rate: 0.2 eval/sec ETA: 7356.6 min
+2025-07-28 02:55:23,364 - INFO - Progress: 4240/95750 (4.4%) Rate: 0.2 eval/sec ETA: 7355.6 min
+2025-07-28 02:56:11,902 - INFO - Progress: 4250/95750 (4.4%) Rate: 0.2 eval/sec ETA: 7354.9 min
+2025-07-28 02:56:12,105 - INFO - Checkpoint saved: 8500 evaluations completed
+2025-07-28 02:57:01,345 - INFO - Progress: 4260/95750 (4.4%) Rate: 0.2 eval/sec ETA: 7354.5 min
+2025-07-28 02:57:50,023 - INFO - Progress: 4270/95750 (4.5%) Rate: 0.2 eval/sec ETA: 7353.9 min
+2025-07-28 02:58:39,584 - INFO - Progress: 4280/95750 (4.5%) Rate: 0.2 eval/sec ETA: 7353.6 min
+2025-07-28 02:59:28,283 - INFO - Progress: 4290/95750 (4.5%) Rate: 0.2 eval/sec ETA: 7352.9 min
+2025-07-28 03:00:16,747 - INFO - Progress: 4300/95750 (4.5%) Rate: 0.2 eval/sec ETA: 7352.2 min
+2025-07-28 03:00:16,955 - INFO - Checkpoint saved: 8550 evaluations completed
+2025-07-28 03:01:05,678 - INFO - Progress: 4310/95750 (4.5%) Rate: 0.2 eval/sec ETA: 7351.6 min
+2025-07-28 03:01:53,991 - INFO - Progress: 4320/95750 (4.5%) Rate: 0.2 eval/sec ETA: 7350.9 min
+2025-07-28 03:02:41,776 - INFO - Progress: 4330/95750 (4.5%) Rate: 0.2 eval/sec ETA: 7349.9 min
+2025-07-28 03:03:30,088 - INFO - Progress: 4340/95750 (4.5%) Rate: 0.2 eval/sec ETA: 7349.1 min
+2025-07-28 03:04:18,268 - INFO - Progress: 4350/95750 (4.5%) Rate: 0.2 eval/sec ETA: 7348.3 min
+2025-07-28 03:04:18,471 - INFO - Checkpoint saved: 8600 evaluations completed
+2025-07-28 03:05:06,335 - INFO - Progress: 4360/95750 (4.6%) Rate: 0.2 eval/sec ETA: 7347.4 min
+2025-07-28 03:05:54,845 - INFO - Progress: 4370/95750 (4.6%) Rate: 0.2 eval/sec ETA: 7346.7 min
+2025-07-28 03:06:43,287 - INFO - Progress: 4380/95750 (4.6%) Rate: 0.2 eval/sec ETA: 7346.0 min
+2025-07-28 03:07:32,563 - INFO - Progress: 4390/95750 (4.6%) Rate: 0.2 eval/sec ETA: 7345.6 min
+2025-07-28 03:08:21,944 - INFO - Progress: 4400/95750 (4.6%) Rate: 0.2 eval/sec ETA: 7345.1 min
+2025-07-28 03:08:22,150 - INFO - Checkpoint saved: 8650 evaluations completed
+2025-07-28 03:09:11,514 - INFO - Progress: 4410/95750 (4.6%) Rate: 0.2 eval/sec ETA: 7344.8 min
+2025-07-28 03:10:00,218 - INFO - Progress: 4420/95750 (4.6%) Rate: 0.2 eval/sec ETA: 7344.1 min
+2025-07-28 03:10:48,892 - INFO - Progress: 4430/95750 (4.6%) Rate: 0.2 eval/sec ETA: 7343.5 min
+2025-07-28 03:11:37,364 - INFO - Progress: 4440/95750 (4.6%) Rate: 0.2 eval/sec ETA: 7342.8 min
+2025-07-28 03:12:26,006 - INFO - Progress: 4450/95750 (4.6%) Rate: 0.2 eval/sec ETA: 7342.1 min
+2025-07-28 03:12:26,221 - INFO - Checkpoint saved: 8700 evaluations completed
+2025-07-28 03:13:14,877 - INFO - Progress: 4460/95750 (4.7%) Rate: 0.2 eval/sec ETA: 7341.5 min
+2025-07-28 03:14:03,876 - INFO - Progress: 4470/95750 (4.7%) Rate: 0.2 eval/sec ETA: 7341.0 min
+2025-07-28 03:14:53,115 - INFO - Progress: 4480/95750 (4.7%) Rate: 0.2 eval/sec ETA: 7340.5 min
+2025-07-28 03:15:41,877 - INFO - Progress: 4490/95750 (4.7%) Rate: 0.2 eval/sec ETA: 7339.8 min
+2025-07-28 03:16:29,850 - INFO - Progress: 4500/95750 (4.7%) Rate: 0.2 eval/sec ETA: 7338.9 min
+2025-07-28 03:16:30,063 - INFO - Checkpoint saved: 8750 evaluations completed
+2025-07-28 03:17:19,142 - INFO - Progress: 4510/95750 (4.7%) Rate: 0.2 eval/sec ETA: 7338.5 min
+2025-07-28 03:18:07,680 - INFO - Progress: 4520/95750 (4.7%) Rate: 0.2 eval/sec ETA: 7337.8 min
+2025-07-28 03:18:54,728 - INFO - Progress: 4530/95750 (4.7%) Rate: 0.2 eval/sec ETA: 7336.6 min
+2025-07-28 03:19:44,097 - INFO - Progress: 4540/95750 (4.7%) Rate: 0.2 eval/sec ETA: 7336.1 min
+2025-07-28 03:20:31,873 - INFO - Progress: 4550/95750 (4.8%) Rate: 0.2 eval/sec ETA: 7335.2 min
+2025-07-28 03:20:32,808 - INFO - Checkpoint saved: 8800 evaluations completed
+2025-07-28 03:21:20,609 - INFO - Progress: 4560/95750 (4.8%) Rate: 0.2 eval/sec ETA: 7334.5 min
+2025-07-28 03:22:09,240 - INFO - Progress: 4570/95750 (4.8%) Rate: 0.2 eval/sec ETA: 7333.8 min
+2025-07-28 03:22:58,287 - INFO - Progress: 4580/95750 (4.8%) Rate: 0.2 eval/sec ETA: 7333.3 min
+2025-07-28 03:23:47,045 - INFO - Progress: 4590/95750 (4.8%) Rate: 0.2 eval/sec ETA: 7332.7 min
+2025-07-28 03:24:35,023 - INFO - Progress: 4600/95750 (4.8%) Rate: 0.2 eval/sec ETA: 7331.8 min
+2025-07-28 03:24:35,234 - INFO - Checkpoint saved: 8850 evaluations completed
+2025-07-28 03:25:24,234 - INFO - Progress: 4610/95750 (4.8%) Rate: 0.2 eval/sec ETA: 7331.3 min
+2025-07-28 03:26:13,296 - INFO - Progress: 4620/95750 (4.8%) Rate: 0.2 eval/sec ETA: 7330.7 min
+2025-07-28 03:27:01,975 - INFO - Progress: 4630/95750 (4.8%) Rate: 0.2 eval/sec ETA: 7330.1 min
+2025-07-28 03:27:49,744 - INFO - Progress: 4640/95750 (4.8%) Rate: 0.2 eval/sec ETA: 7329.1 min
+2025-07-28 03:28:37,826 - INFO - Progress: 4650/95750 (4.9%) Rate: 0.2 eval/sec ETA: 7328.2 min
+2025-07-28 03:28:38,036 - INFO - Checkpoint saved: 8900 evaluations completed
+2025-07-28 03:29:26,728 - INFO - Progress: 4660/95750 (4.9%) Rate: 0.2 eval/sec ETA: 7327.6 min
+2025-07-28 03:30:16,110 - INFO - Progress: 4670/95750 (4.9%) Rate: 0.2 eval/sec ETA: 7327.2 min
+2025-07-28 03:31:04,727 - INFO - Progress: 4680/95750 (4.9%) Rate: 0.2 eval/sec ETA: 7326.5 min
+2025-07-28 03:31:51,795 - INFO - Progress: 4690/95750 (4.9%) Rate: 0.2 eval/sec ETA: 7325.3 min
+2025-07-28 03:32:40,478 - INFO - Progress: 4700/95750 (4.9%) Rate: 0.2 eval/sec ETA: 7324.6 min
+2025-07-28 03:32:40,688 - INFO - Checkpoint saved: 8950 evaluations completed
+2025-07-28 03:33:29,158 - INFO - Progress: 4710/95750 (4.9%) Rate: 0.2 eval/sec ETA: 7324.0 min
+2025-07-28 03:34:18,086 - INFO - Progress: 4720/95750 (4.9%) Rate: 0.2 eval/sec ETA: 7323.4 min
+2025-07-28 03:35:07,197 - INFO - Progress: 4730/95750 (4.9%) Rate: 0.2 eval/sec ETA: 7322.8 min
+2025-07-28 03:35:55,346 - INFO - Progress: 4740/95750 (5.0%) Rate: 0.2 eval/sec ETA: 7322.0 min
+2025-07-28 03:36:43,566 - INFO - Progress: 4750/95750 (5.0%) Rate: 0.2 eval/sec ETA: 7321.2 min
+2025-07-28 03:36:43,779 - INFO - Checkpoint saved: 9000 evaluations completed
+2025-07-28 03:37:32,297 - INFO - Progress: 4760/95750 (5.0%) Rate: 0.2 eval/sec ETA: 7320.5 min
+2025-07-28 03:38:19,776 - INFO - Progress: 4770/95750 (5.0%) Rate: 0.2 eval/sec ETA: 7319.5 min
+2025-07-28 03:39:09,211 - INFO - Progress: 4780/95750 (5.0%) Rate: 0.2 eval/sec ETA: 7319.0 min
+2025-07-28 03:39:59,158 - INFO - Progress: 4790/95750 (5.0%) Rate: 0.2 eval/sec ETA: 7318.8 min
+2025-07-28 03:40:47,630 - INFO - Progress: 4800/95750 (5.0%) Rate: 0.2 eval/sec ETA: 7318.0 min
+2025-07-28 03:40:47,848 - INFO - Checkpoint saved: 9050 evaluations completed
+2025-07-28 03:41:36,190 - INFO - Progress: 4810/95750 (5.0%) Rate: 0.2 eval/sec ETA: 7317.3 min
+2025-07-28 03:42:24,900 - INFO - Progress: 4820/95750 (5.0%) Rate: 0.2 eval/sec ETA: 7316.6 min
+2025-07-28 03:43:13,639 - INFO - Progress: 4830/95750 (5.0%) Rate: 0.2 eval/sec ETA: 7316.0 min
+2025-07-28 03:44:02,642 - INFO - Progress: 4840/95750 (5.1%) Rate: 0.2 eval/sec ETA: 7315.4 min
+2025-07-28 03:44:51,170 - INFO - Progress: 4850/95750 (5.1%) Rate: 0.2 eval/sec ETA: 7314.7 min
+2025-07-28 03:44:51,389 - INFO - Checkpoint saved: 9100 evaluations completed
+2025-07-28 03:45:39,995 - INFO - Progress: 4860/95750 (5.1%) Rate: 0.2 eval/sec ETA: 7314.0 min
+2025-07-28 03:46:29,967 - INFO - Progress: 4870/95750 (5.1%) Rate: 0.2 eval/sec ETA: 7313.7 min
+2025-07-28 03:47:18,986 - INFO - Progress: 4880/95750 (5.1%) Rate: 0.2 eval/sec ETA: 7313.2 min
+2025-07-28 03:48:08,398 - INFO - Progress: 4890/95750 (5.1%) Rate: 0.2 eval/sec ETA: 7312.7 min
+2025-07-28 03:48:56,990 - INFO - Progress: 4900/95750 (5.1%) Rate: 0.2 eval/sec ETA: 7312.0 min
+2025-07-28 03:48:57,207 - INFO - Checkpoint saved: 9150 evaluations completed
+2025-07-28 03:49:46,281 - INFO - Progress: 4910/95750 (5.1%) Rate: 0.2 eval/sec ETA: 7311.5 min
+2025-07-28 03:50:35,193 - INFO - Progress: 4920/95750 (5.1%) Rate: 0.2 eval/sec ETA: 7310.9 min
+2025-07-28 03:51:22,865 - INFO - Progress: 4930/95750 (5.1%) Rate: 0.2 eval/sec ETA: 7309.9 min
+2025-07-28 03:52:11,527 - INFO - Progress: 4940/95750 (5.2%) Rate: 0.2 eval/sec ETA: 7309.2 min
+2025-07-28 03:53:00,415 - INFO - Progress: 4950/95750 (5.2%) Rate: 0.2 eval/sec ETA: 7308.6 min
+2025-07-28 03:53:00,635 - INFO - Checkpoint saved: 9200 evaluations completed
+2025-07-28 03:53:49,407 - INFO - Progress: 4960/95750 (5.2%) Rate: 0.2 eval/sec ETA: 7308.0 min
+2025-07-28 03:54:36,727 - INFO - Progress: 4970/95750 (5.2%) Rate: 0.2 eval/sec ETA: 7306.9 min
+2025-07-28 03:55:24,720 - INFO - Progress: 4980/95750 (5.2%) Rate: 0.2 eval/sec ETA: 7306.0 min
+2025-07-28 03:56:13,262 - INFO - Progress: 4990/95750 (5.2%) Rate: 0.2 eval/sec ETA: 7305.3 min
+2025-07-28 03:57:02,536 - INFO - Progress: 5000/95750 (5.2%) Rate: 0.2 eval/sec ETA: 7304.7 min
+2025-07-28 03:57:02,760 - INFO - Checkpoint saved: 9250 evaluations completed
+2025-07-28 03:57:51,678 - INFO - Progress: 5010/95750 (5.2%) Rate: 0.2 eval/sec ETA: 7304.2 min
+2025-07-28 03:58:40,185 - INFO - Progress: 5020/95750 (5.2%) Rate: 0.2 eval/sec ETA: 7303.5 min
+2025-07-28 03:59:28,471 - INFO - Progress: 5030/95750 (5.3%) Rate: 0.2 eval/sec ETA: 7302.6 min
+2025-07-28 04:00:15,783 - INFO - Progress: 5040/95750 (5.3%) Rate: 0.2 eval/sec ETA: 7301.5 min
+2025-07-28 04:01:04,896 - INFO - Progress: 5050/95750 (5.3%) Rate: 0.2 eval/sec ETA: 7301.0 min
+2025-07-28 04:01:05,121 - INFO - Checkpoint saved: 9300 evaluations completed
+2025-07-28 04:01:51,671 - INFO - Progress: 5060/95750 (5.3%) Rate: 0.2 eval/sec ETA: 7299.7 min
+2025-07-28 04:02:40,681 - INFO - Progress: 5070/95750 (5.3%) Rate: 0.2 eval/sec ETA: 7299.1 min
+2025-07-28 04:03:29,756 - INFO - Progress: 5080/95750 (5.3%) Rate: 0.2 eval/sec ETA: 7298.6 min
+2025-07-28 04:04:18,158 - INFO - Progress: 5090/95750 (5.3%) Rate: 0.2 eval/sec ETA: 7297.8 min
+2025-07-28 04:05:07,558 - INFO - Progress: 5100/95750 (5.3%) Rate: 0.2 eval/sec ETA: 7297.3 min
+2025-07-28 04:05:07,779 - INFO - Checkpoint saved: 9350 evaluations completed
+2025-07-28 04:05:55,984 - INFO - Progress: 5110/95750 (5.3%) Rate: 0.2 eval/sec ETA: 7296.5 min
+2025-07-28 04:06:45,373 - INFO - Progress: 5120/95750 (5.3%) Rate: 0.2 eval/sec ETA: 7296.1 min
+2025-07-28 04:07:33,685 - INFO - Progress: 5130/95750 (5.4%) Rate: 0.2 eval/sec ETA: 7295.3 min
+2025-07-28 04:08:22,109 - INFO - Progress: 5140/95750 (5.4%) Rate: 0.2 eval/sec ETA: 7294.5 min
+2025-07-28 04:09:09,640 - INFO - Progress: 5150/95750 (5.4%) Rate: 0.2 eval/sec ETA: 7293.5 min
+2025-07-28 04:09:09,865 - INFO - Checkpoint saved: 9400 evaluations completed
+2025-07-28 04:09:58,408 - INFO - Progress: 5160/95750 (5.4%) Rate: 0.2 eval/sec ETA: 7292.8 min
+2025-07-28 04:10:46,556 - INFO - Progress: 5170/95750 (5.4%) Rate: 0.2 eval/sec ETA: 7291.9 min
+2025-07-28 04:11:35,436 - INFO - Progress: 5180/95750 (5.4%) Rate: 0.2 eval/sec ETA: 7291.3 min
+2025-07-28 04:12:24,508 - INFO - Progress: 5190/95750 (5.4%) Rate: 0.2 eval/sec ETA: 7290.7 min
+2025-07-28 04:13:13,498 - INFO - Progress: 5200/95750 (5.4%) Rate: 0.2 eval/sec ETA: 7290.1 min
+2025-07-28 04:13:13,722 - INFO - Checkpoint saved: 9450 evaluations completed
+2025-07-28 04:14:03,065 - INFO - Progress: 5210/95750 (5.4%) Rate: 0.2 eval/sec ETA: 7289.7 min
+2025-07-28 04:14:51,712 - INFO - Progress: 5220/95750 (5.5%) Rate: 0.2 eval/sec ETA: 7289.0 min
+2025-07-28 04:15:40,664 - INFO - Progress: 5230/95750 (5.5%) Rate: 0.2 eval/sec ETA: 7288.3 min
+2025-07-28 04:16:29,244 - INFO - Progress: 5240/95750 (5.5%) Rate: 0.2 eval/sec ETA: 7287.6 min
+2025-07-28 04:17:19,534 - INFO - Progress: 5250/95750 (5.5%) Rate: 0.2 eval/sec ETA: 7287.4 min
+2025-07-28 04:17:19,779 - INFO - Checkpoint saved: 9500 evaluations completed
+2025-07-28 04:18:08,556 - INFO - Progress: 5260/95750 (5.5%) Rate: 0.2 eval/sec ETA: 7286.8 min
+2025-07-28 04:18:58,205 - INFO - Progress: 5270/95750 (5.5%) Rate: 0.2 eval/sec ETA: 7286.4 min
+2025-07-28 04:19:48,229 - INFO - Progress: 5280/95750 (5.5%) Rate: 0.2 eval/sec ETA: 7286.0 min
+2025-07-28 04:20:37,611 - INFO - Progress: 5290/95750 (5.5%) Rate: 0.2 eval/sec ETA: 7285.5 min
+2025-07-28 04:21:26,514 - INFO - Progress: 5300/95750 (5.5%) Rate: 0.2 eval/sec ETA: 7284.9 min
+2025-07-28 04:21:26,740 - INFO - Checkpoint saved: 9550 evaluations completed
+2025-07-28 04:22:15,369 - INFO - Progress: 5310/95750 (5.5%) Rate: 0.2 eval/sec ETA: 7284.2 min
+2025-07-28 04:23:03,140 - INFO - Progress: 5320/95750 (5.6%) Rate: 0.2 eval/sec ETA: 7283.3 min
+2025-07-28 04:23:50,361 - INFO - Progress: 5330/95750 (5.6%) Rate: 0.2 eval/sec ETA: 7282.2 min
+2025-07-28 04:24:37,039 - INFO - Progress: 5340/95750 (5.6%) Rate: 0.2 eval/sec ETA: 7280.9 min
+2025-07-28 04:25:25,951 - INFO - Progress: 5350/95750 (5.6%) Rate: 0.2 eval/sec ETA: 7280.3 min
+2025-07-28 04:25:26,180 - INFO - Checkpoint saved: 9600 evaluations completed
+2025-07-28 04:26:14,610 - INFO - Progress: 5360/95750 (5.6%) Rate: 0.2 eval/sec ETA: 7279.5 min
+2025-07-28 04:27:02,893 - INFO - Progress: 5370/95750 (5.6%) Rate: 0.2 eval/sec ETA: 7278.7 min
+2025-07-28 04:27:51,756 - INFO - Progress: 5380/95750 (5.6%) Rate: 0.2 eval/sec ETA: 7278.1 min
+2025-07-28 04:28:40,876 - INFO - Progress: 5390/95750 (5.6%) Rate: 0.2 eval/sec ETA: 7277.5 min
+2025-07-28 04:29:29,697 - INFO - Progress: 5400/95750 (5.6%) Rate: 0.2 eval/sec ETA: 7276.8 min
+2025-07-28 04:29:29,926 - INFO - Checkpoint saved: 9650 evaluations completed
+2025-07-28 04:30:18,289 - INFO - Progress: 5410/95750 (5.7%) Rate: 0.2 eval/sec ETA: 7276.1 min
+2025-07-28 04:31:07,840 - INFO - Progress: 5420/95750 (5.7%) Rate: 0.2 eval/sec ETA: 7275.6 min
+2025-07-28 04:31:57,021 - INFO - Progress: 5430/95750 (5.7%) Rate: 0.2 eval/sec ETA: 7275.1 min
+2025-07-28 04:32:46,643 - INFO - Progress: 5440/95750 (5.7%) Rate: 0.2 eval/sec ETA: 7274.6 min
+2025-07-28 04:33:35,468 - INFO - Progress: 5450/95750 (5.7%) Rate: 0.2 eval/sec ETA: 7273.9 min
+2025-07-28 04:33:35,713 - INFO - Checkpoint saved: 9700 evaluations completed
+2025-07-28 04:34:24,862 - INFO - Progress: 5460/95750 (5.7%) Rate: 0.2 eval/sec ETA: 7273.4 min
+2025-07-28 04:35:13,127 - INFO - Progress: 5470/95750 (5.7%) Rate: 0.2 eval/sec ETA: 7272.6 min
+2025-07-28 04:36:01,932 - INFO - Progress: 5480/95750 (5.7%) Rate: 0.2 eval/sec ETA: 7271.9 min
+2025-07-28 04:36:51,288 - INFO - Progress: 5490/95750 (5.7%) Rate: 0.2 eval/sec ETA: 7271.4 min
+2025-07-28 04:37:40,034 - INFO - Progress: 5500/95750 (5.7%) Rate: 0.2 eval/sec ETA: 7270.7 min
+2025-07-28 04:37:40,268 - INFO - Checkpoint saved: 9750 evaluations completed
+2025-07-28 04:38:29,494 - INFO - Progress: 5510/95750 (5.8%) Rate: 0.2 eval/sec ETA: 7270.2 min
+2025-07-28 04:39:17,876 - INFO - Progress: 5520/95750 (5.8%) Rate: 0.2 eval/sec ETA: 7269.4 min
+2025-07-28 04:40:06,855 - INFO - Progress: 5530/95750 (5.8%) Rate: 0.2 eval/sec ETA: 7268.8 min
+2025-07-28 04:40:56,668 - INFO - Progress: 5540/95750 (5.8%) Rate: 0.2 eval/sec ETA: 7268.4 min
+2025-07-28 04:41:46,168 - INFO - Progress: 5550/95750 (5.8%) Rate: 0.2 eval/sec ETA: 7267.9 min
+2025-07-28 04:41:46,399 - INFO - Checkpoint saved: 9800 evaluations completed
+2025-07-28 04:42:35,333 - INFO - Progress: 5560/95750 (5.8%) Rate: 0.2 eval/sec ETA: 7267.3 min
+2025-07-28 04:43:23,093 - INFO - Progress: 5570/95750 (5.8%) Rate: 0.2 eval/sec ETA: 7266.3 min
+2025-07-28 04:44:12,036 - INFO - Progress: 5580/95750 (5.8%) Rate: 0.2 eval/sec ETA: 7265.7 min
+2025-07-28 04:45:00,639 - INFO - Progress: 5590/95750 (5.8%) Rate: 0.2 eval/sec ETA: 7265.0 min
+2025-07-28 04:45:50,148 - INFO - Progress: 5600/95750 (5.8%) Rate: 0.2 eval/sec ETA: 7264.5 min
+2025-07-28 04:45:50,381 - INFO - Checkpoint saved: 9850 evaluations completed
+2025-07-28 04:46:38,982 - INFO - Progress: 5610/95750 (5.9%) Rate: 0.2 eval/sec ETA: 7263.8 min
+2025-07-28 04:47:27,579 - INFO - Progress: 5620/95750 (5.9%) Rate: 0.2 eval/sec ETA: 7263.0 min
+2025-07-28 04:48:16,915 - INFO - Progress: 5630/95750 (5.9%) Rate: 0.2 eval/sec ETA: 7262.5 min
+2025-07-28 04:49:06,076 - INFO - Progress: 5640/95750 (5.9%) Rate: 0.2 eval/sec ETA: 7261.9 min
+2025-07-28 04:49:55,669 - INFO - Progress: 5650/95750 (5.9%) Rate: 0.2 eval/sec ETA: 7261.4 min
+2025-07-28 04:49:55,908 - INFO - Checkpoint saved: 9900 evaluations completed
+2025-07-28 04:50:45,253 - INFO - Progress: 5660/95750 (5.9%) Rate: 0.2 eval/sec ETA: 7261.0 min
+2025-07-28 04:51:32,803 - INFO - Progress: 5670/95750 (5.9%) Rate: 0.2 eval/sec ETA: 7259.9 min
+2025-07-28 04:52:21,871 - INFO - Progress: 5680/95750 (5.9%) Rate: 0.2 eval/sec ETA: 7259.3 min
+2025-07-28 04:53:11,544 - INFO - Progress: 5690/95750 (5.9%) Rate: 0.2 eval/sec ETA: 7258.9 min
+2025-07-28 04:54:00,992 - INFO - Progress: 5700/95750 (6.0%) Rate: 0.2 eval/sec ETA: 7258.3 min
+2025-07-28 04:54:01,232 - INFO - Checkpoint saved: 9950 evaluations completed
+2025-07-28 04:54:49,533 - INFO - Progress: 5710/95750 (6.0%) Rate: 0.2 eval/sec ETA: 7257.6 min
+2025-07-28 04:55:38,547 - INFO - Progress: 5720/95750 (6.0%) Rate: 0.2 eval/sec ETA: 7256.9 min
+2025-07-28 04:56:28,385 - INFO - Progress: 5730/95750 (6.0%) Rate: 0.2 eval/sec ETA: 7256.5 min
+2025-07-28 04:57:17,758 - INFO - Progress: 5740/95750 (6.0%) Rate: 0.2 eval/sec ETA: 7256.0 min
+2025-07-28 04:58:05,546 - INFO - Progress: 5750/95750 (6.0%) Rate: 0.2 eval/sec ETA: 7255.0 min
+2025-07-28 04:58:05,782 - INFO - Checkpoint saved: 10000 evaluations completed
+2025-07-28 04:58:52,084 - INFO - Progress: 5760/95750 (6.0%) Rate: 0.2 eval/sec ETA: 7253.7 min
+2025-07-28 04:59:40,703 - INFO - Progress: 5770/95750 (6.0%) Rate: 0.2 eval/sec ETA: 7253.0 min
+2025-07-28 05:00:29,710 - INFO - Progress: 5780/95750 (6.0%) Rate: 0.2 eval/sec ETA: 7252.4 min
+2025-07-28 05:01:18,796 - INFO - Progress: 5790/95750 (6.0%) Rate: 0.2 eval/sec ETA: 7251.7 min
+2025-07-28 05:02:06,721 - INFO - Progress: 5800/95750 (6.1%) Rate: 0.2 eval/sec ETA: 7250.8 min
+2025-07-28 05:02:06,960 - INFO - Checkpoint saved: 10050 evaluations completed
+2025-07-28 05:02:56,589 - INFO - Progress: 5810/95750 (6.1%) Rate: 0.2 eval/sec ETA: 7250.4 min
+2025-07-28 05:03:44,669 - INFO - Progress: 5820/95750 (6.1%) Rate: 0.2 eval/sec ETA: 7249.5 min
+2025-07-28 05:04:32,984 - INFO - Progress: 5830/95750 (6.1%) Rate: 0.2 eval/sec ETA: 7248.7 min
+2025-07-28 05:05:20,676 - INFO - Progress: 5840/95750 (6.1%) Rate: 0.2 eval/sec ETA: 7247.7 min
+2025-07-28 05:06:09,888 - INFO - Progress: 5850/95750 (6.1%) Rate: 0.2 eval/sec ETA: 7247.1 min
+2025-07-28 05:06:10,130 - INFO - Checkpoint saved: 10100 evaluations completed
+2025-07-28 05:07:00,148 - INFO - Progress: 5860/95750 (6.1%) Rate: 0.2 eval/sec ETA: 7246.8 min
+2025-07-28 05:07:48,375 - INFO - Progress: 5870/95750 (6.1%) Rate: 0.2 eval/sec ETA: 7246.0 min
+2025-07-28 05:08:38,312 - INFO - Progress: 5880/95750 (6.1%) Rate: 0.2 eval/sec ETA: 7245.6 min
+2025-07-28 05:09:28,685 - INFO - Progress: 5890/95750 (6.2%) Rate: 0.2 eval/sec ETA: 7245.3 min
+2025-07-28 05:10:16,949 - INFO - Progress: 5900/95750 (6.2%) Rate: 0.2 eval/sec ETA: 7244.4 min
+2025-07-28 05:10:17,187 - INFO - Checkpoint saved: 10150 evaluations completed
+2025-07-28 05:11:04,315 - INFO - Progress: 5910/95750 (6.2%) Rate: 0.2 eval/sec ETA: 7243.4 min
+2025-07-28 05:11:53,607 - INFO - Progress: 5920/95750 (6.2%) Rate: 0.2 eval/sec ETA: 7242.8 min
+2025-07-28 05:12:43,261 - INFO - Progress: 5930/95750 (6.2%) Rate: 0.2 eval/sec ETA: 7242.3 min
+2025-07-28 05:13:33,243 - INFO - Progress: 5940/95750 (6.2%) Rate: 0.2 eval/sec ETA: 7241.9 min
+2025-07-28 05:14:22,933 - INFO - Progress: 5950/95750 (6.2%) Rate: 0.2 eval/sec ETA: 7241.4 min
+2025-07-28 05:14:23,170 - INFO - Checkpoint saved: 10200 evaluations completed
+2025-07-28 05:15:09,645 - INFO - Progress: 5960/95750 (6.2%) Rate: 0.2 eval/sec ETA: 7240.2 min
+2025-07-28 05:15:58,577 - INFO - Progress: 5970/95750 (6.2%) Rate: 0.2 eval/sec ETA: 7239.5 min
+2025-07-28 05:16:48,913 - INFO - Progress: 5980/95750 (6.2%) Rate: 0.2 eval/sec ETA: 7239.2 min
+2025-07-28 05:17:38,928 - INFO - Progress: 5990/95750 (6.3%) Rate: 0.2 eval/sec ETA: 7238.8 min
+2025-07-28 05:18:28,819 - INFO - Progress: 6000/95750 (6.3%) Rate: 0.2 eval/sec ETA: 7238.4 min
+2025-07-28 05:18:29,064 - INFO - Checkpoint saved: 10250 evaluations completed
+2025-07-28 05:19:19,211 - INFO - Progress: 6010/95750 (6.3%) Rate: 0.2 eval/sec ETA: 7238.1 min
+2025-07-28 05:20:07,522 - INFO - Progress: 6020/95750 (6.3%) Rate: 0.2 eval/sec ETA: 7237.3 min
+2025-07-28 05:20:57,267 - INFO - Progress: 6030/95750 (6.3%) Rate: 0.2 eval/sec ETA: 7236.8 min
+2025-07-28 05:21:46,403 - INFO - Progress: 6040/95750 (6.3%) Rate: 0.2 eval/sec ETA: 7236.2 min
+2025-07-28 05:22:36,018 - INFO - Progress: 6050/95750 (6.3%) Rate: 0.2 eval/sec ETA: 7235.7 min
+2025-07-28 05:22:36,267 - INFO - Checkpoint saved: 10300 evaluations completed
+2025-07-28 05:23:26,639 - INFO - Progress: 6060/95750 (6.3%) Rate: 0.2 eval/sec ETA: 7235.4 min
+2025-07-28 05:24:16,165 - INFO - Progress: 6070/95750 (6.3%) Rate: 0.2 eval/sec ETA: 7234.9 min
+2025-07-28 05:25:04,658 - INFO - Progress: 6080/95750 (6.3%) Rate: 0.2 eval/sec ETA: 7234.1 min
+2025-07-28 05:25:54,839 - INFO - Progress: 6090/95750 (6.4%) Rate: 0.2 eval/sec ETA: 7233.7 min
+2025-07-28 05:26:44,514 - INFO - Progress: 6100/95750 (6.4%) Rate: 0.2 eval/sec ETA: 7233.2 min
+2025-07-28 05:26:44,759 - INFO - Checkpoint saved: 10350 evaluations completed
+2025-07-28 05:27:35,252 - INFO - Progress: 6110/95750 (6.4%) Rate: 0.2 eval/sec ETA: 7233.0 min
+2025-07-28 05:28:25,014 - INFO - Progress: 6120/95750 (6.4%) Rate: 0.2 eval/sec ETA: 7232.5 min
+2025-07-28 05:29:12,337 - INFO - Progress: 6130/95750 (6.4%) Rate: 0.2 eval/sec ETA: 7231.4 min
+2025-07-28 05:30:01,082 - INFO - Progress: 6140/95750 (6.4%) Rate: 0.2 eval/sec ETA: 7230.7 min
+2025-07-28 05:30:50,442 - INFO - Progress: 6150/95750 (6.4%) Rate: 0.2 eval/sec ETA: 7230.1 min
+2025-07-28 05:30:50,690 - INFO - Checkpoint saved: 10400 evaluations completed
+2025-07-28 05:31:40,467 - INFO - Progress: 6160/95750 (6.4%) Rate: 0.2 eval/sec ETA: 7229.7 min
+2025-07-28 05:32:31,749 - INFO - Progress: 6170/95750 (6.4%) Rate: 0.2 eval/sec ETA: 7229.6 min
+2025-07-28 05:33:20,473 - INFO - Progress: 6180/95750 (6.5%) Rate: 0.2 eval/sec ETA: 7228.9 min
+2025-07-28 05:34:07,832 - INFO - Progress: 6190/95750 (6.5%) Rate: 0.2 eval/sec ETA: 7227.8 min
+2025-07-28 05:34:58,048 - INFO - Progress: 6200/95750 (6.5%) Rate: 0.2 eval/sec ETA: 7227.4 min
+2025-07-28 05:34:58,298 - INFO - Checkpoint saved: 10450 evaluations completed
+2025-07-28 05:35:47,744 - INFO - Progress: 6210/95750 (6.5%) Rate: 0.2 eval/sec ETA: 7226.9 min
+2025-07-28 05:36:39,193 - INFO - Progress: 6220/95750 (6.5%) Rate: 0.2 eval/sec ETA: 7226.8 min
+2025-07-28 05:37:30,671 - INFO - Progress: 6230/95750 (6.5%) Rate: 0.2 eval/sec ETA: 7226.8 min
+2025-07-28 05:38:19,856 - INFO - Progress: 6240/95750 (6.5%) Rate: 0.2 eval/sec ETA: 7226.1 min
+2025-07-28 05:39:10,596 - INFO - Progress: 6250/95750 (6.5%) Rate: 0.2 eval/sec ETA: 7225.9 min
+2025-07-28 05:39:10,856 - INFO - Checkpoint saved: 10500 evaluations completed
+2025-07-28 05:40:01,240 - INFO - Progress: 6260/95750 (6.5%) Rate: 0.2 eval/sec ETA: 7225.6 min
+2025-07-28 05:40:50,484 - INFO - Progress: 6270/95750 (6.5%) Rate: 0.2 eval/sec ETA: 7225.0 min
+2025-07-28 05:41:39,367 - INFO - Progress: 6280/95750 (6.6%) Rate: 0.2 eval/sec ETA: 7224.3 min
+2025-07-28 05:42:26,907 - INFO - Progress: 6290/95750 (6.6%) Rate: 0.2 eval/sec ETA: 7223.2 min
+2025-07-28 05:43:17,646 - INFO - Progress: 6300/95750 (6.6%) Rate: 0.2 eval/sec ETA: 7223.0 min
+2025-07-28 05:43:17,898 - INFO - Checkpoint saved: 10550 evaluations completed
+2025-07-28 05:44:06,518 - INFO - Progress: 6310/95750 (6.6%) Rate: 0.2 eval/sec ETA: 7222.3 min
+2025-07-28 05:44:56,985 - INFO - Progress: 6320/95750 (6.6%) Rate: 0.2 eval/sec ETA: 7221.9 min
+2025-07-28 05:45:45,929 - INFO - Progress: 6330/95750 (6.6%) Rate: 0.2 eval/sec ETA: 7221.2 min
+2025-07-28 05:46:37,202 - INFO - Progress: 6340/95750 (6.6%) Rate: 0.2 eval/sec ETA: 7221.1 min
+2025-07-28 05:47:29,128 - INFO - Progress: 6350/95750 (6.6%) Rate: 0.2 eval/sec ETA: 7221.1 min
+2025-07-28 05:47:29,389 - INFO - Checkpoint saved: 10600 evaluations completed
+2025-07-28 05:48:22,012 - INFO - Progress: 6360/95750 (6.6%) Rate: 0.2 eval/sec ETA: 7221.3 min
+2025-07-28 05:49:12,673 - INFO - Progress: 6370/95750 (6.7%) Rate: 0.2 eval/sec ETA: 7221.0 min
+2025-07-28 05:50:03,210 - INFO - Progress: 6380/95750 (6.7%) Rate: 0.2 eval/sec ETA: 7220.7 min
+2025-07-28 05:50:53,945 - INFO - Progress: 6390/95750 (6.7%) Rate: 0.2 eval/sec ETA: 7220.4 min
+2025-07-28 05:51:44,247 - INFO - Progress: 6400/95750 (6.7%) Rate: 0.2 eval/sec ETA: 7220.0 min
+2025-07-28 05:51:44,495 - INFO - Checkpoint saved: 10650 evaluations completed
+2025-07-28 05:52:35,435 - INFO - Progress: 6410/95750 (6.7%) Rate: 0.2 eval/sec ETA: 7219.9 min
+2025-07-28 05:53:25,041 - INFO - Progress: 6420/95750 (6.7%) Rate: 0.2 eval/sec ETA: 7219.3 min
+2025-07-28 05:54:14,872 - INFO - Progress: 6430/95750 (6.7%) Rate: 0.2 eval/sec ETA: 7218.8 min
+2025-07-28 05:55:05,490 - INFO - Progress: 6440/95750 (6.7%) Rate: 0.2 eval/sec ETA: 7218.5 min
+2025-07-28 05:55:54,788 - INFO - Progress: 6450/95750 (6.7%) Rate: 0.2 eval/sec ETA: 7217.9 min
+2025-07-28 05:55:55,040 - INFO - Checkpoint saved: 10700 evaluations completed
+2025-07-28 05:56:47,232 - INFO - Progress: 6460/95750 (6.7%) Rate: 0.2 eval/sec ETA: 7218.0 min
+2025-07-28 05:57:37,042 - INFO - Progress: 6470/95750 (6.8%) Rate: 0.2 eval/sec ETA: 7217.5 min
+2025-07-28 05:58:29,423 - INFO - Progress: 6480/95750 (6.8%) Rate: 0.2 eval/sec ETA: 7217.6 min
+2025-07-28 05:59:20,391 - INFO - Progress: 6490/95750 (6.8%) Rate: 0.2 eval/sec ETA: 7217.3 min
+2025-07-28 06:00:12,557 - INFO - Progress: 6500/95750 (6.8%) Rate: 0.2 eval/sec ETA: 7217.3 min
+2025-07-28 06:00:12,822 - INFO - Checkpoint saved: 10750 evaluations completed
+2025-07-28 06:01:04,284 - INFO - Progress: 6510/95750 (6.8%) Rate: 0.2 eval/sec ETA: 7217.3 min
+2025-07-28 06:01:58,166 - INFO - Progress: 6520/95750 (6.8%) Rate: 0.2 eval/sec ETA: 7217.7 min
+2025-07-28 06:02:50,746 - INFO - Progress: 6530/95750 (6.8%) Rate: 0.2 eval/sec ETA: 7217.8 min
+2025-07-28 06:03:43,578 - INFO - Progress: 6540/95750 (6.8%) Rate: 0.2 eval/sec ETA: 7218.0 min
+2025-07-28 06:04:33,297 - INFO - Progress: 6550/95750 (6.8%) Rate: 0.2 eval/sec ETA: 7217.4 min
+2025-07-28 06:04:33,552 - INFO - Checkpoint saved: 10800 evaluations completed
+2025-07-28 06:05:24,742 - INFO - Progress: 6560/95750 (6.9%) Rate: 0.2 eval/sec ETA: 7217.3 min
+2025-07-28 06:06:18,767 - INFO - Progress: 6570/95750 (6.9%) Rate: 0.2 eval/sec ETA: 7217.7 min
+2025-07-28 06:07:11,483 - INFO - Progress: 6580/95750 (6.9%) Rate: 0.2 eval/sec ETA: 7217.8 min
+2025-07-28 06:08:02,625 - INFO - Progress: 6590/95750 (6.9%) Rate: 0.2 eval/sec ETA: 7217.6 min
+2025-07-28 06:08:55,455 - INFO - Progress: 6600/95750 (6.9%) Rate: 0.2 eval/sec ETA: 7217.7 min
+2025-07-28 06:08:55,735 - INFO - Checkpoint saved: 10850 evaluations completed
+2025-07-28 06:09:47,458 - INFO - Progress: 6610/95750 (6.9%) Rate: 0.2 eval/sec ETA: 7217.7 min
+2025-07-28 06:10:38,832 - INFO - Progress: 6620/95750 (6.9%) Rate: 0.2 eval/sec ETA: 7217.5 min
+2025-07-28 06:11:29,156 - INFO - Progress: 6630/95750 (6.9%) Rate: 0.2 eval/sec ETA: 7217.1 min
+2025-07-28 06:12:21,791 - INFO - Progress: 6640/95750 (6.9%) Rate: 0.2 eval/sec ETA: 7217.2 min
+2025-07-28 06:13:14,898 - INFO - Progress: 6650/95750 (6.9%) Rate: 0.2 eval/sec ETA: 7217.4 min
+2025-07-28 06:13:15,162 - INFO - Checkpoint saved: 10900 evaluations completed
+2025-07-28 06:14:07,539 - INFO - Progress: 6660/95750 (7.0%) Rate: 0.2 eval/sec ETA: 7217.5 min
+2025-07-28 06:14:58,704 - INFO - Progress: 6670/95750 (7.0%) Rate: 0.2 eval/sec ETA: 7217.2 min
+2025-07-28 06:15:51,114 - INFO - Progress: 6680/95750 (7.0%) Rate: 0.2 eval/sec ETA: 7217.3 min
+2025-07-28 06:16:43,674 - INFO - Progress: 6690/95750 (7.0%) Rate: 0.2 eval/sec ETA: 7217.3 min
+2025-07-28 06:17:34,528 - INFO - Progress: 6700/95750 (7.0%) Rate: 0.2 eval/sec ETA: 7217.0 min
+2025-07-28 06:17:34,789 - INFO - Checkpoint saved: 10950 evaluations completed
+2025-07-28 06:18:25,313 - INFO - Progress: 6710/95750 (7.0%) Rate: 0.2 eval/sec ETA: 7216.7 min
+2025-07-28 06:19:17,568 - INFO - Progress: 6720/95750 (7.0%) Rate: 0.2 eval/sec ETA: 7216.7 min
+2025-07-28 06:20:09,740 - INFO - Progress: 6730/95750 (7.0%) Rate: 0.2 eval/sec ETA: 7216.6 min
+2025-07-28 06:21:02,147 - INFO - Progress: 6740/95750 (7.0%) Rate: 0.2 eval/sec ETA: 7216.7 min
+2025-07-28 06:21:51,004 - INFO - Progress: 6750/95750 (7.0%) Rate: 0.2 eval/sec ETA: 7215.9 min
+2025-07-28 06:21:51,259 - INFO - Checkpoint saved: 11000 evaluations completed
+2025-07-28 06:22:44,663 - INFO - Progress: 6760/95750 (7.1%) Rate: 0.2 eval/sec ETA: 7216.2 min
+2025-07-28 06:23:35,842 - INFO - Progress: 6770/95750 (7.1%) Rate: 0.2 eval/sec ETA: 7215.9 min
+2025-07-28 06:24:26,783 - INFO - Progress: 6780/95750 (7.1%) Rate: 0.2 eval/sec ETA: 7215.6 min
+2025-07-28 06:25:16,398 - INFO - Progress: 6790/95750 (7.1%) Rate: 0.2 eval/sec ETA: 7215.0 min
+2025-07-28 06:26:08,268 - INFO - Progress: 6800/95750 (7.1%) Rate: 0.2 eval/sec ETA: 7214.9 min
+2025-07-28 06:26:08,532 - INFO - Checkpoint saved: 11050 evaluations completed
+2025-07-28 06:27:01,707 - INFO - Progress: 6810/95750 (7.1%) Rate: 0.2 eval/sec ETA: 7215.1 min
+2025-07-28 06:27:52,295 - INFO - Progress: 6820/95750 (7.1%) Rate: 0.2 eval/sec ETA: 7214.7 min
+2025-07-28 06:28:44,262 - INFO - Progress: 6830/95750 (7.1%) Rate: 0.2 eval/sec ETA: 7214.6 min
+2025-07-28 06:29:36,020 - INFO - Progress: 6840/95750 (7.1%) Rate: 0.2 eval/sec ETA: 7214.5 min
+2025-07-28 06:30:27,789 - INFO - Progress: 6850/95750 (7.2%) Rate: 0.2 eval/sec ETA: 7214.3 min
+2025-07-28 06:30:28,048 - INFO - Checkpoint saved: 11100 evaluations completed
+2025-07-28 06:31:17,453 - INFO - Progress: 6860/95750 (7.2%) Rate: 0.2 eval/sec ETA: 7213.7 min
+2025-07-28 06:32:10,940 - INFO - Progress: 6870/95750 (7.2%) Rate: 0.2 eval/sec ETA: 7214.0 min
+2025-07-28 06:33:03,598 - INFO - Progress: 6880/95750 (7.2%) Rate: 0.2 eval/sec ETA: 7214.0 min
+2025-07-28 06:33:55,476 - INFO - Progress: 6890/95750 (7.2%) Rate: 0.2 eval/sec ETA: 7213.9 min
+2025-07-28 06:34:45,897 - INFO - Progress: 6900/95750 (7.2%) Rate: 0.2 eval/sec ETA: 7213.4 min
+2025-07-28 06:34:46,154 - INFO - Checkpoint saved: 11150 evaluations completed
+2025-07-28 06:35:37,253 - INFO - Progress: 6910/95750 (7.2%) Rate: 0.2 eval/sec ETA: 7213.2 min
+2025-07-28 06:36:27,969 - INFO - Progress: 6920/95750 (7.2%) Rate: 0.2 eval/sec ETA: 7212.8 min
+2025-07-28 06:37:16,094 - INFO - Progress: 6930/95750 (7.2%) Rate: 0.2 eval/sec ETA: 7211.9 min
+2025-07-28 06:38:06,392 - INFO - Progress: 6940/95750 (7.2%) Rate: 0.2 eval/sec ETA: 7211.4 min
+2025-07-28 06:38:56,630 - INFO - Progress: 6950/95750 (7.3%) Rate: 0.2 eval/sec ETA: 7210.9 min
+2025-07-28 06:38:56,932 - INFO - Checkpoint saved: 11200 evaluations completed
+2025-07-28 06:39:48,352 - INFO - Progress: 6960/95750 (7.3%) Rate: 0.2 eval/sec ETA: 7210.7 min
+2025-07-28 06:40:40,156 - INFO - Progress: 6970/95750 (7.3%) Rate: 0.2 eval/sec ETA: 7210.6 min
+2025-07-28 06:41:32,544 - INFO - Progress: 6980/95750 (7.3%) Rate: 0.2 eval/sec ETA: 7210.5 min
+2025-07-28 06:42:23,734 - INFO - Progress: 6990/95750 (7.3%) Rate: 0.2 eval/sec ETA: 7210.2 min
+2025-07-28 06:43:12,361 - INFO - Progress: 7000/95750 (7.3%) Rate: 0.2 eval/sec ETA: 7209.4 min
+2025-07-28 06:43:12,626 - INFO - Checkpoint saved: 11250 evaluations completed
+2025-07-28 06:44:04,778 - INFO - Progress: 7010/95750 (7.3%) Rate: 0.2 eval/sec ETA: 7209.4 min
+2025-07-28 06:44:55,779 - INFO - Progress: 7020/95750 (7.3%) Rate: 0.2 eval/sec ETA: 7209.0 min
+2025-07-28 06:45:45,344 - INFO - Progress: 7030/95750 (7.3%) Rate: 0.2 eval/sec ETA: 7208.4 min
+2025-07-28 06:46:37,380 - INFO - Progress: 7040/95750 (7.4%) Rate: 0.2 eval/sec ETA: 7208.3 min
+2025-07-28 06:47:29,462 - INFO - Progress: 7050/95750 (7.4%) Rate: 0.2 eval/sec ETA: 7208.2 min
+2025-07-28 06:47:29,730 - INFO - Checkpoint saved: 11300 evaluations completed
+2025-07-28 06:48:19,113 - INFO - Progress: 7060/95750 (7.4%) Rate: 0.2 eval/sec ETA: 7207.5 min
+2025-07-28 06:49:07,408 - INFO - Progress: 7070/95750 (7.4%) Rate: 0.2 eval/sec ETA: 7206.6 min
+2025-07-28 06:49:57,843 - INFO - Progress: 7080/95750 (7.4%) Rate: 0.2 eval/sec ETA: 7206.2 min
+2025-07-28 06:50:47,887 - INFO - Progress: 7090/95750 (7.4%) Rate: 0.2 eval/sec ETA: 7205.6 min
+2025-07-28 06:51:36,818 - INFO - Progress: 7100/95750 (7.4%) Rate: 0.2 eval/sec ETA: 7204.8 min
+2025-07-28 06:51:37,080 - INFO - Checkpoint saved: 11350 evaluations completed
+2025-07-28 06:52:27,789 - INFO - Progress: 7110/95750 (7.4%) Rate: 0.2 eval/sec ETA: 7204.5 min
+2025-07-28 06:53:19,462 - INFO - Progress: 7120/95750 (7.4%) Rate: 0.2 eval/sec ETA: 7204.3 min
+2025-07-28 06:54:10,310 - INFO - Progress: 7130/95750 (7.4%) Rate: 0.2 eval/sec ETA: 7203.9 min
+2025-07-28 06:55:03,918 - INFO - Progress: 7140/95750 (7.5%) Rate: 0.2 eval/sec ETA: 7204.1 min
+2025-07-28 06:55:56,454 - INFO - Progress: 7150/95750 (7.5%) Rate: 0.2 eval/sec ETA: 7204.0 min
+2025-07-28 06:55:56,719 - INFO - Checkpoint saved: 11400 evaluations completed
+2025-07-28 06:56:47,475 - INFO - Progress: 7160/95750 (7.5%) Rate: 0.2 eval/sec ETA: 7203.7 min
+2025-07-28 06:57:41,184 - INFO - Progress: 7170/95750 (7.5%) Rate: 0.2 eval/sec ETA: 7203.9 min
+2025-07-28 06:58:34,415 - INFO - Progress: 7180/95750 (7.5%) Rate: 0.2 eval/sec ETA: 7204.0 min
+2025-07-28 06:59:27,138 - INFO - Progress: 7190/95750 (7.5%) Rate: 0.2 eval/sec ETA: 7204.0 min
+2025-07-28 07:00:17,651 - INFO - Progress: 7200/95750 (7.5%) Rate: 0.2 eval/sec ETA: 7203.5 min
+2025-07-28 07:00:17,927 - INFO - Checkpoint saved: 11450 evaluations completed
+2025-07-28 07:01:09,937 - INFO - Progress: 7210/95750 (7.5%) Rate: 0.2 eval/sec ETA: 7203.4 min
+2025-07-28 07:02:00,934 - INFO - Progress: 7220/95750 (7.5%) Rate: 0.2 eval/sec ETA: 7203.0 min
+2025-07-28 07:02:51,342 - INFO - Progress: 7230/95750 (7.6%) Rate: 0.2 eval/sec ETA: 7202.6 min
+2025-07-28 07:03:44,699 - INFO - Progress: 7240/95750 (7.6%) Rate: 0.2 eval/sec ETA: 7202.7 min
+2025-07-28 07:04:37,210 - INFO - Progress: 7250/95750 (7.6%) Rate: 0.2 eval/sec ETA: 7202.6 min
+2025-07-28 07:04:37,479 - INFO - Checkpoint saved: 11500 evaluations completed
+2025-07-28 07:05:26,751 - INFO - Progress: 7260/95750 (7.6%) Rate: 0.2 eval/sec ETA: 7201.9 min
+2025-07-28 07:06:17,644 - INFO - Progress: 7270/95750 (7.6%) Rate: 0.2 eval/sec ETA: 7201.5 min
+2025-07-28 07:07:08,876 - INFO - Progress: 7280/95750 (7.6%) Rate: 0.2 eval/sec ETA: 7201.2 min
+2025-07-28 07:07:58,719 - INFO - Progress: 7290/95750 (7.6%) Rate: 0.2 eval/sec ETA: 7200.6 min
+2025-07-28 07:08:50,906 - INFO - Progress: 7300/95750 (7.6%) Rate: 0.2 eval/sec ETA: 7200.5 min
+2025-07-28 07:08:51,178 - INFO - Checkpoint saved: 11550 evaluations completed
+2025-07-28 07:09:42,337 - INFO - Progress: 7310/95750 (7.6%) Rate: 0.2 eval/sec ETA: 7200.2 min
+2025-07-28 07:10:32,401 - INFO - Progress: 7320/95750 (7.6%) Rate: 0.2 eval/sec ETA: 7199.6 min
+2025-07-28 07:11:23,576 - INFO - Progress: 7330/95750 (7.7%) Rate: 0.2 eval/sec ETA: 7199.2 min
+2025-07-28 07:12:14,472 - INFO - Progress: 7340/95750 (7.7%) Rate: 0.2 eval/sec ETA: 7198.8 min
+2025-07-28 07:13:05,037 - INFO - Progress: 7350/95750 (7.7%) Rate: 0.2 eval/sec ETA: 7198.4 min
+2025-07-28 07:13:05,305 - INFO - Checkpoint saved: 11600 evaluations completed
+2025-07-28 07:13:56,471 - INFO - Progress: 7360/95750 (7.7%) Rate: 0.2 eval/sec ETA: 7198.1 min
+2025-07-28 07:14:47,870 - INFO - Progress: 7370/95750 (7.7%) Rate: 0.2 eval/sec ETA: 7197.8 min
+2025-07-28 07:15:37,371 - INFO - Progress: 7380/95750 (7.7%) Rate: 0.2 eval/sec ETA: 7197.1 min
+2025-07-28 07:16:29,388 - INFO - Progress: 7390/95750 (7.7%) Rate: 0.2 eval/sec ETA: 7196.9 min
+2025-07-28 07:17:20,174 - INFO - Progress: 7400/95750 (7.7%) Rate: 0.2 eval/sec ETA: 7196.5 min
+2025-07-28 07:17:20,444 - INFO - Checkpoint saved: 11650 evaluations completed
+2025-07-28 07:18:09,387 - INFO - Progress: 7410/95750 (7.7%) Rate: 0.2 eval/sec ETA: 7195.7 min
+2025-07-28 07:18:59,656 - INFO - Progress: 7420/95750 (7.7%) Rate: 0.2 eval/sec ETA: 7195.2 min
+2025-07-28 07:19:48,703 - INFO - Progress: 7430/95750 (7.8%) Rate: 0.2 eval/sec ETA: 7194.4 min
+2025-07-28 07:20:37,359 - INFO - Progress: 7440/95750 (7.8%) Rate: 0.2 eval/sec ETA: 7193.5 min
+2025-07-28 07:21:27,888 - INFO - Progress: 7450/95750 (7.8%) Rate: 0.2 eval/sec ETA: 7193.0 min
+2025-07-28 07:21:28,161 - INFO - Checkpoint saved: 11700 evaluations completed
+2025-07-28 07:22:17,836 - INFO - Progress: 7460/95750 (7.8%) Rate: 0.2 eval/sec ETA: 7192.4 min
+2025-07-28 07:23:06,805 - INFO - Progress: 7470/95750 (7.8%) Rate: 0.2 eval/sec ETA: 7191.6 min
+2025-07-28 07:23:56,574 - INFO - Progress: 7480/95750 (7.8%) Rate: 0.2 eval/sec ETA: 7191.0 min
+2025-07-28 07:24:44,192 - INFO - Progress: 7490/95750 (7.8%) Rate: 0.2 eval/sec ETA: 7189.9 min
+2025-07-28 07:25:32,842 - INFO - Progress: 7500/95750 (7.8%) Rate: 0.2 eval/sec ETA: 7189.1 min
+2025-07-28 07:25:33,114 - INFO - Checkpoint saved: 11750 evaluations completed
+2025-07-28 07:26:23,872 - INFO - Progress: 7510/95750 (7.8%) Rate: 0.2 eval/sec ETA: 7188.7 min
+2025-07-28 07:27:12,851 - INFO - Progress: 7520/95750 (7.9%) Rate: 0.2 eval/sec ETA: 7187.9 min
+2025-07-28 07:28:01,730 - INFO - Progress: 7530/95750 (7.9%) Rate: 0.2 eval/sec ETA: 7187.1 min
+2025-07-28 07:28:51,413 - INFO - Progress: 7540/95750 (7.9%) Rate: 0.2 eval/sec ETA: 7186.4 min
+2025-07-28 07:29:40,204 - INFO - Progress: 7550/95750 (7.9%) Rate: 0.2 eval/sec ETA: 7185.6 min
+2025-07-28 07:29:40,469 - INFO - Checkpoint saved: 11800 evaluations completed
+2025-07-28 07:30:29,067 - INFO - Progress: 7560/95750 (7.9%) Rate: 0.2 eval/sec ETA: 7184.8 min
+2025-07-28 07:31:19,791 - INFO - Progress: 7570/95750 (7.9%) Rate: 0.2 eval/sec ETA: 7184.3 min
+2025-07-28 07:32:07,698 - INFO - Progress: 7580/95750 (7.9%) Rate: 0.2 eval/sec ETA: 7183.3 min
+2025-07-28 07:32:58,272 - INFO - Progress: 7590/95750 (7.9%) Rate: 0.2 eval/sec ETA: 7182.8 min
+2025-07-28 07:33:49,001 - INFO - Progress: 7600/95750 (7.9%) Rate: 0.2 eval/sec ETA: 7182.4 min
+2025-07-28 07:33:49,303 - INFO - Checkpoint saved: 11850 evaluations completed
+2025-07-28 07:34:38,467 - INFO - Progress: 7610/95750 (7.9%) Rate: 0.2 eval/sec ETA: 7181.7 min
+2025-07-28 07:35:28,021 - INFO - Progress: 7620/95750 (8.0%) Rate: 0.2 eval/sec ETA: 7181.0 min
+2025-07-28 07:36:17,135 - INFO - Progress: 7630/95750 (8.0%) Rate: 0.2 eval/sec ETA: 7180.2 min
+2025-07-28 07:37:05,371 - INFO - Progress: 7640/95750 (8.0%) Rate: 0.2 eval/sec ETA: 7179.3 min
+2025-07-28 07:37:55,068 - INFO - Progress: 7650/95750 (8.0%) Rate: 0.2 eval/sec ETA: 7178.6 min
+2025-07-28 07:37:55,344 - INFO - Checkpoint saved: 11900 evaluations completed
+2025-07-28 07:38:45,120 - INFO - Progress: 7660/95750 (8.0%) Rate: 0.2 eval/sec ETA: 7178.0 min
+2025-07-28 07:39:32,658 - INFO - Progress: 7670/95750 (8.0%) Rate: 0.2 eval/sec ETA: 7176.9 min
+2025-07-28 07:40:22,378 - INFO - Progress: 7680/95750 (8.0%) Rate: 0.2 eval/sec ETA: 7176.3 min
+2025-07-28 07:41:11,563 - INFO - Progress: 7690/95750 (8.0%) Rate: 0.2 eval/sec ETA: 7175.5 min
+2025-07-28 07:42:00,889 - INFO - Progress: 7700/95750 (8.0%) Rate: 0.2 eval/sec ETA: 7174.8 min
+2025-07-28 07:42:01,175 - INFO - Checkpoint saved: 11950 evaluations completed
+2025-07-28 07:42:51,543 - INFO - Progress: 7710/95750 (8.1%) Rate: 0.2 eval/sec ETA: 7174.3 min
+2025-07-28 07:43:39,592 - INFO - Progress: 7720/95750 (8.1%) Rate: 0.2 eval/sec ETA: 7173.3 min
+2025-07-28 07:44:29,887 - INFO - Progress: 7730/95750 (8.1%) Rate: 0.2 eval/sec ETA: 7172.8 min
+2025-07-28 07:45:19,798 - INFO - Progress: 7740/95750 (8.1%) Rate: 0.2 eval/sec ETA: 7172.2 min
+2025-07-28 07:46:08,927 - INFO - Progress: 7750/95750 (8.1%) Rate: 0.2 eval/sec ETA: 7171.4 min
+2025-07-28 07:46:09,194 - INFO - Checkpoint saved: 12000 evaluations completed
+2025-07-28 07:46:59,053 - INFO - Progress: 7760/95750 (8.1%) Rate: 0.2 eval/sec ETA: 7170.8 min
+2025-07-28 07:47:48,444 - INFO - Progress: 7770/95750 (8.1%) Rate: 0.2 eval/sec ETA: 7170.1 min
+2025-07-28 07:48:37,720 - INFO - Progress: 7780/95750 (8.1%) Rate: 0.2 eval/sec ETA: 7169.4 min
+2025-07-28 07:49:27,896 - INFO - Progress: 7790/95750 (8.1%) Rate: 0.2 eval/sec ETA: 7168.8 min
+2025-07-28 07:50:18,012 - INFO - Progress: 7800/95750 (8.1%) Rate: 0.2 eval/sec ETA: 7168.2 min
+2025-07-28 07:50:18,280 - INFO - Checkpoint saved: 12050 evaluations completed
+2025-07-28 07:51:08,734 - INFO - Progress: 7810/95750 (8.2%) Rate: 0.2 eval/sec ETA: 7167.7 min
+2025-07-28 07:51:59,607 - INFO - Progress: 7820/95750 (8.2%) Rate: 0.2 eval/sec ETA: 7167.3 min
+2025-07-28 07:52:47,968 - INFO - Progress: 7830/95750 (8.2%) Rate: 0.2 eval/sec ETA: 7166.4 min
+2025-07-28 07:53:37,817 - INFO - Progress: 7840/95750 (8.2%) Rate: 0.2 eval/sec ETA: 7165.7 min
+2025-07-28 07:54:27,165 - INFO - Progress: 7850/95750 (8.2%) Rate: 0.2 eval/sec ETA: 7165.0 min
+2025-07-28 07:54:27,434 - INFO - Checkpoint saved: 12100 evaluations completed
+2025-07-28 07:55:15,894 - INFO - Progress: 7860/95750 (8.2%) Rate: 0.2 eval/sec ETA: 7164.1 min
+2025-07-28 07:56:06,680 - INFO - Progress: 7870/95750 (8.2%) Rate: 0.2 eval/sec ETA: 7163.7 min
+2025-07-28 07:56:55,765 - INFO - Progress: 7880/95750 (8.2%) Rate: 0.2 eval/sec ETA: 7162.9 min
+2025-07-28 07:57:44,718 - INFO - Progress: 7890/95750 (8.2%) Rate: 0.2 eval/sec ETA: 7162.1 min
+2025-07-28 07:58:33,936 - INFO - Progress: 7900/95750 (8.3%) Rate: 0.2 eval/sec ETA: 7161.3 min
+2025-07-28 07:58:34,207 - INFO - Checkpoint saved: 12150 evaluations completed
+2025-07-28 07:59:23,476 - INFO - Progress: 7910/95750 (8.3%) Rate: 0.2 eval/sec ETA: 7160.6 min
+2025-07-28 08:00:13,490 - INFO - Progress: 7920/95750 (8.3%) Rate: 0.2 eval/sec ETA: 7160.0 min
+2025-07-28 08:01:02,573 - INFO - Progress: 7930/95750 (8.3%) Rate: 0.2 eval/sec ETA: 7159.2 min
+2025-07-28 08:01:53,170 - INFO - Progress: 7940/95750 (8.3%) Rate: 0.2 eval/sec ETA: 7158.7 min
+2025-07-28 08:02:44,191 - INFO - Progress: 7950/95750 (8.3%) Rate: 0.2 eval/sec ETA: 7158.3 min
+2025-07-28 08:02:44,464 - INFO - Checkpoint saved: 12200 evaluations completed
+2025-07-28 08:03:33,733 - INFO - Progress: 7960/95750 (8.3%) Rate: 0.2 eval/sec ETA: 7157.6 min
+2025-07-28 08:04:26,117 - INFO - Progress: 7970/95750 (8.3%) Rate: 0.2 eval/sec ETA: 7157.4 min
+2025-07-28 08:05:16,806 - INFO - Progress: 7980/95750 (8.3%) Rate: 0.2 eval/sec ETA: 7156.9 min
+2025-07-28 08:06:04,063 - INFO - Progress: 7990/95750 (8.3%) Rate: 0.2 eval/sec ETA: 7155.8 min
+2025-07-28 08:06:53,768 - INFO - Progress: 8000/95750 (8.4%) Rate: 0.2 eval/sec ETA: 7155.1 min
+2025-07-28 08:06:54,043 - INFO - Checkpoint saved: 12250 evaluations completed
+2025-07-28 08:07:41,714 - INFO - Progress: 8010/95750 (8.4%) Rate: 0.2 eval/sec ETA: 7154.1 min
