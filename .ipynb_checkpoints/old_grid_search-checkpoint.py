@@ -26,7 +26,7 @@ SEEDS = [42] if TRIAL_MODE == 'fixed_seed' else [123, 456, 11, 245, 56712, 23467
 TRIALS_PER_CONFIG = 30
 
 # Hyperparameter grids
-LOOKBACKS = [9, 11, 12]
+LOOKBACKS = [3, 5, 7, 9, 11, 12]
 BATCH_SIZES = [8, 16, 32]
 EPOCHS_LIST = [50, 100]
 
