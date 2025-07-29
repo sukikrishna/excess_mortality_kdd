@@ -20,7 +20,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 # ------------------ CONFIGURATION ------------------ #
-MODEL_TYPE = 'lstm'  # Options: 'lstm', 'sarima', 'tcn', 'seq2seq', 'seq2seq_attn', 'transformer'
+MODEL_TYPE = 'seq2seq_attn'  # Options: 'lstm', 'sarima', 'tcn', 'seq2seq', 'seq2seq_attn', 'transformer'
 TRIAL_MODE = 'fixed_seed'  # Options: 'fixed_seed', 'multi_seed'
 SEEDS = [42] if TRIAL_MODE == 'fixed_seed' else [123, 456, 11, 245, 56712, 23467, 98, 38, 1506, 42]
 
@@ -30,7 +30,7 @@ NUM_US_STATES = 50
 # Updated hyperparameter grids with expanded ranges
 # Expanded lookbacks (1-12 plus larger values)
 LOOKBACKS = list(range(1, 13)) + [18, 24]
-# LOOKBACKS = [18, 24]
+# LOOKBACKS = [24]
 
 # Batch sizes (added 48 for full series)
 BATCH_SIZES = [8, 16, 32, 48]

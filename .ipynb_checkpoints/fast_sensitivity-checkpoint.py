@@ -81,7 +81,7 @@ class FastModelSensitivityAnalyzer:
                     'model_type': 'lstm',
                     'lookback': 9,
                     'batch_size': 8,
-                    'epochs': 50
+                    'epochs': 30
                 },
                 'LSTM_Config3': {
                     'model_type': 'lstm',

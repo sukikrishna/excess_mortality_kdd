@@ -1,0 +1,69 @@
+{
+  "optimal_params": {
+    "lstm": {
+      "lookback": 5,
+      "batch_size": 8,
+      "epochs": 50
+    },
+    "seq2seq": {
+      "lookback": 7,
+      "batch_size": 16,
+      "epochs": 100,
+      "encoder_units": 64,
+      "decoder_units": 64
+    },
+    "seq2seq_attn": {
+      "lookback": 5,
+      "batch_size": 16,
+      "epochs": 50,
+      "encoder_units": 128,
+      "decoder_units": 64
+    },
+    "tcn": {
+      "lookback": 7,
+      "batch_size": 8,
+      "epochs": 100
+    },
+    "transformer": {
+      "lookback": 7,
+      "batch_size": 32,
+      "epochs": 100,
+      "d_model": 64,
+      "n_heads": 2
+    },
+    "sarima": {
+      "order": [
+        1,
+        0,
+        0
+      ],
+      "seasonal_order": [
+        1,
+        1,
+        1,
+        12
+      ]
+    }
+  },
+  "horizon_years": [
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "horizon_labels": [
+    "2020",
+    "2020-2021",
+    "2020-2022",
+    "2020-2023"
+  ],
+  "seeds": [
+    42,
+    123,
+    456,
+    789,
+    1000
+  ],
+  "trials_per_seed": 20,
+  "evaluation_date": "2025-07-29T16:23:47.138351"
+}
