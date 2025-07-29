@@ -48,7 +48,7 @@ def load_summary_metrics(file_path):
         print(f"Error loading {file_path}: {e}")
         return None
 
-def consolidate_single_model(model_name, results_dir='results'):
+def consolidate_single_model(model_name, results_dir='results_old_val'):
     """Consolidate hyperparameter results for a single model and save in model folder"""
     model_path = Path(results_dir) / model_name / 'fixed_seed_variability'
     
@@ -128,7 +128,7 @@ def consolidate_single_model(model_name, results_dir='results'):
     
     print()
 
-def process_all_models(model_names, results_dir='results_updated'):
+def process_all_models(model_names, results_dir='results_old_val'):
     """Process all specified models"""
     print("="*60)
     print("CONSOLIDATING HYPERPARAMETER RESULTS")
