@@ -60,7 +60,7 @@ class FastModelSensitivityAnalyzer:
         self.use_full_models = use_full_models
         
         # Create output directories
-        self.output_dir = 'fast_sensitivity_analysis'
+        self.output_dir = 'fast_sensitivity_analysis_2'
         self.results_dir = os.path.join(self.output_dir, 'results')
         self.plots_dir = os.path.join(self.output_dir, 'plots')
         
@@ -97,7 +97,7 @@ class FastModelSensitivityAnalyzer:
                     'model_type': 'lstm',
                     'lookback': 9,
                     'batch_size': 8,
-                    'epochs': 100
+                    'epochs': 30
                 }
             }
         
