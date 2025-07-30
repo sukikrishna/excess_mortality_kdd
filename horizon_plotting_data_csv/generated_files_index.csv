@@ -1,13 +1,16 @@
 File_Type,File_Name,Description
 CSV,horizon_data_seq2seq_vs_sarima_2020-2021.csv,Raw plotting data for custom analysis
+CSV,model_and_sarima_metrics_with_std.csv,Enhanced visualization
 CSV,horizon_data_lstm_vs_sarima_2020-2022.csv,Raw plotting data for custom analysis
 CSV,horizon_data_tcn_vs_sarima_2020-2023.csv,Raw plotting data for custom analysis
 CSV,horizon_comprehensive_metrics.csv,Comprehensive metrics across horizons
+CSV,model_metrics_summary_with_std.csv,Enhanced visualization
 CSV,horizon_data_lstm_vs_sarima_2020-2021.csv,Raw plotting data for custom analysis
 CSV,horizon_data_transformer_vs_sarima_2020.csv,Raw plotting data for custom analysis
 CSV,horizon_data_lstm_vs_sarima_2020-2023.csv,Raw plotting data for custom analysis
 CSV,horizon_data_seq2seq_vs_sarima_2020-2023.csv,Raw plotting data for custom analysis
 CSV,horizon_data_transformer_vs_sarima_2020-2022.csv,Raw plotting data for custom analysis
+CSV,model_metrics_summary.csv,Enhanced visualization
 CSV,horizon_data_transformer_vs_sarima_2020-2023.csv,Raw plotting data for custom analysis
 CSV,horizon_data_tcn_vs_sarima_2020.csv,Raw plotting data for custom analysis
 CSV,horizon_data_seq2seq_attn_vs_sarima_2020-2022.csv,Raw plotting data for custom analysis
@@ -15,6 +18,7 @@ CSV,horizon_data_transformer_vs_sarima_2020-2021.csv,Raw plotting data for custo
 CSV,horizon_data_seq2seq_attn_vs_sarima_2020-2021.csv,Raw plotting data for custom analysis
 CSV,horizon_data_seq2seq_vs_sarima_2020.csv,Raw plotting data for custom analysis
 CSV,horizon_comparison_summary.csv,Comparison summary statistics
+CSV,generated_files_index.csv,Enhanced visualization
 CSV,horizon_data_tcn_vs_sarima_2020-2021.csv,Raw plotting data for custom analysis
 CSV,horizon_data_lstm_vs_sarima_2020.csv,Raw plotting data for custom analysis
 CSV,horizon_data_seq2seq_attn_vs_sarima_2020.csv,Raw plotting data for custom analysis

@@ -14,8 +14,8 @@ plt.style.use('seaborn-v0_8-whitegrid')
 sns.set_palette("husl")
 
 # Configuration
-RESULTS_DIR = 'efficient_evaluation_results'
-PLOTS_DIR = 'enhanced_model_comparison_plots'
+RESULTS_DIR = 'efficient_evaluation_results_more_hyp'
+PLOTS_DIR = 'enhanced_model_comparison_plots_more_hyp'
 CSV_DIR = 'horizon_plotting_data_csv'
 os.makedirs(PLOTS_DIR, exist_ok=True)
 os.makedirs(CSV_DIR, exist_ok=True)
