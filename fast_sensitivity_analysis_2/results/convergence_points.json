@@ -1,0 +1,11 @@
+[
+  {
+    "model_name": "LSTM_Config2",
+    "converged_trials": 10,
+    "converged_seeds": 6,
+    "cv_at_convergence": 0.8549021482467651,
+    "mean_rmse_at_convergence": 421.6490478515625,
+    "total_evaluations": 60,
+    "converged": false
+  }
+]

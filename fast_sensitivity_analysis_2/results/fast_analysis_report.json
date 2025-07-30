@@ -1,0 +1,32 @@
+{
+  "analysis_summary": {
+    "analysis_type": "Fast LSTM-focused sensitivity analysis",
+    "models_evaluated": [
+      "LSTM_Config2"
+    ],
+    "total_evaluations": 2500,
+    "success_rate": 1.0,
+    "analysis_date": "2025-07-30T03:57:43.125004"
+  },
+  "convergence_analysis": {
+    "model_name": "LSTM_Config2",
+    "converged_trials": 10,
+    "converged_seeds": 6,
+    "cv_at_convergence": 0.8549021482467651,
+    "mean_rmse_at_convergence": 421.6490478515625,
+    "total_evaluations": 60,
+    "converged": false
+  },
+  "best_configuration": {
+    "trials": 10,
+    "seeds": 6,
+    "cv_rmse": 0.8549021482467651,
+    "mean_rmse": 421.6490478515625,
+    "total_evaluations": 60
+  },
+  "computational_analysis": {
+    "total_compute_time": 23484.44698524475,
+    "avg_time_per_evaluation": 9.3937787940979,
+    "evaluations_per_second": 0.1064534328430534
+  }
+}

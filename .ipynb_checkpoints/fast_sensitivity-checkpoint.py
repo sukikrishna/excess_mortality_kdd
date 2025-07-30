@@ -60,7 +60,7 @@ class FastModelSensitivityAnalyzer:
         self.use_full_models = use_full_models
         
         # Create output directories
-        self.output_dir = 'fast_sensitivity_analysis_2'
+        self.output_dir = 'fast_sensitivity_analysis_3'
         self.results_dir = os.path.join(self.output_dir, 'results')
         self.plots_dir = os.path.join(self.output_dir, 'plots')
         

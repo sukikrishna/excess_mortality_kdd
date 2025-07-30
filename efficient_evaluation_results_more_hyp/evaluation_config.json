@@ -1,0 +1,70 @@
+{
+  "optimal_params": {
+    "lstm": {
+      "lookback": 24,
+      "batch_size": 16,
+      "epochs": 150
+    },
+    "seq2seq": {
+      "lookback": 3,
+      "batch_size": 32,
+      "epochs": 150,
+      "encoder_units": 64,
+      "decoder_units": 64
+    },
+    "seq2seq_attn": {
+      "lookback": 3,
+      "batch_size": 32,
+      "epochs": 150,
+      "encoder_units": 64,
+      "decoder_units": 64
+    },
+    "tcn": {
+      "lookback": 8,
+      "batch_size": 8,
+      "epochs": 200
+    },
+    "transformer": {
+      "lookback": 6,
+      "batch_size": 32,
+      "epochs": 100,
+      "d_model": 64,
+      "n_heads": 4
+    },
+    "sarima": {
+      "order": [
+        1,
+        1,
+        0
+      ],
+      "seasonal_order": [
+        2,
+        1,
+        1,
+        12
+      ]
+    }
+  },
+  "horizon_months": [
+    12,
+    24,
+    36,
+    48
+  ],
+  "horizon_labels": [
+    "2020",
+    "2020-2021",
+    "2020-2022",
+    "2020-2023"
+  ],
+  "seeds": [
+    42,
+    123,
+    456,
+    789,
+    1000
+  ],
+  "trials_per_seed": 20,
+  "evaluation_date": "2025-07-30T00:51:51.519024",
+  "approach": "efficient_single_training"
+}

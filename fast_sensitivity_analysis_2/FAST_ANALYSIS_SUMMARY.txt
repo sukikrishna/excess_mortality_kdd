@@ -1,0 +1,57 @@
+
+FAST MODEL SENSITIVITY ANALYSIS - FOCUSED REPORT
+================================================
+
+ANALYSIS OVERVIEW:
+- Analysis Type: LSTM_Config2 Focused Analysis
+- Total Evaluations: 2,500
+- Success Rate: 100.0%
+- Focus Model: LSTM_Config2
+
+CONVERGENCE ANALYSIS:
+
+⚠ PARTIAL CONVERGENCE:
+  - Best Available Trials: 10
+  - Best Available Seeds: 6
+  - Best CV Achieved: 0.8549
+  - Mean RMSE: 421.6490
+  - Consider increasing max parameters for full convergence
+
+BEST CONFIGURATION FOUND:
+- Optimal Trials: 10
+- Optimal Seeds: 6
+- Coefficient of Variation: 0.8549
+- Mean RMSE: 421.6490
+- Total Evaluations: 60
+
+COMPUTATIONAL EFFICIENCY:
+- Total Compute Time: 23484.4 seconds
+- Average Time per Evaluation: 9.39 seconds
+- Throughput: 0.1 evaluations/second
+
+RECOMMENDATIONS FOR FULL MODEL EVALUATION:
+
+1. PROXY-BASED RECOMMENDATION:
+   - Use 10 trials and 6 seeds for all models
+   - Expected stability: CV ≈ 0.8549
+   - Computational cost per model: ~60 evaluations
+
+2. CONFIDENCE LEVEL: Medium
+   - LSTM_Config2 showed improving performance
+   - Other models likely to follow similar convergence patterns
+   - Consider validation with 1-2 additional models if critical
+
+3. IMPLEMENTATION STRATEGY:
+   - Start with recommended parameters for full hyperparameter search
+   - Monitor early results for consistency with proxy analysis
+   - Adjust if other models show significantly different behavior
+
+OUTPUT FILES:
+- Raw Results: fast_sensitivity_analysis_2/results/fast_trial_results.csv
+- Performance Analysis: fast_sensitivity_analysis_2/results/fast_performance_analysis.csv
+- Convergence Analysis: fast_sensitivity_analysis_2/results/convergence_analysis.csv
+- Convergence Points: fast_sensitivity_analysis_2/results/convergence_points.json
+- Analysis Report: fast_sensitivity_analysis_2/results/fast_analysis_report.json
+- Visualization Plots: fast_sensitivity_analysis_2/plots/
+
+Generated on: 2025-07-30 03:57:43
