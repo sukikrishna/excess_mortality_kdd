@@ -57,33 +57,33 @@ sns.set_palette("husl")
 # ==================== CONFIGURATION ====================
 
 # Optimal hyperparameters from grid search results
-# OPTIMAL_PARAMS = {
-#     'lstm': {'lookback': 5, 'batch_size': 8, 'epochs': 50},
-#     'seq2seq': {'lookback': 7, 'batch_size': 16, 'epochs': 100, 'encoder_units': 64, 'decoder_units': 64},
-#     'seq2seq_attn': {'lookback': 5, 'batch_size': 16, 'epochs': 50, 'encoder_units': 128, 'decoder_units': 64},
-#     'tcn': {'lookback': 7, 'batch_size': 8, 'epochs': 100},
-#     'transformer': {'lookback': 7, 'batch_size': 32, 'epochs': 100, 'd_model': 64, 'n_heads': 2},
-#     'sarima': {'order': (1, 0, 0), 'seasonal_order': (1, 1, 1, 12)},
-# }
-
 OPTIMAL_PARAMS = {
-    'lstm': {'lookback': 24, 'batch_size': 16, 'epochs': 150},
-    'seq2seq': {'lookback': 3, 'batch_size': 32, 'epochs': 150, 'encoder_units': 64, 'decoder_units': 64},
-    'seq2seq_attn': {'lookback': 3, 'batch_size': 32, 'epochs': 150, 'encoder_units': 64, 'decoder_units': 64},
-    'tcn': {'lookback': 8, 'batch_size': 8, 'epochs': 200},
-    'transformer': {'lookback': 6, 'batch_size': 32, 'epochs': 100, 'd_model': 64, 'n_heads': 4},
-    'sarima': {'order': (1, 1, 0), 'seasonal_order': (2, 1, 1, 12)},
+    'lstm': {'lookback': 5, 'batch_size': 8, 'epochs': 50},
+    'seq2seq': {'lookback': 7, 'batch_size': 16, 'epochs': 100, 'encoder_units': 64, 'decoder_units': 64},
+    'seq2seq_attn': {'lookback': 5, 'batch_size': 16, 'epochs': 50, 'encoder_units': 128, 'decoder_units': 64},
+    'tcn': {'lookback': 7, 'batch_size': 8, 'epochs': 100},
+    'transformer': {'lookback': 7, 'batch_size': 32, 'epochs': 100, 'd_model': 64, 'n_heads': 2},
+    'sarima': {'order': (1, 0, 0), 'seasonal_order': (1, 1, 1, 12)},
 }
+
+# OPTIMAL_PARAMS = {
+#     'lstm': {'lookback': 24, 'batch_size': 16, 'epochs': 150},
+#     'seq2seq': {'lookback': 3, 'batch_size': 32, 'epochs': 150, 'encoder_units': 64, 'decoder_units': 64},
+#     'seq2seq_attn': {'lookback': 3, 'batch_size': 32, 'epochs': 150, 'encoder_units': 64, 'decoder_units': 64},
+#     'tcn': {'lookback': 8, 'batch_size': 8, 'epochs': 200},
+#     'transformer': {'lookback': 6, 'batch_size': 32, 'epochs': 100, 'd_model': 64, 'n_heads': 4},
+#     'sarima': {'order': (1, 1, 0), 'seasonal_order': (2, 1, 1, 12)},
+# }
 
 # Evaluation configuration
 HORIZON_MONTHS = [12, 24, 36, 48]  # Corresponding to 2020, 2020-2021, 2020-2022, 2020-2023
 HORIZON_LABELS = ['2020', '2020-2021', '2020-2022', '2020-2023']
 SEEDS = [42, 123, 456, 789, 1000]
-TRIALS_PER_SEED = 20  # Total trials = 5 seeds × 20 = 100 per model
+TRIALS_PER_SEED = 100  # Total trials = 5 seeds × 20 = 100 per model
 
 # Paths
 DATA_PATH = 'data_updated/state_month_overdose_2015_2023.xlsx'
-RESULTS_DIR = 'efficient_evaluation_results_more_hyp'
+RESULTS_DIR = 'efficient_evaluation_results_more_trials'
 PLOTS_DIR = os.path.join(RESULTS_DIR, 'plots')
 
 # Create directories
